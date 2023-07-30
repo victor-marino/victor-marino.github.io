@@ -1,0 +1,54 @@
+.tab {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -30px;
+    padding: 0;
+    list-style: none;
+    position: relative;
+}
+
+.tab>* {
+    flex: none;
+    /* Remove left padding so that tabs are aligned to the line start */
+    /* padding-left: 20px; */
+    padding-left: 0px;
+    position: relative;
+}
+
+.tab>*>a {
+    display: block;
+    text-align: center;
+    padding: 9px 20px;
+    color: #999;
+    border-bottom: 2px solid transparent;
+    border-bottom-color: transparent;
+    font-size: 12px;
+    text-transform: uppercase;
+    transition: color .1s ease-in-out;
+    line-height: 20px;
+}
+
+.tab>.active>a {
+    /* color: #222; */
+    color: #1e87f0;
+    border-color: #1e87f0;
+}
+
+.tab li a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.tab-content {
+    padding: 0;
+    /* Tuck tab contents to the left so there's no indent */
+    margin-left: -30px;
+}
+
+.tab-content li {
+    display: none;
+}
+
+.tab-content li.active {
+    display: initial;
+}
