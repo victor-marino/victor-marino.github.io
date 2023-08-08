@@ -93,8 +93,8 @@ languages:
         enable: true
         intro: "Hola, soy"
         title: "Víctor."
-        subtitle: "Ingeniero de telecomunicaciones y desarrollador de software"
-        content: "12+ años de experiencia en la industria de las telecomunicaciones y pasión por la programación"
+        # subtitle: "Ingeniero de telecomunicaciones y desarrollador de software"
+        content: "Ingeniero de telecomunicaciones / Desarrollador de software"
         image: /images/victor_2022_medium.jpg
         bottomImage:
           enable: true
@@ -114,6 +114,24 @@ languages:
           # customIcons:
           #   - icon: /fav.png
           #     url: "https://example.com"
+      about:
+        enable: true
+        title: "Sobre mí"
+        image: "/images/victor_2022_medium.jpg"
+        content: |-
+          Soy un desarrollador de software con una marcada formación en telecomunicaciones y redes móviles. Con más de 12 años de experiecia en el sector de las telecomunicaciones, he trabajado en una gran variedad de roles y áreas, como la arquitectura, diseño and optimización de red, servicios de baja latencia, casos de uso de 5G y numerosos proyectos de innovación.
+          
+          Desde 2020, mi trabajo se centra en el desarrollo de APIs para exponer funcionalidades de red al exterior, haciendo las redes móviles más abiertas, eficientes e interoperables.
+          
+          También me gusta desarrollar apps móviles en mi tiempo libre.
+        skills:
+          enable: true
+          title: "Algunas de las tecnologías con las que trabajo habitualmente:"
+          items:
+            - "Python"
+            - "Go"
+            - "Kubernetes"
+            - "Flutter"
 
 outputs:
   home:
@@ -231,8 +249,8 @@ params:
     enable: true
     intro: "Hi, I'm"
     title: "Víctor."
-    subtitle: "Telecom engineer and software developer"
-    content: "12+ years of experience in the telecom industry and a passion for coding"
+    #subtitle: "Telecom engineer and software developer"
+    content: "Telecom engineer / Software developer"
     image: /images/victor_2022_medium.jpg
     bottomImage:
       enable: true
@@ -259,84 +277,126 @@ params:
     title: "About Me"
     image: "/images/victor_2022_medium.jpg"
     content: |-
-      I am a software developer with over 12 years of experience in many areas related to mobile networks, ranging from its architecture, design and optimization to API development and integration. I have a background in Telecommunications and Industrial Engineering, and I also enjoy creating mobile apps in my free time.
-
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      I am a software developer with a strong background in telecommunications and mobile networks. With over 12 years of experience in the telecom industry, I've worked in a wide range of roles and areas, including network architecture, design and optimization, low latency services, 5G use cases and many innovation projects.
+      
+      Since 2020, my work has been focused on developing APIs to expose network capabilities to the outside, making mobile networks more open, efficient and interoperable.
+      
+      I also enjoy developing mobile apps in my free time.
     skills:
-      enable: true
+      enable: false
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "Python"
+        - "Go"
+        - "Kubernetes"
+        - "Flutter"
 
   # Experience
   experience:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Senior Software Developer"
-        company: "Facebook"
-        companyUrl: "https://example.com"
-        date: "Jan 2022 - present"
+      - job: "Microservice design and development"
+        company: "Python"
+        date: "Apr 2020 - present"
         featuredLink:
           enable: true
-          name: "View the project"
-          url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
-
-      - job: "Software Developer"
-        company: "Amazon"
-        companyUrl: "https://example.com"
-        date: "Sep 2020 - Dec 2021"
-        featuredLink:
-          enable: true
-          url: "https://example.com"
+          name: "Network as a Platform"
+          url: "https://www.vodafone.com/what-we-do/technology/network-as-platform-naap"
         info:
+          enable: false
+        content: |-
+          At Vodafone, the Network as a Platform team is creating an API layer to expose internal network capabilities through the public cloud. We use a microservice-based architecture, with Python as our primary language.
+          
+          As a software developer in this team, here are some of the tasks and technologies I've worked on:
+            - End to end API design
+            - Dev lead for multiple APIs
+            - Microservice development
+            - Integration with legacy backend systems
+            - Unit testing and mocking
+            - Kubernetes configuration and deployment
+            - Jenkins pipelines for CI/CD
+            - End to end testing with commercial customers in production
+
+      - job: "API gateway design and development"
+        company: "Go"
+        date: "Apr 2020 - present"
+        featuredLink:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
+          name: "Network as a Platform"
+          url: "https://www.vodafone.com/what-we-do/technology/network-as-platform-naap"
+        info:
+          enable: false
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          At Vodafone, the Network as a Platform team is creating an API layer to expose internal network capabilities through the public cloud. To better fulfill our requirements, we decided to develop our own API gateway, written in Go.
+          
+          As a software developer in this team, here are some of the tasks and technologies I've worked on:
+            - Contribution to multiple modules: configuration, handlers, logging, rate-limiting, etc.
+            - Idiomatic, interface-based code and architecture.
+            - Unit testing and mocking
+            - Kubernetes infrastructure
+            - Jenkins pipelines (CI/CD)
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
-      - job: "Junior Software Developer"
-        company: "Apple"
-        companyUrl: "https://example.com"
-        date: "Jan 2020 - Aug 2020"
+      - job: "Mobile app development"
+        company: "Flutter"
+        date: "Mar 2020 - Aug 2022"
         info:
           enable: false
         featuredLink:
           enable: true
-          url: "https://example.com"
+          name: "Indexa X"
+          url: "https://github.com/victor-marino/indexax"
         content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+          Indexa X is a cross-platform and open-source app for customers of investment firm Indexa Capital. It's available for Android and iOS, and can be used as an alternative to the official app.
 
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
+          Some of its main features:
+          - Visual and intuitive design with beautiful charts
+          - Smooth animations and great performance throughout the app
+          - Native UI elements in both Android and iOS
+          - Dark mode available
+          - Biometrics support
+          - Secure: uses the official API offered by Indexa Capital
+          - Privacy-focused: Doesn't collect or store any data
 
-      - job: "UI/UX Designer"
-        company: "Netflix"
-        companyUrl: "https://example.com"
-        date: "June 2017 - Nov 2019"
+      - job: "Portfolio Management and Innovation"
+        company: "Innovation"
+        date: "Sep 2016 - Apr 2020"
+        info:
+          enable: false
         featuredLink:
-          enable: true
-          url: "https://example.com"
+          enable: false
+        content: |
+          In 2016
+
+          - Lead backend developer for a product.
+          - Created a frontend design for a product.
+      
+      - job: "Performance Engineer"
+        company: "Network Performance"
+        date: "Sep 2012 - Oct 2016"
+        info:
+          enable: false
+        featuredLink:
+          enable: false
+        content: |
+          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
+
+          - Lead backend developer for a product.
+          - Created a frontend design for a product.
+  
+      - job: "Product Engineer"
+        company: "Network Product"
+        date: "May 2011 - Sep 2012"
+        info:
+          enable: false
+        featuredLink:
+          enable: false
         content: |
           I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
 
           - Lead backend developer for a product.
           - Created a frontend design for a product.
 
-      - job: "Product Designer"
-        company: "Google"
-        companyUrl: "https://example.com"
-        date: "Feb 2016 - Mar 2017"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
   # Education
   education:
