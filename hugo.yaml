@@ -40,7 +40,7 @@ languages:
           url: /#contact
           weight: 6
           # Separator
-        - name: "|"
+        - name: "●"
           weight: 7
           # Dropdown menu
         - identifier: EN
@@ -84,7 +84,7 @@ languages:
           url: /es/#contact
           weight: 6
           # Separator
-        - name: "|"
+        - name: "●"
           weight: 6
           # Dropdown menu
         - identifier: ES
