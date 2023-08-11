@@ -39,11 +39,14 @@ languages:
         - name: Contact
           url: /#contact
           weight: 6
-          #Dropdown menu
-        - identifier: EN
-          name: "|‎ ‎ ‎ ‎ EN"
-          title: EN
+          # Separator
+        - name: "|"
           weight: 7
+          # Dropdown menu
+        - identifier: EN
+          name: "EN"
+          title: EN
+          weight: 8
         - identifier: ES
           title: Cambiar a español
           name: ES
@@ -80,9 +83,12 @@ languages:
         - name: Contacto
           url: /es/#contact
           weight: 6
-          #Dropdown menu
+          # Separator
+        - name: "|"
+          weight: 6
+          # Dropdown menu
         - identifier: ES
-          name: "|‎ ‎ ‎ ‎ ES"
+          name: "ES"
           title: ES
           weight: 7
         - identifier: EN
