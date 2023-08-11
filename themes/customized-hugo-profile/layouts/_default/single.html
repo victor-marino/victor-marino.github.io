@@ -43,6 +43,7 @@
           </article>
         </div>
       </div>
+      {{ if or (.Params.toc | default true) (.Params.tags) (.Params.socialShare) }}
       <div class="col-sm-12 col-md-12 col-lg-3">
         <div class="sticky-sidebar">
           {{ if .Params.toc | default true}}
@@ -93,6 +94,7 @@
           {{ end }}
         </div>
       </div>
+      {{ end }}
     </div>
     <div class="row">
       <div class="col-sm-12 col-md-12 col-lg-9 p-4">

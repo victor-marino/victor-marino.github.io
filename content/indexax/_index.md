@@ -3,6 +3,9 @@ title: "Indexa X"
 date: 2023-08-09T13:20:36+02:00
 layout: single
 socialShare: false
+showDate: false
+enableReadingTime: false
+toc: false
 ---
 
 {{< tabs tabTotal="2" tabRightAlign="1">}}
@@ -14,10 +17,12 @@ It's been developed in [Flutter](https://flutter.dev/), and it uses the [officia
 
 It is currently available for Android and iOS.
 
-<div><img src="/assets/img/screenshot_01_500.png" width=150/><img src="/assets/img/screenshot_02_500.png" width=150/><img src="/assets/img/screenshot_03_500.png" width=150/><img src="/assets/img/screenshot_04_500.png" width=150/><img src="/assets/img/screenshot_05_500.png" width=150/></div>
+<div><img src="/images/indexax/screenshot_01_500.png" width=150/><img src="/images/indexax/screenshot_02_500.png" width=150/><img src="/images/indexax/screenshot_03_500.png" width=150/><img src="/images/indexax/screenshot_04_500.png" width=150/><img src="/images/indexax/screenshot_05_500.png" width=150/></div>
 
-## Descargar
-[![google_play_badge](/assets/img/google_play_badge_small.png)](https://play.google.com/store/apps/details?id=com.victormarino.indexax)  [![app_store_badge](/assets/img/app_store_badge_small.png)](https://apps.apple.com/es/app/indexa-x/id1637446036)
+---
+
+## Download
+[![google_play_badge](/images/indexax/google-play-badge-en.png)](https://play.google.com/store/apps/details?id=com.victormarino.indexax)  [![app_store_badge](/images/indexax/app-store-badge-en.png)](https://apps.apple.com/es/app/indexa-x/id1637446036)
 
 You can find the privacy policy for Indexa X [here](/indexax/privacy-policy).
 
@@ -32,10 +37,12 @@ Está desarrollado en [Flutter](https://flutter.dev/), y utiliza la [API oficial
 
 Actualmente está disponible para Android y iOS.
 
-<div><img src="/assets/img/screenshot_01_500.png" width=150/><img src="/assets/img/screenshot_02_500.png" width=150/><img src="/assets/img/screenshot_03_500.png" width=150/><img src="/assets/img/screenshot_04_500.png" width=150/><img src="/assets/img/screenshot_05_500.png" width=150/></div>
+<div><img src="/images/indexax/screenshot_01_500.png" width=150/><img src="/images/indexax/screenshot_02_500.png" width=150/><img src="/images/indexax/screenshot_03_500.png" width=150/><img src="/images/indexax/screenshot_04_500.png" width=150/><img src="/images/indexax/screenshot_05_500.png" width=150/></div>
+
+---
 
 ## Descargar
-[![google_play_badge](/assets/img/google_play_badge_small.png)](https://play.google.com/store/apps/details?id=com.victormarino.indexax)  [![app_store_badge](/assets/img/app_store_badge_small.png)](https://apps.apple.com/es/app/indexa-x/id1637446036)
+[![google_play_badge](/images/indexax/google-play-badge-es.png)](https://play.google.com/store/apps/details?id=com.victormarino.indexax)  [![app_store_badge](/images/indexax/app-store-badge-es.png)](https://apps.apple.com/es/app/indexa-x/id1637446036)
 
 Puedes consultar la política de privacidad de Indexa X [aquí](/indexax/privacy-policy).
 
