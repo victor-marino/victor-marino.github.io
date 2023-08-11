@@ -1,7 +1,9 @@
 baseURL: "https://victormarino.com"
 languageCode: "en-US"
 title: "Víctor Marino"
-theme: hugo-profile
+theme:
+- customized-hugo-profile
+- hugo-profile
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
 
@@ -95,12 +97,12 @@ languages:
         title: "Víctor."
         # subtitle: "Ingeniero de telecomunicaciones y desarrollador de software"
         content: "Ingeniero de telecomunicaciones / Desarrollador de software"
-        image: /images/victor_2022_medium.jpg
+        image: /images/profile_avatar.png
         bottomImage:
           enable: true
         # roundImage: true # Make hero image circular | default false
         button:
-          enable: true
+          enable: false
           name: "CV"
           url: "#"
           download: true
@@ -117,7 +119,7 @@ languages:
       about:
         enable: true
         title: "Sobre mí"
-        image: "/images/victor_2022_medium.jpg"
+        image: "/images/profile_picture.jpg"
         content: |-
           Soy un desarrollador de software con una marcada formación en telecomunicaciones y redes móviles. Con más de 12 años de experiecia en el sector de las telecomunicaciones, he trabajado en una gran variedad de roles y áreas, como la arquitectura, diseño and optimización de red, servicios de baja latencia, casos de uso de 5G y numerosos proyectos de innovación.
           
@@ -187,6 +189,7 @@ params:
   description: My personal website
   # staticPath: ""  # The path to serve the static files from
   favicon: "images/favicon.ico"
+  customCSS: true
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -202,8 +205,8 @@ params:
   animate: true
 
   theme:
-    # disableThemeToggle: true
-    # defaultTheme: "light" # dark
+    disableThemeToggle: true
+    defaultTheme: "dark" # dark
 
   font:
     fontSize: 1rem # default: 1rem
@@ -251,12 +254,12 @@ params:
     title: "Víctor."
     #subtitle: "Telecom engineer and software developer"
     content: "Telecom engineer / Software developer"
-    image: /images/victor_2022_medium.jpg
+    image: /images/profile_avatar.png
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
     button:
-      enable: true
+      enable: false
       name: "Resume"
       url: "#"
       download: true
@@ -275,7 +278,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/victor_2022_medium.jpg"
+    image: "/images/profile_picture.jpg"
     content: |-
       I am a software developer with a strong background in telecommunications and mobile networks. With over 12 years of experience in the telecom industry, I've worked in a wide range of roles and areas, including network architecture, design and optimization, low latency services, 5G use cases and many innovation projects.
       
@@ -465,57 +468,29 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
+      - title: Indexa X
+        content: "A beautiful cross-platform and open-source client for Indexa Capital customers. Track your portfolio in a more visual and intuitive way."
+        image: /images/indexax_feature_graphic.png
         featured:
-          name: Demo
-          link: https://hugo-profile.netlify.app
+          name: Indexa X
+          link: /indexa-x
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
-        links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
-
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
-        featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
-        badges:
-          - "Django"
-          - "Bootstrap"
+          - "Flutter"
+          - "Mobile apps"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
-
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
-        featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
-        badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+            url: https://github.com/victor-marino/indexax/
+          - icon: fab fa-google-play
+            url: https://play.google.com/store/apps/details?id=com.victormarino.indexax
+          - icon: fab fa-apple
+            url: https://apps.apple.com/es/app/indexa-x/id1637446036
 
   #Contact
   contact:
     enable: true
     # title: "Custom Name"
     content: My inbox is always open. Whether you have a question or just want to say hi, I’ll try my best to get back to you!
-    email: gurusabarisha@gmail.com
+    email: contact@victormarno.com
     btnName: Mail me
     # formspree:
     #   enable: true # `contact.email` value will be ignored
@@ -528,14 +503,14 @@ params:
       path: "blogs"
       count: 3
       title: Recent Posts
-      enable: true
+      enable: false
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      #github: https://github.com/victor-marino
+      #linkedin: https://www.linkedin.com/in/victormarinolopez/
+      #twitter: https://twitter.com
+      #instagram: https://instagram.com
+      #facebook: https://facebook.com
 
   # List pages like blogs and posts
   listPages:
