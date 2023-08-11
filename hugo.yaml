@@ -3,6 +3,7 @@ languageCode: "en-US"
 title: "Víctor Marino"
 theme:
 - customized-hugo-profile
+- hugo-dynamic-tabs
 - hugo-profile
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
@@ -473,7 +474,7 @@ params:
         image: /images/indexax_feature_graphic.png
         featured:
           name: Indexa X
-          link: /indexa-x
+          link: /indexax
         badges:
           - "Flutter"
           - "Mobile apps"
