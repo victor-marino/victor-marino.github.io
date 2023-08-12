@@ -128,13 +128,13 @@ languages:
         title: "Sobre mí"
         image: "/images/profile_picture.jpg"
         content: |-
-          Soy un desarrollador de software con una marcada formación en telecomunicaciones y redes móviles. Con más de 12 años de experiecia en el sector de las telecomunicaciones, he trabajado en una gran variedad de roles y áreas, como la arquitectura, diseño and optimización de red, servicios de baja latencia, casos de uso de 5G y numerosos proyectos de innovación.
+          Soy un desarrollador de software con una marcada formación en telecomunicaciones y redes móviles. Con más de 12 años de experiecia en el sector de las telecomunicaciones, he trabajado en una gran variedad de roles y áreas, como la gestión de producto, el diseño de red, monitorización y optimización de KPIs, servicios de baja latencia, casos de uso de 5G y numerosos proyectos de innovación.
           
           Desde 2020, mi trabajo se centra en el desarrollo de APIs para exponer funcionalidades de red al exterior, haciendo las redes móviles más abiertas, eficientes e interoperables.
           
           También me gusta desarrollar apps móviles en mi tiempo libre.
         skills:
-          enable: true
+          enable: false
           title: "Algunas de las tecnologías con las que trabajo habitualmente:"
           items:
             - "Python"
@@ -287,7 +287,7 @@ params:
     title: "About Me"
     image: "/images/profile_picture.jpg"
     content: |-
-      I am a software developer with a strong background in telecommunications and mobile networks. With over 12 years of experience in the telecom industry, I've worked in a wide range of roles and areas, including product management, network design, performance monitoring and optimization, low latency services, 5G use cases and many innovation projects.
+      I am a software developer with a strong background in telecommunications and mobile networks. With over 12 years of experience in the telecom industry, I've worked in a wide range of roles and areas, including product management, network design, KPI monitoring and optimization, low latency services, 5G use cases and many innovation projects.
       
       Since 2020, my work has been focused on developing APIs to expose network capabilities to the outside, making mobile networks more open, efficient and interoperable.
       
