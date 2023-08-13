@@ -1,12 +1,7 @@
-.dropdown-menu {
-    min-width: 5rem;
-}
-
-
+/* hugo-dynamic-tabs formatting tweaks */
 .nav-tabs {
     border-bottom: 1px solid transparent;
 }
-
 
 .nav-tabs .nav-item.show .nav-link,
 .nav-tabs .nav-link.active {
@@ -18,4 +13,63 @@
 .nav-tabs .nav-link:focus,
 .nav-tabs .nav-link:hover {
     border-color: transparent transparent grey;
+}
+
+/* index.css */
+
+#about ul li::before {
+    content: "•";
+    color: var(--primary-color);
+    position: absolute;
+    left: 0px;
+}
+#experience .experience-container .tab-content .tab-pane ul li::before {
+    content: "•";
+    color: var(--primary-color);
+    position: absolute;
+    left: 0px;
+}
+
+/* header.css */
+
+/* Reduce min width of language dropdown items */
+.dropdown-menu {
+    min-width: 5rem;
+}
+
+/* Make the header sticky */
+header {
+    top: 0;
+    position: sticky;
+}
+
+/* Prevent header from covering section titles when using navbar links */
+.py-0,
+.py-5 {
+    scroll-margin-top: 2em;
+}
+
+/* fonts.css */
+
+/* Default font for body */
+body {
+    font-family: "Ubuntu", serif !important;
+}
+
+/* secondary font */
+.secondary-font,
+#secondary-font {
+    font-family: "Ubuntu", serif;
+}
+
+/* primary font */
+.primary-font,
+#primary-font {
+    font-family: "Alata", sans-serif;
+}
+
+/* Default font */
+.default-font,
+#default-font {
+    font-family: "Roboto", sans-serif;
 }

@@ -25,10 +25,10 @@ languages:
           url: /#About
           weight: 1
         - name: Experience
-          url: /#experience
+          url: /#Experience
           weight: 2
         - name: Education
-          url: /#education
+          url: /#Education
           weight: 3
         - name: Projects
           url: /#Projects
@@ -37,7 +37,7 @@ languages:
           url: /#Achievements
           weight: 5
         - name: Contact
-          url: /#contact
+          url: /#Contact
           weight: 6
           # Separator
         - name: "●"
@@ -69,19 +69,19 @@ languages:
           url: /es/#About
           weight: 1
         - name: Experiencia
-          url: /es/#experience
+          url: /es/#Experience
           weight: 2
         - name: Educación
-          url: /es/#education
+          url: /es/#Education
           weight: 3
         - name: Proyectos
-          url: /#Projects
+          url: /es/#Projects
           weight: 4
         - name: Logros
-          url: /#Achievements
+          url: /es/#Achievements
           weight: 5
         - name: Contacto
-          url: /es/#contact
+          url: /es/#Contact
           weight: 6
           # Separator
         - name: "●"
@@ -141,6 +141,242 @@ languages:
             - "Go"
             - "Kubernetes"
             - "Flutter"
+      
+      # Experience
+      experience:
+        enable: true
+        title: "Experiencia"
+        items:
+          - skill: "Python"
+            job: "Diseño y desarrollo de microservicios"
+            company: "Vodafone - Network as a Platform"
+            date: "Abr 2020 - presente"
+            featuredLink:
+              enable: true
+              name: "Network as a Platform"
+              url: "https://www.vodafone.com/what-we-do/technology/network-as-platform-naap"
+            info:
+              enable: false
+            content: |-
+              En Network as a Platform, estamos creando una capa de APIs en la nube pública para exponer funcionalidades internas de nuestras redes. Utilizamos una arquitectura basada en microservicios, con Python como lenguaje principal.
+              
+              Como programador en este equipo, estas son algunas de las tareas y tecnologías en las que trabajo habitualmente:
+                - Diseño completo de APIs
+                - Dev lead de varias APIs
+                - Desarrollo de microservicios
+                - Integración con los sistemas ya existentes en el núcleo de nuestras redes
+                - Unit testing y mocking
+                - Infraestructura de Kubernetes
+                - Pipelines de Jenkins (CI/CD)
+                - Pruebas de extremo a extremo con usuarios comerciales en producción
+
+          - skill: "Go"
+            job: "Diseño y desarrollo de API gateway"
+            company: "Vodafone - Network as a Platform"
+            date: "Abr 2020 - presente"
+            featuredLink:
+              enable: true
+              name: "Network as a Platform"
+              url: "https://www.vodafone.com/what-we-do/technology/network-as-platform-naap"
+            info:
+              enable: false
+            content: |
+              En Network as a Platform, estamos creando una capa de APIs en la nube pública para exponer funcionalidades internas de nuestras redes. Para satisfacer todas nuestras necesidades, decidimos desarrollar nuestro propio API gateway, escrito en Go.
+              
+              Como programador en este equipo, estas son algunas de las tareas y tecnologías en las que trabajo habitualmente:
+                - Contribuciones de código a múltiples módulos: configuración, handlers, logging, rate-limiting, etc.
+                - Código y arquitectura idiomática de Go basada en interfaces
+                - Unit testing y mocking
+                - Infraestructura de Kubernetes
+                - Pipelines de Jenkins (CI/CD)
+
+          - skill: "Flutter"
+            job: "Desarrollo de la app Indexa X"
+            company: "Proyecto personal"
+            date: "Mar 2020 - Ago 2022"
+            info:
+              enable: false
+            featuredLink:
+              enable: true
+              name: "Indexa X"
+              url: "/indexax"
+            content: |
+              Indexa X es una app multiplataforma y de código abierto que he desarrollado como proyecto personal. Está disponible para Android y iOS, y puede ser utilizada por los clientes de la empresa de inversión Indexa Capital como alternativa a la app oficial.
+
+              Algunas de sus principales características:
+              - Diseño visual e intuitivo con agradables gráficas
+              - Animaciones fluidas y gran rendimiento en toda la app
+              - Elementos de interfaz nativos tanto en Android como en iOS
+              - Modo oscuro disponible
+              - Soporte para autenticación biométrica
+              - Segura: utiliza la API oficial ofrecida por Indexa Capital
+              - Privada: No recoge ni almacena datos
+
+          - skill: "Innovación"
+            job: "Innovación y gestión de portfolio"
+            company: "Vodafone - Network Portfolio and Innovation"
+            date: "Sep 2016 - Abr 2020"
+            info:
+              enable: false
+            featuredLink:
+              enable: false
+            content: |
+              - Liderar la producción y entrega del Network Product Benchmark.
+              - Liderar la coordinación, preparación e instalación de todas las demos en el Mobile World Congress.
+              - Presentar demos en el Mobile World Congress a audiencias de distintos perfiles.
+              - Liderar múltiples proyectos de innovación: Cloud Smartphone, MusiConnect, Cloud Gaming.
+              - Probar y evaluar casos de uso relacionados con 5G y las comunicaciones de baja latencia.
+          
+          - skill: "Network Performance"
+            job: "Ingeniero de rendimiento"
+            company: "Vodafone - Group Technology"
+            date: "Sep 2012 - Oct 2016"
+            info:
+              enable: false
+            featuredLink:
+              enable: false
+            content: |
+              - Trabajar con los operadores de Vodafone en más de 20 países para monitorizar el desempeño de red.
+              - Compilar y procesar KPIs de distintas fuentes: contadores de red, drive tests, encuestas a clientes, herramientas de crowdsourcing (p.ej.: Ookla).
+              - Crear dashboards mensuales para analizar and comparar el desempeño frente a los competidores.
+              - Identificar deficiencias y áreas de mejora.
+              - Crear y entregar planes de mejora y optización para los operadores locales.
+              - Organizar sesiones con todos los operadores para identificar, compartir y promover buenas prácticas. 
+              - Soporte presencial específico a operadores locales: Vodafone Irlanda, Vodafone Alemania.
+      
+          - skill: "Producto de red"
+            job: "Ingeniero de producto"
+            company: "Vodafone - Group Technology"
+            date: "May 2011 - Sep 2012"
+            info:
+              enable: false
+            featuredLink:
+              enable: false
+            content: |
+              - Hacer seguimiento del roadmap de producto de los proveedores de Vodafone
+              - Gestionar los roadmaps de los proveedores para satisfacer los requisitos de Vodafone
+              - Probar nuevas funcionalidades radio de 4G y comparar el desempeño entre suministradores
+              - Presentar los resultados de las pruebas y proporcionar información para el Network Benchmark
+              - Caracterizar el tráfico de nuevas apps y servicios de smartphone (p.ej.: streaming de vídeo)
+              - Analyzar el impacto en red de nuevos patrones de tráfico (p.ej.: congestión de señalización)
+
+      # Education
+      education:
+        enable: true
+        # title: "Custom Name"
+        index: false
+        items:
+          - title: "Máster en Administración de Empresas (MBA)"
+            school:
+              name: "The Power Business School"
+              url: "https://www.thepowermba.com/es/"
+            date: "2022 - 2023"
+            featuredLink:
+              enable: true
+              name: "Certification"
+              url: "https://verified.sertifier.com/es/verify/57656238591564"
+            content: |-
+              MBA online con especial énfasis en nuevos modelos de negocio y prácticas de márketing.
+          - title: "Complete Flutter Development Bootcamp"
+            school:
+              name: "The App Brewery"
+              url: "https://appbrewery.com/"
+            date: "2020"
+            featuredLink:
+              enable: true
+              name: "Certification"
+              url: "https://www.udemy.com/certificate/UC-a9174067-7432-4bf5-8c38-896f545126fa/"
+            content: |-
+              Curso completo de Flutter impartido por Angela Yu, incluyendo todos los aspectos fundamentales del desarrollo de apps para Android y iOS.
+          - title: "Ingeniería Técnica Industrial"
+            school:
+              name: "Universidad Europea de Madrid"
+              url: "https://universidadeuropea.com/es/"
+            date: "2008 - 2011"
+            content: |-
+              Ingeniería Técnica Industrial, con especialidad en Electrónica Industrial.
+          - title: "Ingeniería Técnica de Telecomunicaciones"
+            school:
+              name: "Universidad Alfonso X El Sabio"
+              url: "https://www.uax.com/es"
+            date: "2004 - 2010"
+            content: |-
+              Ingeniería Técnica de Telecomunicaciones, con especialidad en Sistemas de Telecomunicación.
+            featuredLink:
+              enable: false
+          - title: "Instituto"
+            school:
+              name: "IES Claudio Moyano"
+              url: "https://www.claudiomoyano.es/"
+            featuredLink:
+              enable: false
+            date: "1999 - 2003"
+            content: |-
+              Educación secundaria, con bachillerato especializado en Ciencia y Tecnología.
+          - title: "Colegio"
+            school:
+              name: "CEP San José de Calasanz"
+              url: "http://ceipsanjosedecalasanz.centros.educa.jcyl.es/"
+            featuredLink:
+              enable: false
+            date: "1989 - 1999"
+            content: |-
+              Educación primaria.
+
+      # Projects
+      projects:
+        enable: true
+        title: "Proyectos"
+        items:
+          - title: Indexa X
+            content: "Una vistosa aplicación multiplataforma y de código abierto para clientes de Indexa Capital. Sigue tu cartera de una forma más visual e intuitiva."
+            image: /images/indexax/indexax_feature_graphic.png
+            featured:
+              name: Indexa X
+              link: /indexax
+            badges:
+              - "Flutter"
+              - "Mobile apps"
+            links:
+              - icon: fab fa-github
+                url: https://github.com/victor-marino/indexax/
+                title: GitHub
+              - icon: fab fa-google-play
+                url: https://play.google.com/store/apps/details?id=com.victormarino.indexax
+                title: Google Play Store
+              - icon: fab fa-apple
+                url: https://apps.apple.com/es/app/indexa-x/id1637446036
+                title: Apple App Store
+
+      # Achievements
+      achievements:
+        enable: true
+        title: "Logros"
+        items:
+          - title: Vodafone Tech Expert - Level 5 Principal
+            content: En febrero de 2023 fui reconocido como Experto de Nivel 5 en el Technical Carreer Path de Vodafone.
+            url: https://www.credly.com/earner/earned/badge/0c3fbf0c-4b37-42c2-a72a-f331433f601e
+
+      # Contact
+      contact:
+        enable: true
+        title: "Contactar"
+        content: Si quieres ponerte en contacto conmigo, puedes enviarme un correo.
+        email: webcontact@victormarno.com
+        btnName: Email me
+
+      # For translations
+      terms:
+        read: "Read"
+        toc: "Tabla de contenidos"
+        copyright: "All rights reserved"
+        pageNotFound: "Página no encontrada"
+        emailText: "Visita este sitio"
+
+      datesFormat:
+        article: "Jan 2, 2006"
+        articleList: "Jan 2, 2006"
+        articleRecent: "Jan 2, 2006"
 
 outputs:
   home:
@@ -227,16 +463,16 @@ params:
     secondaryTextColor:
     backgroundColor:
     secondaryBackgroundColor:
-    primaryColor: FFFFFF
+    primaryColor: "#FFFFFF"
     secondaryColor:
 
-  #   darkmode:
-  #     textColor:
-  #     secondaryTextColor:
-  #     backgroundColor:
-  #     secondaryBackgroundColor:
-  #     primaryColor:
-  #     secondaryColor:
+    darkmode:
+      textColor: 
+      secondaryTextColor: 
+      backgroundColor:
+      secondaryBackgroundColor:
+      primaryColor: "#94ADD7"
+      secondaryColor:
 
   # If you want to customize the menu, you can change it here
   navbar:
@@ -317,13 +553,13 @@ params:
         info:
           enable: false
         content: |-
-          At Network as a Platform, we're creating an API layer to expose internal network capabilities in the public cloud. We use a microservice-based architecture, with Python as our primary language.
+          At Network as a Platform, we're creating an API layer in the public cloud to expose internal network capabilities. We use a microservice-based architecture, with Python as our primary language.
           
           As a software developer in this team, here are some of the tasks and technologies I regularly work on:
             - End to end API design
             - Dev lead for multiple APIs
             - Microservice development
-            - Integration with legacy backend systems
+            - Integration with legacy core network backend systems
             - Unit testing and mocking
             - Kubernetes configuration and deployment
             - Jenkins pipelines for CI/CD
@@ -344,7 +580,7 @@ params:
           
           As a software developer in this team, here are some of the tasks and technologies I regularly work on:
             - Contribution to multiple modules: configuration, handlers, logging, rate-limiting, etc.
-            - Idiomatic, interface-based code and architecture.
+            - Idiomatic interface-based code and architecture
             - Unit testing and mocking
             - Kubernetes infrastructure
             - Jenkins pipelines (CI/CD)
@@ -369,7 +605,7 @@ params:
           - Dark mode available
           - Biometrics support
           - Secure: uses the official API offered by Indexa Capital
-          - Privacy-focused: Doesn't collect or store any data
+          - Private: Doesn't collect or store any data
 
       - skill: "Innovation"
         job: "Portfolio Management and Innovation"
@@ -395,7 +631,7 @@ params:
         featuredLink:
           enable: false
         content: |
-          - Work with Vodafone operators across 20+ countries to monitor network performance
+          - Work with Vodafone operators across 20+ countries to monitor network performance.
           - Collect and process KPIs from a wide range of sources: network counters, drive tests, customer surveys, crowdsourcing tools (e.g.: Ookla).
           - Create monthly dashboards to analyze and benchmark performance against competitors.
           - Identify gaps and opportunities for improvement.
@@ -425,7 +661,7 @@ params:
     # title: "Custom Name"
     index: false
     items:
-      - title: "Master of Business Administration"
+      - title: "Master of Business Administration (MBA)"
         school:
           name: "The Power Business School"
           url: "https://www.thepowermba.com/en/"
@@ -482,16 +718,7 @@ params:
         content: |-
           Primary education.
 
-  # Achievements
-  achievements:
-    enable: true
-    # title: "Custom Name"
-    items:
-      - title: Vodafone Tech Expert - Level 5 Principal
-        content: On February 2023, I was recognised as Level 5 Expert as part of Vodafone's Technical Carreer Path.
-        url: https://www.credly.com/earner/earned/badge/0c3fbf0c-4b37-42c2-a72a-f331433f601e
-
-  # projects
+  # Projects
   projects:
     enable: true
     # title: "Custom Name"
@@ -515,6 +742,15 @@ params:
           - icon: fab fa-apple
             url: https://apps.apple.com/es/app/indexa-x/id1637446036
             title: Apple App Store
+
+  # Achievements
+  achievements:
+    enable: true
+    # title: "Custom Name"
+    items:
+      - title: Vodafone Tech Expert - Level 5 Principal
+        content: On February 2023 I was recognised as Level 5 Expert as part of Vodafone's Technical Carreer Path.
+        url: https://www.credly.com/earner/earned/badge/0c3fbf0c-4b37-42c2-a72a-f331433f601e
 
   #Contact
   contact:
