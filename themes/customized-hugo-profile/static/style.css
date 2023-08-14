@@ -1,4 +1,4 @@
-/* hugo-dynamic-tabs formatting tweaks */
+/* hugo-dynamic-tabs */
 .nav-tabs {
     border-bottom: 1px solid transparent;
 }
@@ -17,17 +17,12 @@
 
 /* index.css */
 
+/* Replace arrow character in lists with dots */
 #about ul li::before {
-    content: "•";
-    color: var(--primary-color);
-    position: absolute;
-    left: 0px;
+    content: "•" !important;
 }
 #experience .experience-container .tab-content .tab-pane ul li::before {
-    content: "•";
-    color: var(--primary-color);
-    position: absolute;
-    left: 0px;
+    content: "•" !important;
 }
 
 /* header.css */
@@ -43,7 +38,7 @@ header {
     position: sticky;
 }
 
-/* Prevent header from covering section titles when using navbar links */
+/* Prevent sticky header from covering section titles when clicking navbar links */
 .py-0,
 .py-5 {
     scroll-margin-top: 2em;
@@ -51,25 +46,13 @@ header {
 
 /* fonts.css */
 
-/* Default font for body */
+/* Set Ubuntu as default font for body */
 body {
     font-family: "Ubuntu", serif !important;
 }
 
-/* secondary font */
+/* Set Ubuntu as secondary font */
 .secondary-font,
 #secondary-font {
     font-family: "Ubuntu", serif;
-}
-
-/* primary font */
-.primary-font,
-#primary-font {
-    font-family: "Alata", sans-serif;
-}
-
-/* Default font */
-.default-font,
-#default-font {
-    font-family: "Roboto", sans-serif;
 }
