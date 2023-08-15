@@ -42,17 +42,7 @@ languages:
           # Separator
         - name: "●"
           weight: 7
-          # Dropdown menu
-        - identifier: EN
-          name: "EN"
-          title: EN
-          weight: 8
-        - identifier: ES
-          title: Cambiar a español
-          name: ES
-          url: /es
-          parent: EN
-          weight: 1
+
   es:
     contentDir: content/es
     disabled: false
@@ -87,16 +77,6 @@ languages:
         - name: "●"
           weight: 6
           # Dropdown menu
-        - identifier: ES
-          name: "ES"
-          title: ES
-          weight: 7
-        - identifier: EN
-          title: Switch to English
-          name: EN
-          url: /
-          parent: ES
-          weight: 1
     params:
       hero:
         enable: true
@@ -333,7 +313,7 @@ languages:
             image: /images/indexax/indexax_feature_graphic.png
             featured:
               name: Indexa X
-              link: /indexax
+              link: /es/indexax
             badges:
               - "Flutter"
               - "Mobile apps"

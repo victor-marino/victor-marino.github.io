@@ -112,20 +112,18 @@
                         </a>
                     </li>
                     {{ end }}
-
                     <!-- custom menus from the user -->
                     {{ range .Site.Menus.main }}
                     {{ if .HasChildren }}
                     <!-- Dropdown menu -->
                     <li class="nav-item navbar-text dropdown">
-                        <a class="nav-link dropdown-toggle" href="{{ .URL }}" id="navbarDropdown" role="button"
-                            data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" title="{{ .Title }}">
+                        <a class="nav-link dropdown-toggle" href="{{ .URL }}" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
+                            aria-haspopup="true" aria-expanded="false" title="{{ .Title }}">
                             {{ .Name }}
                         </a>
                         <div class="dropdown-menu shadow-lg rounded" aria-labelledby="navbarDropdown">
                             {{ range .Children }}
-                            <a class="dropdown-item text-center nav-link" href="{{ .URL }}"
-                                title="{{ .Title }}">
+                            <a class="dropdown-item text-center nav-link" href="{{ .URL }}" title="{{ .Title }}">
                                 {{ .Name }}
                             </a>
                             {{ end }}
@@ -152,7 +150,20 @@
                     {{end}}
                     {{end}}
                     {{end}}
-
+                    <!--- Language selector-->
+                    <li class="nav-item navbar-text dropdown">
+                        <a class="nav-link dropdown-toggle" href="" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
+                            aria-haspopup="true" aria-expanded="false">
+                            {{ upper .Language }}
+                        </a>
+                        <div class="dropdown-menu shadow-lg rounded" aria-labelledby="navbarDropdown">
+                            {{ range .Translations }}
+                            <a class="dropdown-item text-center nav-link" href="{{ .RelPermalink }}">
+                                {{ upper (default .Lang .Language.Lang) }}
+                            </a>
+                            {{ end }}
+                        </div>
+                    </li>
                     {{ if (not .Site.Params.theme.disableThemeToggle | default false) }}
                     <li class="nav-item navbar-text">
                         <!-- darkmode mode toggle -->
