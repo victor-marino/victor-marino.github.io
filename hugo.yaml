@@ -140,7 +140,7 @@ languages:
             content: |-
               En Network as a Platform, estamos creando una capa de APIs en la nube pública para exponer funcionalidades internas de nuestras redes. Utilizamos una arquitectura basada en microservicios, con Python como lenguaje principal.
               
-              Como programador en este equipo, estas son algunas de las tareas y tecnologías en las que trabajo habitualmente:
+              Como programador en este equipo, estas son algunas de las tareas y tecnologías con las que trabajo habitualmente:
                 - Diseño completo de APIs
                 - Dev lead de varias APIs
                 - Desarrollo de microservicios
@@ -163,7 +163,7 @@ languages:
             content: |
               En Network as a Platform, estamos creando una capa de APIs en la nube pública para exponer funcionalidades internas de nuestras redes. Para satisfacer todas nuestras necesidades, decidimos desarrollar nuestro propio API gateway, escrito en Go.
               
-              Como programador en este equipo, estas son algunas de las tareas y tecnologías en las que trabajo habitualmente:
+              Como programador en este equipo, estas son algunas de las tareas y tecnologías con las que trabajo habitualmente:
                 - Contribuciones de código a múltiples módulos: configuración, handlers, logging, rate-limiting, etc.
                 - Código y arquitectura idiomática de Go basada en interfaces
                 - Unit testing y mocking
@@ -218,9 +218,9 @@ languages:
             content: |
               - Trabajar con los operadores de Vodafone en más de 20 países para monitorizar el desempeño de red.
               - Compilar y procesar KPIs de distintas fuentes: contadores de red, drive tests, encuestas a clientes, herramientas de crowdsourcing (p.ej.: Ookla).
-              - Crear dashboards mensuales para analizar and comparar el desempeño frente a los competidores.
+              - Crear dashboards mensuales para analizar y comparar el desempeño frente a los competidores.
               - Identificar deficiencias y áreas de mejora.
-              - Crear y entregar planes de mejora y optización para los operadores locales.
+              - Crear y entregar planes de mejora y optimización para los operadores locales.
               - Organizar sesiones con todos los operadores para identificar, compartir y promover buenas prácticas. 
               - Soporte presencial específico a operadores locales: Vodafone Irlanda, Vodafone Alemania.
       
@@ -243,7 +243,7 @@ languages:
       # Education
       education:
         enable: true
-        # title: "Custom Name"
+        title: "Educación"
         index: false
         items:
           - title: "Máster en Administración de Empresas (MBA)"
@@ -292,7 +292,7 @@ languages:
               enable: false
             date: "1999 - 2003"
             content: |-
-              Educación secundaria, con bachillerato especializado en Ciencia y Tecnología.
+              Educación secundaria, con bachillerato especializado en ciencia y tecnología.
           - title: "Colegio"
             school:
               name: "CEP San José de Calasanz"
@@ -335,7 +335,7 @@ languages:
         items:
           - title: Vodafone Tech Expert - Level 5 Principal
             content: En febrero de 2023 fui reconocido como Experto de Nivel 5 en el Technical Carreer Path de Vodafone.
-            url: https://www.credly.com/earner/earned/badge/0c3fbf0c-4b37-42c2-a72a-f331433f601e
+            url: https://www.credly.com/badges/0c3fbf0c-4b37-42c2-a72a-f331433f601e
 
       # Contact
       contact:
@@ -343,7 +343,7 @@ languages:
         title: "Contactar"
         content: Si quieres ponerte en contacto conmigo, puedes enviarme un correo.
         email: webcontact@victormarno.com
-        btnName: Email me
+        btnName: Escríbeme
 
       # For translations
       terms:
@@ -535,7 +535,7 @@ params:
         content: |-
           At Network as a Platform, we're creating an API layer in the public cloud to expose internal network capabilities. We use a microservice-based architecture, with Python as our primary language.
           
-          As a software developer in this team, here are some of the tasks and technologies I regularly work on:
+          As a software developer in this team, here are some of the tasks and technologies I regularly work with:
             - End to end API design
             - Dev lead for multiple APIs
             - Microservice development
@@ -558,7 +558,7 @@ params:
         content: |
           At Network as a Platform, we're creating an API layer to expose internal network capabilities in the public cloud. To better fulfill our requirements, we decided to develop our own API gateway, written in Go.
           
-          As a software developer in this team, here are some of the tasks and technologies I regularly work on:
+          As a software developer in this team, here are some of the tasks and technologies I regularly work with:
             - Contribution to multiple modules: configuration, handlers, logging, rate-limiting, etc.
             - Idiomatic interface-based code and architecture
             - Unit testing and mocking
@@ -600,7 +600,7 @@ params:
           - Lead coordination, preparation and setup of all Mobile World Congress demos.
           - Present Mobile World Congress demos to a wide range of audiences.
           - Lead multiple innovation projects: Cloud Smartphone, MusiConnect, Cloud Gaming.
-          - Testing and evaluation of use cases realted to 5G and low-latency communications.
+          - Testing and evaluation of use cases related to 5G and low-latency communications.
       
       - skill: "Network Performance"
         job: "Performance Engineer"
@@ -687,7 +687,7 @@ params:
           enable: false
         date: "1999 - 2003"
         content: |-
-          Secondary education with a specialization in science and technology.
+          Secondary education specialized in science and technology.
       - title: "Primary School"
         school:
           name: "CEP San José de Calasanz"
@@ -730,7 +730,7 @@ params:
     items:
       - title: Vodafone Tech Expert - Level 5 Principal
         content: On February 2023 I was recognised as Level 5 Expert as part of Vodafone's Technical Carreer Path.
-        url: https://www.credly.com/earner/earned/badge/0c3fbf0c-4b37-42c2-a72a-f331433f601e
+        url: https://www.credly.com/badges/0c3fbf0c-4b37-42c2-a72a-f331433f601e
 
   #Contact
   contact:
