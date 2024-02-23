@@ -106,7 +106,7 @@ languages:
       about:
         enable: true
         title: "Sobre mí"
-        image: "/images/profile_picture.jpg"
+        image: "/images/profile_picture.png"
         content: |-
           Soy un desarrollador de software con una marcada formación en telecomunicaciones y redes móviles. Con más de 12 años de experiecia en el sector de las telecomunicaciones, he trabajado en una gran variedad de roles y áreas, como la gestión de producto, el diseño de red, monitorización y optimización de KPIs, servicios de baja latencia, casos de uso de 5G y numerosos proyectos de innovación.
           
@@ -501,7 +501,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/profile_picture.jpg"
+    image: "/images/profile_picture.png"
     content: |-
       I am a software developer with a strong background in telecommunications and mobile networks. With over 12 years of experience in the telecom industry, I've worked in a wide range of roles and areas, including product management, network design, KPI monitoring and optimization, low latency services, 5G use cases and many innovation projects.
       
