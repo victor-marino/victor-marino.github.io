@@ -40,8 +40,11 @@ languages:
           url: /#Contact
           weight: 6
           # Separator
+        # - name: Blog
+        #   url: /blog
+        #   weight: 7
         - name: "●"
-          weight: 7
+          weight: 8
 
   es:
     contentDir: content/es
@@ -74,8 +77,11 @@ languages:
           url: /es/#Contact
           weight: 6
           # Separator
+        # - name: Blog
+        #   url: /blog
+        #   weight: 7
         - name: "●"
-          weight: 6
+          weight: 8
           # Dropdown menu
     params:
       hero:
@@ -181,7 +187,7 @@ languages:
               name: "Indexa X"
               url: "/indexax"
             content: |
-              Indexa X es una app multiplataforma y de código abierto que he desarrollado como proyecto personal. Está disponible para Android y iOS, y puede ser utilizada por los clientes de la empresa de inversión Indexa Capital como alternativa a la app oficial.
+              Indexa X es una app multiplataforma y de código abierto que he desarrollado como proyecto personal. Está disponible para Android, y puede ser utilizada por los clientes de la empresa de inversión Indexa Capital como alternativa a la app oficial.
 
               Algunas de sus principales características:
               - Diseño visual e intuitivo con agradables gráficas
@@ -324,9 +330,6 @@ languages:
               - icon: fab fa-google-play
                 url: https://play.google.com/store/apps/details?id=com.victormarino.indexax
                 title: Google Play Store
-              - icon: fab fa-apple
-                url: https://apps.apple.com/es/app/indexa-x/id1637446036
-                title: Apple App Store
 
       # Achievements
       achievements:
@@ -347,16 +350,20 @@ languages:
 
       # For translations
       terms:
-        read: "Read"
+        read: "Leer"
         toc: "Tabla de contenidos"
-        copyright: "All rights reserved"
+        copyright: "Todos los derechos"
         pageNotFound: "Página no encontrada"
         emailText: "Visita este sitio"
 
       datesFormat:
-        article: "Jan 2, 2006"
-        articleList: "Jan 2, 2006"
-        articleRecent: "Jan 2, 2006"
+        article: "2 de January, 2006"
+        articleList: "2 de January, 2006"
+        articleRecent: "2 de January, 2006"
+      
+      singlePages:
+        readTime:
+          content: "minutos"
 
 outputs:
   home:
@@ -367,7 +374,7 @@ outputs:
     - "HTML"
     - "RSS"
 
-Paginate: 3
+Paginate: 10
 enableRobotsTXT: true
 # disqusShortname: your-disqus-shortname
 # googleAnalytics: G-MEASUREMENT_ID
@@ -576,7 +583,7 @@ params:
           name: "Indexa X"
           url: "/indexax"
         content: |
-          Indexa X is a cross-platform and open-source app that I developed as a personal project. It's available for Android and iOS, and it can be used by customers of investment firm Indexa Capital as an alternative to the official app.
+          Indexa X is a cross-platform and open-source app that I developed as a personal project. It is currently available for Android, and it can be used by customers of investment firm Indexa Capital as an alternative to the official app.
 
           Some of its main features:
           - Visual and intuitive design with beautiful charts
@@ -720,8 +727,6 @@ params:
             url: https://play.google.com/store/apps/details?id=com.victormarino.indexax
             title: Google Play Store
           - icon: fab fa-apple
-            url: https://apps.apple.com/es/app/indexa-x/id1637446036
-            title: Apple App Store
 
   # Achievements
   achievements:
@@ -774,7 +779,7 @@ params:
   # For translations
   terms:
     read: "Read"
-    toc: "Table Of Contents"
+    toc: "Table of Contents"
     copyright: "All rights reserved"
     pageNotFound: "Page not found"
     emailText: "Check out this site"

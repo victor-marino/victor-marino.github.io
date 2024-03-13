@@ -24,7 +24,8 @@
               <small>|</small>
               {{ end }}
               {{ if .Params.showDate | default true }}
-              {{ .Date.Format (.Site.Params.datesFormat.article | default "Jan 2, 2006") }}
+              <!-- {{ .Date.Format (.Site.Params.datesFormat.article | default "Jan 2, 2006") }} -->
+              {{ dateFormat (.Site.Params.datesFormat.articleList | default "January 2, 2006") .Date }}
               {{ end }}
               {{ if and (.Site.Params.singlePages.readTime.enable | default true) (.Params.enableReadingTime | default true) }}
               <span id="readingTime">
@@ -68,7 +69,7 @@
           </aside>
           {{end}}
 
-          {{ if .Params.socialShare | default true }}
+          {{ if .Params.socialShare | default false }}
           <aside class="social">
             <h5>{{ .Site.Params.terms.social | default "Social" }}</h5>
             <div class="social-content">

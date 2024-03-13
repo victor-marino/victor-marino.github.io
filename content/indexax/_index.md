@@ -12,14 +12,16 @@ Indexa X is an unofficial, multiplatform and [open-source](https://github.com/vi
 
 It's been developed in [Flutter](https://flutter.dev/), and it uses the [official Indexa Capital API](https://indexacapital.com/en/api-rest-v1) to read your account data securely.
 
-It is currently available for Android and iOS.
+It is currently available for Android only, as it had to be removed from the App Store at Apple's request.
+
+I hope I can offer the iOS app to European users again in the future through alternative app stores.
 
 <div><img src="/images/indexax/screenshot_01_500.png" width=150/><img src="/images/indexax/screenshot_02_500.png" width=150/><img src="/images/indexax/screenshot_03_500.png" width=150/><img src="/images/indexax/screenshot_04_500.png" width=150/><img src="/images/indexax/screenshot_05_500.png" width=150/></div>
 
 ---
 
 ## Download
-[![google_play_badge](/images/indexax/google-play-badge-en.png)](https://play.google.com/store/apps/details?id=com.victormarino.indexax)  [![app_store_badge](/images/indexax/app-store-badge-en.png)](https://apps.apple.com/es/app/indexa-x/id1637446036)
+[![google_play_badge](/images/indexax/google-play-badge-en.png)](https://play.google.com/store/apps/details?id=com.victormarino.indexax)
 
 You can find the privacy policy for Indexa X [here](/indexax/privacy-policy).
 

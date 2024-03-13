@@ -7,4 +7,4 @@ enableReadingTime: false
 ---
 
 
-{{% include_english_version "/indexax/privacy-policy" %}}
+{{% include_original_version "/indexax/privacy-policy" %}}
