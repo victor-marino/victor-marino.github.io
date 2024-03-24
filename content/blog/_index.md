@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-draft: false
+draft: true
 ---
 
 From time to time, I'll find a topic that piques my interest, so I'll write about it.
