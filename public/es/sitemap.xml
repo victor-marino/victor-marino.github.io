@@ -41,18 +41,6 @@
                 href="http://localhost:1313/es/indexax/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/blog/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/blog/"
-                />
-  </url><url>
     <loc>http://localhost:1313/es/categories/</loc>
     <xhtml:link
                 rel="alternate"

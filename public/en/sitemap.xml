@@ -50,20 +50,6 @@
                 href="http://localhost:1313/indexax/"
                 />
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/blog/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/es/blog/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
