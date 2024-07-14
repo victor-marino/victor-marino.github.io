@@ -482,7 +482,7 @@ params:
     enable: true
     intro: "Hi, I'm"
     title: "Víctor."
-    subtitle: "Telecom & Software Engineer"
+    subtitle: "Telecoms & Software Engineer"
     content: "With a soft spot for finance ;-)"
     image: /images/profile_avatar.png
     bottomImage:
@@ -510,7 +510,7 @@ params:
     title: "About Me"
     image: "/images/profile_picture.png"
     content: |-
-      I am a software engineer with a strong background in telecommunications and mobile networks. With over 13 years of experience in the telecom industry, I've worked in a wide range of roles and areas: product management, network design, KPI monitoring and optimization, low latency services, 5G applications... as well as many innovation projects.
+      I am a software engineer with a strong background in telecommunications and mobile networks. With over 13 years of experience in the telco industry, I've worked in a wide range of roles and areas: product management, network design, KPI monitoring and optimization, low latency services, 5G applications... as well as many innovation projects.
       
       Since 2020, my work has been focused on developing APIs to expose network capabilities to the outside, making mobile networks more open, efficient and interoperable.
       

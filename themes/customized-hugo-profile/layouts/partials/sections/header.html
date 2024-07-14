@@ -154,12 +154,12 @@
                     <li class="nav-item navbar-text dropdown">
                         <a class="nav-link dropdown-toggle" href="" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
                             aria-haspopup="true" aria-expanded="false">
-                            {{ upper .Language }}
+                            {{ .Language.LanguageName }}
                         </a>
                         <div class="dropdown-menu shadow-lg rounded" aria-labelledby="navbarDropdown">
                             {{ range .Translations }}
                             <a class="dropdown-item text-center nav-link" href="{{ .RelPermalink }}">
-                                {{ upper (default .Lang .Language.Lang) }}
+                                {{ (default .Lang .Language.LanguageName) }}
                             </a>
                             {{ end }}
                         </div>

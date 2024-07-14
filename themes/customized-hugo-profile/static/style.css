@@ -57,6 +57,12 @@ body {
     font-family: "Ubuntu", serif;
 }
 
+/* primary font */
+.primary-font,
+#primary-font {
+    font-family: "Ubuntu", serif;
+}
+
 /* single.css */
 
 #single .page-content ol,
