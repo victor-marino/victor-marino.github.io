@@ -4,7 +4,3 @@
 [submodule "themes/hugo-profile"]
 	path = themes/hugo-profile
 	url = https://github.com/gurusabarish/hugo-profile
-[submodule "themes/hugo-dynamic-tabs"]
-	path = themes/hugo-dynamic-tabs
-	url = https://github.com/rvanhorn/hugo-dynamic-tabs/
-	branch = bootstrap5
