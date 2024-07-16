@@ -3,7 +3,6 @@ languageCode: "en-US"
 title: "Víctor Marino"
 theme:
 - customized-hugo-profile
-- hugo-dynamic-tabs
 - hugo-profile
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
@@ -39,10 +38,10 @@ languages:
         - name: Contact
           url: /#Contact
           weight: 6
-          # Separator
         # - name: Blog
         #   url: /blog
         #   weight: 7
+        # Separator
         - name: "●"
           weight: 8
 
@@ -76,10 +75,10 @@ languages:
         - name: Contacto
           url: /es/#Contact
           weight: 6
-          # Separator
         # - name: Blog
-        #   url: /blog
+        #   url: /es/blog
         #   weight: 7
+        # Separator
         - name: "●"
           weight: 8
           # Dropdown menu
@@ -368,11 +367,14 @@ languages:
 outputs:
   home:
     - "HTML"
-    - "RSS"
     - "JSON"
   page:
     - "HTML"
-    - "RSS"
+disableKinds:
+- RSS
+outputFormats:
+  RSS:
+    baseName: = "rss"
 
 Paginate: 10
 enableRobotsTXT: true

@@ -1,0 +1,10 @@
+{{/*
+    You can add further theme extensions or customizations here if they should
+    appear in <head>.
+*/}}
+
+<!-- Add RSS link to header -->
+{{ with .OutputFormats.Get "rss" -}}
+{{ printf `
+<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
+{{ end }}
