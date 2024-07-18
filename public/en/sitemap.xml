@@ -21,21 +21,18 @@
     <loc>http://localhost:1313/es/</loc>
     <lastmod>2024-07-14T18:11:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/example/</loc>
+    <loc>http://localhost:1313/tags/inversi%C3%B3n/</loc>
     <lastmod>2024-07-14T18:11:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
-                href="http://localhost:1313/es/tags/example/"
+                href="http://localhost:1313/es/tags/inversi%C3%B3n/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-EN"
-                href="http://localhost:1313/tags/example/"
+                href="http://localhost:1313/tags/inversi%C3%B3n/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/tags/inversi%C3%B3n/</loc>
-    <lastmod>2024-07-14T18:11:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/pensiones-inversion-espana/</loc>
     <lastmod>2024-07-14T18:11:00+02:00</lastmod>
@@ -55,31 +52,15 @@
   </url><url>
     <loc>http://localhost:1313/tags/pensiones/</loc>
     <lastmod>2024-07-14T18:11:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/placeholder-text/</loc>
-    <lastmod>2024-07-14T18:11:00+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
-                href="http://localhost:1313/es/tags/placeholder-text/"
+                href="http://localhost:1313/es/tags/pensiones/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-EN"
-                href="http://localhost:1313/tags/placeholder-text/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/sample/</loc>
-    <lastmod>2024-07-14T18:11:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tags/sample/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/tags/sample/"
+                href="http://localhost:1313/tags/pensiones/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
