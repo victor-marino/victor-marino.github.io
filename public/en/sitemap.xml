@@ -2,79 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-07-14T18:11:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/blog/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/es/blog/</loc>
-    <lastmod>2024-07-14T18:11:00+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/es/</loc>
     <lastmod>2024-07-14T18:11:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/inversi%C3%B3n/</loc>
-    <lastmod>2024-07-14T18:11:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tags/inversi%C3%B3n/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/tags/inversi%C3%B3n/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/blog/pensiones-inversion-espana/</loc>
-    <lastmod>2024-07-14T18:11:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/blog/pensiones-inversion-espana/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/blog/pensiones-inversion-espana/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/es/blog/pensiones-inversion-espana/</loc>
-    <lastmod>2024-07-14T18:11:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/pensiones/</loc>
-    <lastmod>2024-07-14T18:11:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tags/pensiones/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/tags/pensiones/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-07-14T18:11:00+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-EN"
-                href="http://localhost:1313/tags/"
-                />
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-07-14T18:11:00+02:00</lastmod>
@@ -131,6 +60,18 @@
                 rel="alternate"
                 hreflang="en-EN"
                 href="http://localhost:1313/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-EN"
+                href="http://localhost:1313/tags/"
                 />
   </url>
 </urlset>
