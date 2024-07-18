@@ -176,17 +176,17 @@ languages:
                 - Pipelines de Jenkins (CI/CD)
 
           - skill: "Flutter"
-            job: "Desarrollo de la app Indexa X"
+            job: "Desarrollo de la app X Insight"
             company: "Proyecto personal"
             date: "Mar 2020 - Ago 2022"
             info:
               enable: false
             featuredLink:
               enable: true
-              name: "Indexa X"
-              url: "/indexax"
+              name: "X Insight"
+              url: "/xinsight"
             content: |
-              Indexa X es una app multiplataforma y de código abierto que he desarrollado como proyecto personal. Está disponible para Android, y puede ser utilizada por los clientes de la empresa de inversión Indexa Capital como alternativa a la app oficial.
+              X Insight es una app multiplataforma y de código abierto que he desarrollado como proyecto personal. Está disponible para Android, y puede ser utilizada por los clientes de la empresa de inversión Indexa Capital como alternativa a la app oficial.
 
               Algunas de sus principales características:
               - Diseño visual e intuitivo con agradables gráficas
@@ -313,18 +313,18 @@ languages:
         enable: true
         title: "Proyectos"
         items:
-          - title: Indexa X
+          - title: X Insight
             content: "Una vistosa aplicación multiplataforma y de código abierto para clientes de Indexa Capital. Sigue tu cartera de una forma más visual e intuitiva."
-            image: /images/indexax/indexax_feature_graphic.png
+            image: /images/xinsight/xinsight_feature_graphic.png
             featured:
-              name: Indexa X
-              link: /es/indexax
+              name: X Insight
+              link: /es/xinsight
             badges:
               - "Flutter"
               - "Mobile apps"
             links:
               - icon: fab fa-github
-                url: https://github.com/victor-marino/indexax/
+                url: https://github.com/victor-marino/xinsight/
                 title: GitHub
               - icon: fab fa-google-play
                 url: https://play.google.com/store/apps/details?id=com.victormarino.indexax
@@ -575,17 +575,17 @@ params:
             - Jenkins pipelines (CI/CD)
 
       - skill: "Flutter"
-        job: "Indexa X app development"
+        job: "X Insight app development"
         company: "Personal project"
         date: "Mar 2020 - Aug 2022"
         info:
           enable: false
         featuredLink:
           enable: true
-          name: "Indexa X"
-          url: "/indexax"
+          name: "X Insight"
+          url: "/xinsight"
         content: |
-          Indexa X is a cross-platform and open-source app that I developed as a personal project. It is currently available for Android, and it can be used by customers of investment firm Indexa Capital as an alternative to the official app.
+          X Insight is a cross-platform and open-source app that I developed as a personal project. It is currently available for Android, and it can be used by customers of investment firm Indexa Capital as an alternative to the official app.
 
           Some of its main features:
           - Visual and intuitive design with beautiful charts
@@ -712,23 +712,22 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Indexa X
+      - title: X Insight
         content: "A beautiful cross-platform and open-source client for Indexa Capital customers. Track your portfolio in a more visual and intuitive way."
-        image: /images/indexax/indexax_feature_graphic.png
+        image: /images/xinsight/xinsight_feature_graphic.png
         featured:
-          name: Indexa X
-          link: /indexax
+          name: X Insight
+          link: /xinsight
         badges:
           - "Flutter"
           - "Mobile apps"
         links:
           - icon: fab fa-github
-            url: https://github.com/victor-marino/indexax/
+            url: https://github.com/victor-marino/xinsight/
             title: GitHub
           - icon: fab fa-google-play
             url: https://play.google.com/store/apps/details?id=com.victormarino.indexax
             title: Google Play Store
-          - icon: fab fa-apple
 
   # Achievements
   achievements:
