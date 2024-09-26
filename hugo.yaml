@@ -1,4 +1,4 @@
-baseURL: "https://victormarino.com"
+baseURL: "https://victormarino.com/"
 languageCode: "en-US"
 title: "Víctor Marino"
 theme:
@@ -21,32 +21,32 @@ languages:
     menus:
       main:
         - name: About me
-          url: /#About
+          url: /about/#About
           weight: 1
         - name: Experience
-          url: /#Experience
+          url: /about/#Experience
           weight: 2
         - name: Education
-          url: /#Education
+          url: /about/#Education
           weight: 3
         - name: Projects
-          url: /#Projects
+          url: /about/#Projects
           weight: 4
         - name: Achievements
-          url: /#Achievements
+          url: /about/#Achievements
           weight: 5
         - name: Contact
-          url: /#Contact
+          url: /about/#Contact
           weight: 6
-        # - name: Blog
-        #   url: /blog
-        #   weight: 7
+        - name: Blog
+          url: /blog
+          weight: 7
         # Separator
         - name: "●"
           weight: 8
 
   es:
-    contentDir: content/es
+    contentDir: content/es/
     disabled: false
     languageCode: es-ES
     languageDirection: ltr
@@ -58,26 +58,26 @@ languages:
     menu:
       main:
         - name: Sobre mí
-          url: /es/#About
+          url: /es/about/#About
           weight: 1
         - name: Experiencia
-          url: /es/#Experience
+          url: /es/about/#Experience
           weight: 2
         - name: Educación
-          url: /es/#Education
+          url: /es/about/#Education
           weight: 3
         - name: Proyectos
-          url: /es/#Projects
+          url: /es/about/#Projects
           weight: 4
         - name: Logros
-          url: /es/#Achievements
+          url: /es/about/#Achievements
           weight: 5
         - name: Contacto
-          url: /es/#Contact
+          url: /es/about/#Contact
           weight: 6
-        # - name: Blog
-        #   url: /es/blog
-        #   weight: 7
+        - name: Blog
+          url: /es/blog
+          weight: 7
         # Separator
         - name: "●"
           weight: 8

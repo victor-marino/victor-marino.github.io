@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Víctor Marino</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Blog on Víctor Marino</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <lastBuildDate>Thu, 26 Sep 2024 16:29:29 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 26 Sep 2024 16:29:29 +0200</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/es/about/</link>
+      <pubDate>Thu, 26 Sep 2024 16:29:29 +0200</pubDate>
+      <guid>http://localhost:1313/es/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Las pensiones y la inversión en España</title>
+      <link>http://localhost:1313/blog/pensiones-inversion-espana/</link>
+      <pubDate>Sun, 14 Jul 2024 18:11:00 +0200</pubDate>
+      <guid>http://localhost:1313/blog/pensiones-inversion-espana/</guid>
+      <description>Quería estrenar el blog con un tema que, a pesar de tener un impacto enorme sobre la vida de todos los ciudadanos españoles, en mi opinión sigue teniendo un protagonismo mucho menor del que le corresponde, tanto en los medios de comunicación como en el debate público. Sí, de vez en cuando se habla de las pensiones, pero normalmente la conversación es muy superficial y con argumentos muy simples, quedando todo simplificado a un enfrentamiento entre ideologías y sin hacer un análisis detallado que ayude a entender los problemas y las posibles soluciones.</description>
+    </item>
+    <item>
+      <title>Las pensiones y la inversión en España</title>
+      <link>http://localhost:1313/blog/pensiones-inversion-espana/</link>
+      <pubDate>Sun, 14 Jul 2024 18:11:00 +0200</pubDate>
+      <guid>http://localhost:1313/blog/pensiones-inversion-espana/</guid>
+      <description>Quería estrenar el blog con un tema que, a pesar de tener un impacto enorme sobre la vida de todos los ciudadanos españoles, en mi opinión sigue teniendo un protagonismo mucho menor del que le corresponde, tanto en los medios de comunicación como en el debate público. Sí, de vez en cuando se habla de las pensiones, pero normalmente la conversación es muy superficial y con argumentos muy simples, quedando todo simplificado a un enfrentamiento entre ideologías y sin hacer un análisis detallado que ayude a entender los problemas y las posibles soluciones.</description>
+    </item>
+    <item>
+      <title>Las pensiones y la inversión en España</title>
+      <link>http://localhost:1313/es/blog/pensiones-inversion-espana/</link>
+      <pubDate>Sun, 14 Jul 2024 18:11:00 +0200</pubDate>
+      <guid>http://localhost:1313/es/blog/pensiones-inversion-espana/</guid>
+      <description>Quería estrenar el blog con un tema que, a pesar de tener un impacto enorme sobre la vida de todos los ciudadanos españoles, en mi opinión sigue teniendo un protagonismo mucho menor del que le corresponde, tanto en los medios de comunicación como en el debate público. Sí, de vez en cuando se habla de las pensiones, pero normalmente la conversación es muy superficial y con argumentos muy simples, quedando todo simplificado a un enfrentamiento entre ideologías y sin hacer un análisis detallado que ayude a entender los problemas y las posibles soluciones.</description>
+    </item>
+    <item>
+      <title>Las pensiones y la inversión en España</title>
+      <link>http://localhost:1313/es/blog/pensiones-inversion-espana/</link>
+      <pubDate>Sun, 14 Jul 2024 18:11:00 +0200</pubDate>
+      <guid>http://localhost:1313/es/blog/pensiones-inversion-espana/</guid>
+      <description>Quería estrenar el blog con un tema que, a pesar de tener un impacto enorme sobre la vida de todos los ciudadanos españoles, en mi opinión sigue teniendo un protagonismo mucho menor del que le corresponde, tanto en los medios de comunicación como en el debate público. Sí, de vez en cuando se habla de las pensiones, pero normalmente la conversación es muy superficial y con argumentos muy simples, quedando todo simplificado a un enfrentamiento entre ideologías y sin hacer un análisis detallado que ayude a entender los problemas y las posibles soluciones.</description>
+    </item>
+    <item>
+      <title>X Insight Privacy Policy</title>
+      <link>http://localhost:1313/es/xinsight/privacy-policy/</link>
+      <pubDate>Fri, 11 Aug 2023 16:19:28 +0200</pubDate>
+      <guid>http://localhost:1313/es/xinsight/privacy-policy/</guid>
+      <description>{{% include_original_version &amp;ldquo;/xinsight/privacy-policy&amp;rdquo; %}}</description>
+    </item>
+    <item>
+      <title>X Insight Privacy Policy</title>
+      <link>http://localhost:1313/xinsight/privacy-policy/</link>
+      <pubDate>Fri, 11 Aug 2023 16:19:28 +0200</pubDate>
+      <guid>http://localhost:1313/xinsight/privacy-policy/</guid>
+      <description>Privacy Policy Last updated: August 01, 2022&#xA;This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.&#xA;We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.</description>
+    </item>
+  </channel>
+</rss>
