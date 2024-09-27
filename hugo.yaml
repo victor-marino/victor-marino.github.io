@@ -20,27 +20,27 @@ languages:
     weight: 1
     menus:
       main:
-        - name: About me
-          url: /about/#About
-          weight: 1
-        - name: Experience
-          url: /about/#Experience
-          weight: 2
-        - name: Education
-          url: /about/#Education
-          weight: 3
-        - name: Projects
-          url: /about/#Projects
-          weight: 4
-        - name: Achievements
-          url: /about/#Achievements
-          weight: 5
-        - name: Contact
-          url: /about/#Contact
-          weight: 6
         - name: Blog
-          url: /blog
-          weight: 7
+          url: /
+          weight: 1
+        - name: X Insight
+          url: /xinsight
+          weight: 2
+        - name: About me
+          url: /about/
+          weight: 3
+        # - name: Experience
+        #   url: /about/#Experience
+        #   weight: 3
+        # - name: Education
+        #   url: /about/#Education
+        #   weight: 4
+        # - name: Achievements
+        #   url: /about/#Achievements
+        #   weight: 6
+        # - name: Contact
+        #   url: /about/#Contact
+        #   weight: 7
         # Separator
         - name: "●"
           weight: 8
@@ -57,27 +57,27 @@ languages:
     weight: 2
     menu:
       main:
-        - name: Sobre mí
-          url: /es/about/#About
-          weight: 1
-        - name: Experiencia
-          url: /es/about/#Experience
-          weight: 2
-        - name: Educación
-          url: /es/about/#Education
-          weight: 3
-        - name: Proyectos
-          url: /es/about/#Projects
-          weight: 4
-        - name: Logros
-          url: /es/about/#Achievements
-          weight: 5
-        - name: Contacto
-          url: /es/about/#Contact
-          weight: 6
         - name: Blog
-          url: /es/blog
-          weight: 7
+          url: /es/
+          weight: 1
+        - name: X Insight
+          url: /es/xinsight
+          weight: 2
+        - name: Sobre mí
+          url: /es/about/
+          weight: 3
+        # - name: Experiencia
+        #   url: /es/about/#Experience
+        #   weight: 3
+        # - name: Educación
+        #   url: /es/about/#Education
+        #   weight: 4
+        # - name: Logros
+        #   url: /es/about/#Achievements
+        #   weight: 6
+        # - name: Contacto
+        #   url: /es/about/#Contact
+        #   weight: 7
         # Separator
         - name: "●"
           weight: 8
@@ -129,7 +129,7 @@ languages:
       
       # Experience
       experience:
-        enable: true
+        enable: false
         title: "Experiencia"
         items:
           - skill: "Python"
@@ -247,7 +247,7 @@ languages:
 
       # Education
       education:
-        enable: true
+        enable: false
         title: "Educación"
         index: false
         items:
@@ -310,7 +310,7 @@ languages:
 
       # Projects
       projects:
-        enable: true
+        enable: false
         title: "Proyectos"
         items:
           - title: X Insight
@@ -332,7 +332,7 @@ languages:
 
       # Achievements
       achievements:
-        enable: true
+        enable: false
         title: "Logros"
         items:
           - title: Vodafone Tech Expert - Level 5 Principal
@@ -342,10 +342,16 @@ languages:
       # Contact
       contact:
         enable: true
-        title: "Contactar"
-        content: Si quieres ponerte en contacto conmigo, puedes enviarme un correo.
-        email: webcontact@victormarno.com
-        btnName: Escríbeme
+        title: "Contacto"
+        content: Si quieres ponerte en contacto conmigo, puedes mandarme un correo o escribirme en Telegram.
+        contactOptions:
+          fontAwesomeIcons:
+            - icon: fa-solid fa-envelope
+              url: mailto:webcontact@victormarino.com
+            - icon: fa-brands fa-telegram
+              url: https://t.me/VictorML
+        # email: webcontact@victormarno.com
+        # btnName: Escríbeme
 
       # For translations
       terms:
@@ -528,7 +534,7 @@ params:
 
   # Experience
   experience:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - skill: "Python"
@@ -646,7 +652,7 @@ params:
 
   # Education
   education:
-    enable: true
+    enable: false
     # title: "Custom Name"
     index: false
     items:
@@ -709,7 +715,7 @@ params:
 
   # Projects
   projects:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: X Insight
@@ -731,7 +737,7 @@ params:
 
   # Achievements
   achievements:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Vodafone Tech Expert - Level 5 Principal
@@ -742,9 +748,15 @@ params:
   contact:
     enable: true
     title: "Contact"
-    content: If you want to get in touch with me, feel free to send me an email.
-    email: webcontact@victormarno.com
-    btnName: Email me
+    content: If you want to get in touch with me, you can send me an email or reach out to me in Telegram.
+    contactOptions:
+          fontAwesomeIcons:
+            - icon: fa-solid fa-envelope
+              url: mailto:webcontact@victormarino.com
+            - icon: fa-brands fa-telegram
+              url: https://t.me/VictorML
+    # email: webcontact@victormarno.com
+    # btnName: Email me
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
