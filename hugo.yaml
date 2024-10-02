@@ -1,15 +1,15 @@
 baseURL: "https://victormarino.com/"
-languageCode: "en-US"
+languageCode: "es-ES"
 title: "Víctor Marino"
 theme:
 - customized-hugo-profile
 - hugo-profile
-defaultContentLanguage: en
+defaultContentLanguage: es
 defaultContentLanguageInSubdir: false
 
 languages:
   en:
-    #contentDir: content/en
+    contentDir: content/en
     disabled: false
     languageCode: en-EN
     languageDirection: ltr
@@ -21,13 +21,13 @@ languages:
     menus:
       main:
         - name: Blog
-          url: /
+          url: /en/
           weight: 1
         - name: X Insight
-          url: /xinsight
+          url: /en/xinsight
           weight: 2
         - name: About me
-          url: /about/
+          url: /en/about/
           weight: 3
         # - name: Experience
         #   url: /about/#Experience
@@ -46,7 +46,7 @@ languages:
           weight: 8
 
   es:
-    contentDir: content/es/
+    # contentDir: content/es/
     disabled: false
     languageCode: es-ES
     languageDirection: ltr
@@ -58,13 +58,13 @@ languages:
     menu:
       main:
         - name: Blog
-          url: /es/
+          url: /
           weight: 1
         - name: X Insight
-          url: /es/xinsight
+          url: /xinsight
           weight: 2
         - name: Sobre mí
-          url: /es/about/
+          url: /about/
           weight: 3
         # - name: Experiencia
         #   url: /es/about/#Experience
@@ -87,8 +87,8 @@ languages:
         enable: true
         intro: "Hola, soy"
         title: "Víctor."
-        subtitle: "Ingeniero de Software y Telecomunicaciones"
-        content: Con debilidad por las finanzas ;-)
+        subtitle: ""
+        content: Un ingeniero con debilidad por las finanzas ;-)
         image: /images/profile_avatar.png
         bottomImage:
           enable: true
@@ -318,7 +318,7 @@ languages:
             image: /images/xinsight/xinsight_feature_graphic.png
             featured:
               name: X Insight
-              link: /es/xinsight
+              link: /xinsight
             badges:
               - "Flutter"
               - "Mobile apps"
@@ -490,8 +490,8 @@ params:
     enable: true
     intro: "Hi, I'm"
     title: "Víctor."
-    subtitle: "Telecoms & Software Engineer"
-    content: "With a soft spot for finance ;-)"
+    subtitle: ""
+    content: "An engineer with a soft spot for finance ;-)"
     image: /images/profile_avatar.png
     bottomImage:
       enable: true
@@ -515,7 +515,7 @@ params:
   # About
   about:
     enable: true
-    title: "About Me"
+    title: "About me"
     image: "/images/profile_picture.png"
     content: |-
       I am a software engineer with a strong background in telecommunications and mobile networks. With over 13 years of experience in the telco industry, I've worked in a wide range of roles and areas: product management, network design, KPI monitoring and optimization, low latency services, 5G applications... as well as many innovation projects.
@@ -589,7 +589,7 @@ params:
         featuredLink:
           enable: true
           name: "X Insight"
-          url: "/xinsight"
+          url: "/en/xinsight"
         content: |
           X Insight is a cross-platform and open-source app that I developed as a personal project. It is currently available for Android, and it can be used by customers of investment firm Indexa Capital as an alternative to the official app.
 

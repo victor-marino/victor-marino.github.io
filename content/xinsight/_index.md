@@ -8,40 +8,40 @@ enableReadingTime: false
 toc: false
 ---
 
-X Insight is an unofficial, multiplatform and [open-source](https://github.com/victor-marino/xinsight) client for Indexa Capital.
+X Insight es un cliente multiplataforma no oficial y de [código abierto](https://github.com/victor-marino/xinsight) para Indexa Capital.
 
-It's been developed in [Flutter](https://flutter.dev/), and it uses the [official Indexa Capital API](https://indexacapital.com/en/api-rest-v1) to read your account data securely.
+Está desarrollado en [Flutter](https://flutter.dev/), y utiliza la [API oficial de Indexa Capital](https://indexacapital.com/en/api-rest-v1) para leer los datos de tu cuenta de forma segura.
 
-It is currently available for Android only, as Apple no longer allows the app in their App Store.
+Actualmente sólo está disponible para Android, dado que Apple ya no permite su publicación en el App Store.
 
 <div><img src="/images/xinsight/screenshot_01_500.png" width=150/><img src="/images/xinsight/screenshot_02_500.png" width=150/><img src="/images/xinsight/screenshot_03_500.png" width=150/><img src="/images/xinsight/screenshot_04_500.png" width=150/><img src="/images/xinsight/screenshot_05_500.png" width=150/></div>
 
 ---
 
-## Download
-[![google_play_badge](/images/xinsight/google-play-badge-en.png)](https://play.google.com/store/apps/details?id=com.victormarino.indexax)
+## Descargar
+[![google_play_badge](/images/xinsight/google-play-badge-es.png)](https://play.google.com/store/apps/details?id=com.victormarino.indexax)
 
-The iOS version has been removed from the App Store, as per Apple's request. I hope I can offer the iOS app to European users again in the future through alternative app stores.
+La versión de iOS ha sido retirada del App Store a petición de Apple. Espero poder volver a ofrecer la app de iOS a los usuarios europeos en el futuro a través de tiendas alternativas a la oficial.
 
-You can find the privacy policy for X Insight [here](/xinsight/privacy-policy).
+Puedes consultar la política de privacidad de X Insight [aquí](privacy-policy).
 
-If you have any questions or comments about the app, feel free to [contact me](mailto:xinsight@victormarino.com).
-
----
-
-## Contribute
-If you want to help improve X Insight, you can:
-* Propose changes or new features
-* Work on an existing issue and send a pull request
-* Make a donation
-
-Take a look at the [issues page](https://github.com/victor-marino/xinsight/issues)!
+Si tienes cualquier pregunta o comentario sobre la app, puedes [contactar conmigo](mailto:xinsight@victormarino.com).
 
 ---
 
-## Donate
-X Insight is a free app, with no ads or monetization of any kind, and it will always stay that way!
+## Contribuir
+Si quieres ayudar a mejorar X Insight, puedes:
+* Proponer cambios o nuevas funcionalidades
+* Trabajar en una propuesta existente y enviar un pull request
+* Hacer una donación
 
-If you'd like to support its ongoing development (or just say thank you), you can buy me a beer in Ko-fi ;-)
+Echa un ojo a la [página de issues](https://github.com/victor-marino/xinsight/issues)!
+
+---
+
+## Donar
+X Insight es una app gratuita, sin anuncios ni monetización de ningún tipo, y siempre será así!
+
+Si te gustaría apoyar su desarollo continuado (o simplemente darme las gracias), puedes invitarme a una cerveza en Ko-fi ;-)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D1VS02X)
