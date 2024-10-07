@@ -14,6 +14,8 @@ Quería estrenar el blog con un tema que, a pesar de tener un impacto enorme sob
 
 ## Origen
 
+Las pensiones en España pasaron por varias fases antes de llegar a su estado actual. Vamos a repasar brevemente esta evolución para entender cómo y porqué hemos terminado con este sistema.
+
 ### Retiro Obrero
 
 Curiosamente, el sistema actual de reparto tuvo un predecesor que podríamos llamar de capitalización. Fue el llamado **Retiro Obrero**[^1], aprobado en 1919, por el cual el Estado aportaba una peseta al mes por cada trabajador en activo, mientras que los patronos aportaban tres pesetas al mes. Este dinero era gestionado por los bancos y cajas de ahorro, y daba derecho a los trabajadores con pocos ingresos a una pensión de una peseta al día (365 al año) a partir de los 65 años. Este importe suponía tan solo entre el 10% y el 20% del salario medio de un obrero, y estaba por tanto concebido como una ayuda contra la pobreza, no como nuestras actuales pensiones de jubilación.
@@ -26,19 +28,20 @@ En 1939 se aprobó el **Subsidio de Vejez**, que al igual que su predecesor sól
 
 Más tarde se integraría en el **Seguro de Vejez e Invalidez (SOVI)**, y las pensiones de reparto se terminarían extendiendo a todos los jubilados, independientemente de su nivel de ingresos. Por tanto, lejos de volver a un sistema de capitalización tras dejar atrás las necesidades excepcionales de la posguerra, se redobló la apuesta por la vía del reparto, perpetuando así la dependencia intergeneracional entre jubilados y trabajadores en activo.
 
-### Reformas
+### Reformas y estado actual
 
 A pesar de contar con numerosas oportunidades, ningún gobierno quiso acometer la necesaria reforma para recuperar un sistema de pensiones basado en la capitalización, y que fuera por tanto sostenible en el tiempo con independencia de la evolución demográfica del país. En lugar de eso, reformas como la del **Pacto de Toledo**[^3] (1995) se limitaron a modificar los parámetros del sistema para mejorar su eficiencia y establecer un fondo de reserva del que poder disponer en situaciones puntuales. Sin embargo, como era de esperar, estos cambios no han hecho más que postergar el problema.
 
-Para ilustrar esto, valga como ejemplo dicho fondo de reserva, que alcanzó la cuantía de casi 67.000 millones de euros en 2011, quedó prácticamente vacío en 2019, contando en la actualidad con tan solo 7.000 millones de euros[^4]:
-![](../assets/fondo_reserva.png)
+Además, lejos de limitar la cuantía de las prestaciones para adaptarlas a nuestra realidad demográfica, en los últimos años no se ha hecho sino todo lo contrario. A fin de proteger su poder adquisitivo frente a la inflación, las pensiones de jubilación se han visto fuertemente incrementadas, tensionando aún más el sistema.
 
-Por poner en contexto la insignificancia de esta cifra, España se gasta actualmente unos **190.000 millones al año** en pensiones[^5], y esta cifra va en aumento año tras año. El actual fondo de reserva no sería suficiente para cubrir siquiera los pagos de un solo mes[^6]:
-![](../assets/evolucion_gasto_mensual_pensiones.png)
+No es objeto de este post analizar en detalle el estado actual del sistema de pensiones ni su sostenibilidad. Pero como referencia, España se gasta actualmente unos **190.000 millones al año** en pensiones[^4], cifra que va en aumento año tras año, mientras que la recaudación por las cotizaciones a la Seguridad Social se situó en 2023 en unos **153.000 millones**[^5]. Estas cifras convierten a las pensiones, de lejos, en la mayor partida de los Presupuestos Generales del Estado:
 
-Es evidente, por tanto
+<iframe src='https://flo.uri.sh/visualisation/7466820/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
+<br><br>
 
 ## Limitaciones de los sistemas de reparto
+
+A continuación vamos a analizar cuáles son los principales problemas y limitaciones inherentes a los sistemas de pensiones basados en el reparto, cómo nos afectan y cómo se comparan con un sistema de capitalización.
 
 ### Ausencia de rentabilidad
 
@@ -64,8 +67,8 @@ En ausencia de rentabilidad alguna, resultaba imprescindible mantener un alto ra
 [^1]: [Wikipedia | Retiro Obrero](https://es.wikipedia.org/wiki/Retiro_Obrero)
 [^2]: [20 minutos | Así acabó la Guerra Civil con la peseta republicana hace ahora ochenta años](https://www.20minutos.es/lainformacion/economia-y-finanzas/asi-acabo-guerra-civil-con-peseta-republicana-hace-ahora-ochenta-anos-5368503/)
 [^3]: [Wikipedia | Pacto de Toledo](https://es.wikipedia.org/wiki/Pacto_de_Toledo)
-[^4]: [Moncloa | Informe anual de Fondo de Reserva de las pensiones](https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2024/030724-saiz-informe-anual-fondo-reserva.aspx)
-[^5]: [Europa Press | Presupuestos Generales del Estado (2023)](https://www.europapress.es/economia/noticia-presupuestos-generales-estado-2023-politicas-dedicara-mas-gasto-cuales-menos-20221004180420.html)
+[^4]: [Europa Press | Presupuestos Generales del Estado (2023)](https://www.europapress.es/economia/noticia-presupuestos-generales-estado-2023-politicas-dedicara-mas-gasto-cuales-menos-20221004180420.html)
+[^5]: [Seguridad Social | Ingresos por cotizaciones a la Seguridad Social](https://revista.seg-social.es/-/los-ingresos-por-cotizaciones-crecen-un-10-por-ciento-en-2023)
 [^6]: [20 minutos | Evolución del gasto mensual en pensiones](https://www.20minutos.es/lainformacion/economia/-gasto-pensiones-crece-un-11-respecto-ano-pasado-supone-ya-12-000-millones-mes-5176007/)
 [^7]: Fuente: [Curvo.eu | Backtest del ETF Amundi MSCI World (ISIN LU1781541179) desde enero de 1985 hasta enero de 2024](https://curvo.eu/backtest/es/cartera/benchmark-global-100-rv--NoIgQgpgdgxgFgWwIYCcDWACA4gGwPYBGSOGAjAAzkCkGASgGogA0woAMgKqkDsAHKQFYALKR4BOZqQC6MoA?config=%7B%22investmentPatterns%22%3A%5B%5B%22one-off%22%2C100000%5D%5D%2C%22periodStart%22%3A%221985-01%22%2C%22periodEnd%22%3A%222024-01%22%7D)
 [^8]: Dato obtenido de la [Calculadora de IPC del INE](https://www.ine.es/calcula/)
