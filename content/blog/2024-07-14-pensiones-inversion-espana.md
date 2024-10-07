@@ -47,22 +47,30 @@ A continuación vamos a analizar cuáles son los principales problemas y limitac
 
 Uno de los principales problemas de las pensiones basadas en el reparto es que se renuncia por completo a la revalorización del capital a lo largo del tiempo. Cada euro aportado por un trabajador en activo se gasta al mes siguiente en pagarle un euro a un pensionista, y por tanto no tiene tiempo de producir rentabilidad alguna en los mercados. Esto constituye un tremendo coste de oportunidad, puesto que el tiempo, recurso tan abundante para una persona que comienza a trabajar, es precisamente el **factor más crítico** para invertir con éxito.
 
-Por ejemplo, una inversión de 100.000€ realizada en enero de 1985 en un indexado al MSCI World (ignoremos para este ejercicio teórico la disponibilidad de vehículos indexados en aquella época) habría alcanzado en enero de 2024, 39 años después, un valor aproximado de 2.000.000€:
+Por ejemplo, una inversión de 100.000€ realizada en enero de 1985 en un fondo que siguiese al MSCI World (ignoremos para este ejercicio teórico la disponibilidad de vehículos indexados en aquella época) habría alcanzado en enero de 2024, 39 años después, un valor aproximado de 2.000.000€:
 ![](../assets/MSCI_World_1985-2024.png)
 *Backtest de una inversión de 100.000€ en el ETF Amundi MSCI World V: 1985-2024[^7]*
 
 Esto supone una revalorización de 20 veces el capital invertido, y una rentabilidad anualizada de un 8% aproximadamente. Incluso si tenemos en cuenta el efecto de la inflación en España a lo largo de esos 39 años, esos 2.000.000€ equivaldrían a unos 570.000€ de 1985[^8], lo cual seguiría suponiendo una revalorización de más de 5 veces el capital invertido en términos reales, y una rentabilidad real anualizada del 4,5%.
 
-Hay que remarcar que esto sólo es un ejercio teórico para ilustrar el coste de oportunidad de *no* invertir a largo plazo. Para hacer una simulación más realista, habría que considerar algunas variables más:
+Por supuesto, esta rentabilidad no se obtiene a cambio de nada: el precio a pagar es la **volatilidad de los mercados** por el camino. Sirva com ejemplo el periodo 2000-2013 de la gráfica de arriba, con profundas caídas que tardaron más de una década en recuperarse. Precisamente por ese motivo es tan importante aprovechar el tiempo, que nos brinda la posibilidad de esperar a que los mercados se recuperen de posibles caídas mientras no necesitemos rescatar nuestra inversión.
+
+También hay que remarcar que esto sólo es un ejercio teórico para ilustrar el coste de oportunidad de *no* invertir a largo plazo. Para hacer una simulación más realista, habría que considerar algunas variables más:
 * La inversión no se haría de golpe al inicio, sino poco a poco en aportaciones mensuales.
 * Las aportaciones serían más pequeñas al principio y crecerían progresivamente, puesto que habitualmente el salario y la capacidad de ahorro del trabajador aumentan con el tiempo.
 * Un inversor prudente no llevaría el 100% de su cartera invertida en renta variable durante toda su vida, sino que iría introduciendo renta fija a medida que se acerca su jubilación para protegerse de la volatilidad de los mercados.
 
-Pero lo importante es entender que, cuando se tienen décadas por delante, el poder de revalorización del capital invertido es enorme. Quien va a necesitar su dinero en 5 años no tiene ese lujo, ya que no podrá asumir el riesgo que implica la renta variable, y además tampoco podrá beneficiarse de la composición de rentabilidades que sólo proporciona el largo plazo. Y esas circunstancias de urgencia fueron las que motivaron la adopción del sistema de reparto tras la guerra. Pero en condiciones normales, un sistema de pensiones trabaja con periodos de más de 40 años, que es la duración de la vida laboral de sus partícipes. Por tanto, no invertir el dinero que entra en ese sistema supone una enorme destrucción de riqueza para el país.
+Pero lo importante es entender que, cuando se tienen décadas por delante, el poder de revalorización del capital invertido es enorme.
+
+Quien va a necesitar su dinero en 5 años no tiene ese lujo, ya que no podrá asumir el riesgo que implica la renta variable, y además tampoco podrá beneficiarse del poder multiplicativo de la composición de rentabilidades que sólo es posible en plazos largos de tiempo. De hecho, fueron esas circunstancias de urgencia las que motivaron la adopción del sistema de reparto tras la guerra. Pero en condiciones normales, un sistema de pensiones trabaja con periodos de ahorro de más de 40 años, que es la duración de la vida laboral de sus partícipes. No invertir el dinero que entra en ese sistema supone una enorme destrucción de riqueza para el país en forma de rentabilidad perdida.
 
 ### Estructura piramidal
 
-En ausencia de rentabilidad alguna, resultaba imprescindible mantener un alto ratio de trabajadores por pensionista para que la cuantía de la prestación fuese lo bastante alta.
+Como acabamos de ver, debido a la ausencia de rentabilidad de los sistemas basados en el reparto, un euro aportado al sistema equivale a un euro cobrado por un pensionista. Por tanto, la viabilidad del sistema dependerá fundamentalmente del **ratio entre cotizantes y pensionistas**.
+
+Normalmente se considera necesario un ratio superior a 2 (2 cotizantes por cada jubilado) 
+
+
 
 [^1]: [Wikipedia | Retiro Obrero](https://es.wikipedia.org/wiki/Retiro_Obrero)
 [^2]: [20 minutos | Así acabó la Guerra Civil con la peseta republicana hace ahora ochenta años](https://www.20minutos.es/lainformacion/economia-y-finanzas/asi-acabo-guerra-civil-con-peseta-republicana-hace-ahora-ochenta-anos-5368503/)
