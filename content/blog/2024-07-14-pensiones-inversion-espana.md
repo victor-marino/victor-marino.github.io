@@ -24,7 +24,7 @@ Sin embargo, la llegada de la guerra imposibilitó que los primeros partícipes 
 
 ### Subsidio de Vejez
 
-En 1939 se aprobó el **Subsidio de Vejez**, que al igual que su predecesor sólo cubría a los jubilados con bajos ingresos. Sin embargo, y a diferencia del Retiro Obrero, el Subsidio de Vejez era un sistema de reparto: los trabajadores en activo empezaban a pagar de inmediato las pensiones de los jubilados, que recibían una pensión vitalicia fija y garantizada. Se eliminaba por tanto el componente de ahorro del sistema, sorteando así el principal problema en aquel momento: la **falta de tiempo** para que los trabajadores más mayores volviesen a acumular suficientes ahorros antes de jubilarse. A cambio, los jubilados pasaban a ser completamente dependientes de los trabajadores en activo de ese momento. Era, en esencia, una transferencia de riqueza de los trabajadores a los jubilados.
+En 1939 se aprobó el **Subsidio de Vejez**, que al igual que su predecesor sólo cubría a los jubilados con bajos ingresos. Sin embargo, y a diferencia del Retiro Obrero, el Subsidio de Vejez era un sistema de reparto: los trabajadores en activo empezaban a pagar de inmediato las pensiones de los jubilados, que recibían una pensión vitalicia fija y garantizada. A cambio, los trabajadores ya no aportaban nada para su propia pensión. Se eliminaba por tanto el componente de ahorro del sistema, sorteando así el principal problema en aquel momento: la **falta de tiempo** para que los trabajadores más mayores volviesen a acumular suficientes ahorros antes de jubilarse. A cambio, los jubilados pasaban a ser completamente dependientes de los trabajadores en activo de ese momento. Era, en esencia, una transferencia de riqueza de los trabajadores a los jubilados.
 
 Más tarde se integraría en el **Seguro de Vejez e Invalidez (SOVI)**, y las pensiones de reparto se terminarían extendiendo a todos los jubilados, independientemente de su nivel de ingresos. Por tanto, lejos de volver a un sistema de capitalización tras dejar atrás las necesidades excepcionales de la posguerra, se redobló la apuesta por la vía del reparto, perpetuando así la dependencia intergeneracional entre jubilados y trabajadores en activo.
 
@@ -32,12 +32,15 @@ Más tarde se integraría en el **Seguro de Vejez e Invalidez (SOVI)**, y las pe
 
 A pesar de contar con numerosas oportunidades, ningún gobierno quiso acometer la necesaria reforma para recuperar un sistema de pensiones basado en la capitalización, y que fuera por tanto sostenible en el tiempo con independencia de la evolución demográfica del país. En lugar de eso, reformas como la del **Pacto de Toledo**[^3] (1995) se limitaron a modificar los parámetros del sistema para mejorar su eficiencia y establecer un fondo de reserva del que poder disponer en situaciones puntuales. Sin embargo, como era de esperar, estos cambios no han hecho más que postergar el problema.
 
-Además, lejos de limitar la cuantía de las prestaciones para adaptarlas a nuestra realidad demográfica, en los últimos años no se ha hecho sino todo lo contrario. A fin de proteger su poder adquisitivo frente a la inflación, las pensiones de jubilación se han visto fuertemente incrementadas, tensionando aún más el sistema.
+Además, lejos de limitar la cuantía de las prestaciones para adaptarlas a nuestra realidad demográfica, en los últimos años no se ha hecho sino todo lo contrario. A fin de proteger su poder adquisitivo frente a la inflación, las pensiones de jubilación se han visto generosamente revalorizadas, tensionando aún más el sistema.
 
-No es objeto de este post analizar en detalle el estado actual del sistema de pensiones ni su sostenibilidad. Pero como referencia, España se gasta actualmente unos **190.000 millones al año** en pensiones[^4], cifra que va en aumento año tras año, mientras que la recaudación por las cotizaciones a la Seguridad Social se situó en 2023 en unos **153.000 millones**[^5]. Estas cifras convierten a las pensiones, de lejos, en la mayor partida de los Presupuestos Generales del Estado:
+No es objeto de este post analizar en detalle el estado actual del sistema de pensiones ni su sostenibilidad. Pero como referencia, España se gasta actualmente unos **190.000 millones al año** en pensiones[^4], cifra que va en aumento año tras año. Estas cifras convierten a las pensiones, de lejos, en la mayor partida de los Presupuestos Generales del Estado:
 
 <iframe src='https://flo.uri.sh/visualisation/7466820/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
-<br><br>
+
+Sin embargo, la recaudación por las cotizaciones a la Seguridad Social se situaba en 2023 en unos **153.000 millones**[^5], claramente insuficiente para cubrir todas sus obligaciones. Para compensar este desfase, el Estado ha venido haciendo cuantiosas transferencias hacia la Seguridad Social, de facto financiando las pensiones por medio de impuestos recaudados con otros fines.
+
+Para quien quiera profundizar sobre este tema, en junio de 2024 Fedea publicó el estudio *"Evolución reciente y situación financiera actual del sistema público de pensiones"* [^6], que aporta más detalles.
 
 ## Limitaciones de los sistemas de reparto
 
@@ -77,6 +80,6 @@ Normalmente se considera necesario un ratio superior a 2 (2 cotizantes por cada 
 [^3]: [Wikipedia | Pacto de Toledo](https://es.wikipedia.org/wiki/Pacto_de_Toledo)
 [^4]: [Europa Press | Presupuestos Generales del Estado (2023)](https://www.europapress.es/economia/noticia-presupuestos-generales-estado-2023-politicas-dedicara-mas-gasto-cuales-menos-20221004180420.html)
 [^5]: [Seguridad Social | Ingresos por cotizaciones a la Seguridad Social](https://revista.seg-social.es/-/los-ingresos-por-cotizaciones-crecen-un-10-por-ciento-en-2023)
-[^6]: [20 minutos | Evolución del gasto mensual en pensiones](https://www.20minutos.es/lainformacion/economia/-gasto-pensiones-crece-un-11-respecto-ano-pasado-supone-ya-12-000-millones-mes-5176007/)
-[^7]: Fuente: [Curvo.eu | Backtest del ETF Amundi MSCI World (ISIN LU1781541179) desde enero de 1985 hasta enero de 2024](https://curvo.eu/backtest/es/cartera/benchmark-global-100-rv--NoIgQgpgdgxgFgWwIYCcDWACA4gGwPYBGSOGAjAAzkCkGASgGogA0woAMgKqkDsAHKQFYALKR4BOZqQC6MoA?config=%7B%22investmentPatterns%22%3A%5B%5B%22one-off%22%2C100000%5D%5D%2C%22periodStart%22%3A%221985-01%22%2C%22periodEnd%22%3A%222024-01%22%7D)
+[^6]: [Fedea | Evolución reciente y situación financiera actual del sistema público de pensiones](https://fedea.net/evolucion-reciente-y-situacion-financiera-actual-del-sistema-publico-de-pensiones/)
+[^7]: [Curvo.eu | Backtest del ETF Amundi MSCI World (ISIN LU1781541179) desde enero de 1985 hasta enero de 2024](https://curvo.eu/backtest/es/cartera/benchmark-global-100-rv--NoIgQgpgdgxgFgWwIYCcDWACA4gGwPYBGSOGAjAAzkCkGASgGogA0woAMgKqkDsAHKQFYALKR4BOZqQC6MoA?config=%7B%22investmentPatterns%22%3A%5B%5B%22one-off%22%2C100000%5D%5D%2C%22periodStart%22%3A%221985-01%22%2C%22periodEnd%22%3A%222024-01%22%7D)
 [^8]: Dato obtenido de la [Calculadora de IPC del INE](https://www.ine.es/calcula/)
