@@ -51,7 +51,7 @@ A continuación vamos a analizar cuáles son los principales problemas y limitac
 Uno de los principales problemas de las pensiones basadas en el reparto es que se renuncia por completo a la revalorización del capital a lo largo del tiempo. Cada euro aportado por un trabajador en activo se gasta al mes siguiente en pagarle un euro a un pensionista, y por tanto no tiene tiempo de producir rentabilidad alguna en los mercados. Esto constituye un tremendo coste de oportunidad, puesto que el tiempo, recurso tan abundante para una persona que comienza a trabajar, es precisamente el **factor más crítico** para invertir con éxito.
 
 Por ejemplo, una inversión de 100.000€ realizada en enero de 1985 en un fondo que siguiese al MSCI World (ignoremos para este ejercicio teórico la disponibilidad de vehículos indexados en aquella época) habría alcanzado en enero de 2024, 39 años después, un valor aproximado de 2.000.000€:
-![](../assets/MSCI_World_1985-2024.png)
+![](/assets/MSCI_World_1985-2024.png)
 *Backtest de una inversión de 100.000€ en el ETF Amundi MSCI World V: 1985-2024[^7]*
 
 Esto supone una revalorización de 20 veces el capital invertido, y una rentabilidad anualizada de un 8% aproximadamente. Incluso si tenemos en cuenta el efecto de la inflación en España a lo largo de esos 39 años, esos 2.000.000€ equivaldrían a unos 570.000€ de 1985[^8], lo cual seguiría suponiendo una revalorización de más de 5 veces el capital invertido en términos reales, y una rentabilidad real anualizada del 4,5%.
@@ -76,7 +76,7 @@ Como acabamos de ver, debido a la ausencia de rentabilidad de los sistemas basad
 El ratio exacto que se necesitará dependerá a su vez de varios factores más: los salarios de los trabajadores actuales, los tipos impositivos, etc. Pero es evidente que, si el objetivo es proporcionar una pensión que proporcione un poder adquisitivo similar al de los salarios actuales, será necesario que haya más de un trabajador por cada pensionista.
 
 Tradicionalmente se ha considerado que un ratio de 2 trabajadores por pensionista es lo mínimo necesario para que estos sistemas sean sostenibles. Sin embargo, durante la última década España ha mantenido un ratio de afiliados vs pensionistas de entre 2,2 y 2,4[^9], y eso no ha sido suficiente para evitar los tremendos desequilibrios que se han producido:
-![](../assets/ratio_afiliados_pensionistas.png)
+![](/assets/ratio_afiliados_pensionistas.png)
 
 
 

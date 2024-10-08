@@ -7,7 +7,7 @@ url: "/en/pensiones-inversion-espana"
 tags:
   - Inversión
   - Pensiones
-toc: false
+toc: true
 ---
 
 {{% include_original_version "/blog/2024-07-14-pensiones-inversion-espana.md" %}}
