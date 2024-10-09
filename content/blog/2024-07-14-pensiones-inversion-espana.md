@@ -38,34 +38,35 @@ No es objeto de este post analizar en detalle el estado actual del sistema de pe
 
 <iframe src='https://flo.uri.sh/visualisation/7466820/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
-Sin embargo, la recaudación por las cotizaciones a la Seguridad Social se situaba en 2023 en unos **153.000 millones**[^5], claramente insuficiente para cubrir todas sus obligaciones. Para compensar este desfase, el Estado ha venido haciendo cuantiosas transferencias hacia la Seguridad Social, de facto financiando las pensiones por medio de impuestos recaudados con otros fines (o con deuda, según se mire, ya que España opera desde hace años con un cuantioso déficit).
+Sin embargo, la recaudación por las cotizaciones a la Seguridad Social se situaba en 2023 en unos **153.000 millones**[^5], claramente insuficiente para cubrir todas sus obligaciones. Para compensar este desfase, el Estado ha venido haciendo cuantiosas transferencias a la Seguridad Social, de facto financiando las pensiones por medio de impuestos recaudados con otros fines o con deuda (España opera desde hace años bajo un importante déficit público).
 
-Para quien quiera profundizar sobre este tema, en junio de 2024 Fedea publicó el estudio *"Evolución reciente y situación financiera actual del sistema público de pensiones"* [^6], que aporta más detalles.
+Para quien quiera profundizar en este tema, en junio de 2024 Fedea publicó el estudio *"Evolución reciente y situación financiera actual del sistema público de pensiones"* [^6], que aporta más detalles.
 
 ## Limitaciones de los sistemas de reparto
 
-A continuación vamos a analizar cuáles son los principales problemas y limitaciones inherentes a los sistemas de pensiones basados en el reparto, cómo nos afectan y cómo se comparan con un sistema de capitalización.
+Una vez tenemos claro cómo hemos llegado hasta esta situación, vamos a repasar cuáles son los principales problemas y limitaciones inherentes a los sistemas de pensiones basados en el reparto, cómo nos afectan y cómo se comparan con un sistema de capitalización.
 
 ### Ausencia de rentabilidad
 
-Uno de los principales problemas de las pensiones basadas en el reparto es que se renuncia por completo a la revalorización del capital a lo largo del tiempo. Cada euro aportado por un trabajador en activo se gasta al mes siguiente en pagarle un euro a un pensionista, y por tanto no tiene tiempo de producir rentabilidad alguna en los mercados. Esto constituye un tremendo coste de oportunidad, puesto que el tiempo, recurso tan abundante para una persona que comienza a trabajar, es precisamente el **factor más crítico** para invertir con éxito.
+Uno de los principales problemas de las pensiones basadas en el reparto es que se renuncia por completo a la revalorización del capital a lo largo del tiempo. Cada euro aportado por un trabajador en activo se gasta al mes siguiente en pagarle un euro a un pensionista, y por tanto no tiene tiempo de producir rentabilidad alguna en los mercados. Esto constituye un tremendo coste de oportunidad, puesto que el tiempo, recurso tan abundante para una persona que comienza a trabajar, es precisamente el **factor más crítico** para rentabilizar las inversiones.
 
 Por ejemplo, una inversión de 100.000€ realizada en enero de 1985 en un fondo que siguiese al MSCI World (ignoremos para este ejercicio teórico la disponibilidad de vehículos indexados en aquella época) habría alcanzado en enero de 2024, 39 años después, un valor aproximado de 2.000.000€:
 ![](/assets/MSCI_World_1985-2024.png)
 *Backtest de una inversión de 100.000€ en el ETF Amundi MSCI World V: 1985-2024[^7]*
 
-Esto supone una revalorización de 20 veces el capital invertido, y una rentabilidad anualizada de un 8% aproximadamente. Incluso si tenemos en cuenta el efecto de la inflación en España a lo largo de esos 39 años, esos 2.000.000€ equivaldrían a unos 570.000€ de 1985[^8], lo cual seguiría suponiendo una revalorización de más de 5 veces el capital invertido en términos reales, y una rentabilidad real anualizada del 4,5%.
+Esto supone una revalorización de 20 veces el capital invertido, y una rentabilidad anualizada de un 8% aproximadamente. Incluso si tenemos en cuenta el efecto de la inflación en España a lo largo de esos 39 años, esos 2.000.000€ equivaldrían a unos 570.000€ de 1985[^8], lo cual seguiría suponiendo una revalorización de más de 5 veces el capital inicial en términos reales, y una rentabilidad real anualizada del 4,5%.
 
-Por supuesto, esta rentabilidad no se obtiene a cambio de nada: el precio a pagar es la **volatilidad de los mercados** por el camino. Sirva com ejemplo el periodo 2000-2013 de la gráfica de arriba, con profundas caídas que tardaron más de una década en recuperarse. Precisamente por ese motivo es tan importante aprovechar el tiempo, que nos brinda la posibilidad de esperar a que los mercados se recuperen de posibles caídas mientras no necesitemos rescatar nuestra inversión.
+Por supuesto, esta rentabilidad no se obtiene a cambio de nada: el precio a pagar es la **volatilidad de los mercados** por el camino. Sirva como ejemplo el periodo 2000-2013 de la gráfica de arriba, con profundas caídas que tardaron más de una década en recuperarse. Precisamente por ese motivo es tan importante aprovechar el tiempo, que nos brinda la posibilidad de esperar a que los mercados se recuperen de posibles caídas mientras no necesitemos rescatar nuestra inversión.
 
 También hay que remarcar que esto sólo es un ejercio teórico para ilustrar el coste de oportunidad de *no* invertir a largo plazo. Para hacer una simulación más realista, habría que considerar algunas variables más:
 * La inversión no se haría de golpe al inicio, sino poco a poco en aportaciones mensuales.
 * Las aportaciones serían más pequeñas al principio y crecerían progresivamente, puesto que habitualmente el salario y la capacidad de ahorro del trabajador aumentan con el tiempo.
 * Un inversor prudente no llevaría el 100% de su cartera invertida en renta variable durante toda su vida, sino que iría introduciendo renta fija a medida que se acerca su jubilación para protegerse de la volatilidad de los mercados.
+* Evidentemente, las rentabilidades futuras del mercado son desconocidas, y el próximo periodo de 40 años no tiene por qué parecerse al anterior.
 
 Pero lo importante es entender que, cuando se tienen décadas por delante, el poder de revalorización del capital invertido es enorme.
 
-Quien va a necesitar su dinero en 5 años no tiene ese lujo, ya que no podrá asumir el riesgo que implica la renta variable, y además tampoco podrá beneficiarse del poder multiplicativo de la composición de rentabilidades que sólo es posible en largos plazos de tiempo. De hecho, fueron esas circunstancias de urgencia las que motivaron la adopción del sistema de reparto tras la guerra.
+Quien va a necesitar su dinero en 5 años no tiene ese lujo, ya que no podrá asumir el riesgo y la volatilidad que conlleva la renta variable, y además tampoco podrá beneficiarse del poder multiplicativo de la composición de rentabilidades que sólo es posible en periodos de tiempo más extensos. De hecho, fueron esos factores los que motivaron la adopción del sistema de reparto tras la guerra.
 
 En condiciones normales, sin embargo, un sistema de pensiones trabaja con periodos de ahorro de más de 40 años, que es la duración de la vida laboral de sus partícipes. No invertir el dinero que entra en ese sistema supone una enorme destrucción de riqueza para el país en forma de rentabilidad perdida.
 
@@ -87,5 +88,5 @@ Tradicionalmente se ha considerado que un ratio de 2 trabajadores por pensionist
 [^5]: [Seguridad Social | Ingresos por cotizaciones a la Seguridad Social](https://revista.seg-social.es/-/los-ingresos-por-cotizaciones-crecen-un-10-por-ciento-en-2023)
 [^6]: [Fedea | Evolución reciente y situación financiera actual del sistema público de pensiones](https://fedea.net/evolucion-reciente-y-situacion-financiera-actual-del-sistema-publico-de-pensiones/)
 [^7]: [Curvo.eu | Backtest del ETF Amundi MSCI World V (1985 - 2024)](https://curvo.eu/backtest/es/cartera/benchmark-global-100-rv--NoIgQgpgdgxgFgWwIYCcDWACA4gGwPYBGSOGAjAAzkCkGASgGogA0woAMgKqkDsAHKQFYALKR4BOZqQC6MoA?config=%7B%22investmentPatterns%22%3A%5B%5B%22one-off%22%2C100000%5D%5D%2C%22periodStart%22%3A%221985-01%22%2C%22periodEnd%22%3A%222024-01%22%7D)
-[^8]: Dato obtenido de la [Calculadora de IPC del INE](https://www.ine.es/calcula/)
+[^8]: [INE | Calculadora de IPC](https://www.ine.es/calcula/)
 [^9]: [Infobae | Ratio de de trabajadores por pensionista en 2024](https://www.infobae.com/espana/2024/10/04/espana-vuelve-a-la-ratio-de-trabajadores-por-pensionista-de-hace-15-anos-pero-no-es-suficiente-para-pagar-las-pensiones/)
