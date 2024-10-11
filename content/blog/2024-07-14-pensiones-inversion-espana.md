@@ -97,7 +97,23 @@ La tasa de fertilidad, también llamado índice de fecundidad (el número de hij
 
 Como vemos, la previsión es que la pirámide pronto sea recta o incluso invertida (parte superior más ancha que la base). Esta forma variará ligeramente entre distintos países desarrollados, pero la tendencia natural siempre irá en esta dirección.
 
-Podemos concluir, por tanto, que los sistemas de pensiones de pueden funcionar durante la (más o menos breve) fase de crecimiento demográfico de un país, pero **dejarán de ser sostenibles una vez el país propere y la población población comience a estabilizarse** de forma natural.
+Podemos concluir, por tanto, que los sistemas de pensiones de reparto pueden funcionar durante la (más o menos breve) fase de crecimiento demográfico de un país, pero **dejarán de ser sostenibles una vez el país propere y la población comience a estabilizarse** de forma natural.
+
+### Destrucción de patrimonio
+
+Otro de los grandes problemas inherentes a los sistemas de pensiones de reparto es la inevitable destrucción de patrimonio que conllevan.
+
+Pongamos el ejemplo de dos trabajadores que, a lo largo de toda su vida laboral, han aportado 500.000€ en total a su sistema de pensiones. El primero lo ha hecho a un sistema de capitalización, donde esas cuantías quedan a su nombre en cualquier instrumento de ahorro o inversión (ignoraremos para este ejemplo la rentabilidad adicional que habría obtenido el segundo trabajador con dicha inversión). El segundo lo ha hecho a un sistema de reparto como el que tenemos en España. Ambos trabajadores se jubilan a los 65 años.
+
+El primer trabajador se jubila con esos 500.000€ a su nombre, y tiene libertad para hacer lo que estime oportuno con ellos. Puede que quiera rescatarlos poco a poco en forma de renta, emulando así lo que obtendría con un sistema de reparto. Pero quizá no necesite todo ese capital para susbsistir, y quiera destinar parte de él a otros fines: adquirir una vivienda, montar su propio negocio, donar parte a sus hijos, etc.
+
+No olvidemos que, a menudo, las sumas importantes de capital pueden tener un impacto mucho más positivo en la vida de una persona joven y que aún no ha tenido tiempo de ahorrar mucho capital, que en una persona ya jubilada y con la vida resuelta. Puede que la compra temprana de un coche o un piso alivien enormemente su precaria situación financiera, o que una fuerte inversión incial para desarrollar una buena idea de negocio le ahorren muchos años de trabajo como asalariado y le permitan comenzar antes su aventura emprendedora.
+
+Y en última instancia, cuando el jubilado fallezca, ese capital pasará a manos de sus herederos. Esto último es muy importante, puesto que garantiza que todo el trabajo y ahorro llevado a cabo durante nuestra vida no se desvanece con nosotros, sino que ayuda a contruir y cimentar el patrimonio de nuestra familia y las generaciones venideras.
+
+Pensemos ahora en el jubilado que lo aportó todo a un sistema de reparto. Para empezar, sólo tiene una forma de disfrutar de "su" ahorro: cobrarlo en forma de renta mensual, y al ritmo que le imponga el Estado. Quizá esa renta no se adapte bien a sus necesidades, ya sea por quedarse demasiado corta, ya sea por ser más alta de lo que necesita. Puede que tenga otros ingresos que hagan poco útil cobrar a mayores una renta del sistema de pensiones, o puede que tenga una enfermedad terminal y tuviese más sentido extraer el capital a un ritmo mayor durante los pocos años de vida que le quedan. En calquier caso, no tiene elección.
+
+Por último, en caso de fallecimiento, lo pierde todo. Ha aportado 500.000€ al sistema a lo largo de toda su vida, pero no tiene nada a su nombre. El caso más extremo sería el del jubilado que fallece inmediatamente después de jubilarse, y que no llega por tanto a disfrutar de esa pensión en absoluto. Todas sus cotizaciones se convierten, en ese caso, en una cuantiosa donación al Estado a cambio de nada.
 
 [^1]: [Wikipedia | Retiro Obrero](https://es.wikipedia.org/wiki/Retiro_Obrero)
 [^2]: [20 minutos | Así acabó la Guerra Civil con la peseta republicana hace ahora ochenta años](https://www.20minutos.es/lainformacion/economia-y-finanzas/asi-acabo-guerra-civil-con-peseta-republicana-hace-ahora-ochenta-anos-5368503/)
