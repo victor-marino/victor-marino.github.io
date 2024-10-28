@@ -38,7 +38,7 @@ No es objeto de este post analizar en detalle el estado actual del sistema de pe
 
 <iframe src='https://flo.uri.sh/visualisation/7466820/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:600px;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe>
 
-Sin embargo, la recaudación por las cotizaciones a la Seguridad Social se situaba en 2023 en unos **153.000 millones**[^5], claramente insuficiente para cubrir todas sus obligaciones. Para compensar este desfase, el Estado ha venido haciendo cuantiosas transferencias a la Seguridad Social, de facto financiando las pensiones por medio de impuestos recaudados con otros fines o con deuda (España opera desde hace años bajo un importante déficit público).
+Sin embargo, la recaudación por las cotizaciones a la Seguridad Social se situaba en 2023 en unos **153.000 millones**[^5], claramente insuficiente para cubrir todas sus obligaciones. Para compensar este desfase, el Estado ha venido haciendo cuantiosas transferencias a la Seguridad Social, de facto financiando las pensiones por medio de impuestos recaudados con otros fines (o con deuda, puesto que España opera desde hace años bajo un importante déficit público).
 
 Para quien quiera profundizar en este tema, en junio de 2024 Fedea publicó el estudio *"Evolución reciente y situación financiera actual del sistema público de pensiones"* [^6], que aporta más detalles.
 
@@ -50,14 +50,14 @@ Una vez tenemos claro cómo hemos llegado hasta esta situación, vamos a repasar
 
 Uno de los principales problemas de las pensiones basadas en el reparto es que se renuncia por completo a la revalorización del capital a lo largo del tiempo. Cada euro aportado por un trabajador en activo se gasta al mes siguiente en pagarle un euro a un pensionista, y por tanto no tiene tiempo de producir rentabilidad alguna en los mercados. Esto constituye un tremendo coste de oportunidad, puesto que el tiempo, recurso tan abundante para una persona que comienza a trabajar, es precisamente el **factor más valioso** a la hora de invertir.
 
-Por ejemplo, una inversión de 100.000€ realizada en enero de 1985 en un fondo que siguiese al MSCI World (ignoremos para este ejercicio teórico la disponibilidad de vehículos indexados en aquella época) habría alcanzado en enero de 2024, 39 años después, un valor aproximado de 2.000.000€:
+Por ejemplo, una inversión de 100.000€ realizada en enero de 1985 en un fondo indexado global (ignoremos para este ejercicio teórico la disponibilidad de vehículos indexados en aquella época) habría alcanzado en enero de 2024, 39 años después, un valor aproximado de 2.000.000€:
 
 ![](/assets/MSCI_World_1985-2024.png)
 *Backtest de una inversión de 100.000€ en el ETF Amundi MSCI World V: 1985-2024[^7]*
 
 Esto supone una revalorización de 20 veces el capital invertido, y una rentabilidad anualizada de un 8% aproximadamente. Incluso si tenemos en cuenta el efecto de la inflación en España a lo largo de esos 39 años, esos 2.000.000€ equivaldrían a unos 570.000€ de 1985[^8], lo cual seguiría suponiendo una revalorización de más de 5 veces el capital inicial en términos reales, y una rentabilidad real anualizada del 4,5%.
 
-Por supuesto, esta rentabilidad no se obtiene a cambio de nada: el precio a pagar es la **volatilidad de los mercados** por el camino. Sirva como ejemplo el periodo 2000-2013 de la gráfica anterior, con profundas caídas que tardaron más de una década en recuperarse. Precisamente por ese motivo es tan importante aprovechar el tiempo, que nos brinda la posibilidad de esperar a que los mercados se recuperen de posibles caídas mientras no necesitemos rescatar nuestra inversión.
+Por supuesto, esta rentabilidad no se obtiene a cambio de nada: el precio a pagar es la **volatilidad de los mercados** por el camino. Sirva como ejemplo el periodo 2000-2013 de la gráfica anterior, con profundas caídas que tardaron más de una década en recuperarse. Precisamente por ese motivo es tan importante aprovechar el tiempo, que nos brinda la posibilidad de esperar pacientemente a que los mercados se recuperen de esas caídas mientras no necesitemos rescatar nuestra inversión.
 
 También hay que remarcar que esto sólo es un ejercio teórico para ilustrar el coste de oportunidad de *no* invertir a largo plazo. Para hacer una simulación más realista, habría que considerar algunas variables más:
 * La inversión no se haría de golpe al inicio, sino poco a poco en aportaciones mensuales.
@@ -67,9 +67,9 @@ También hay que remarcar que esto sólo es un ejercio teórico para ilustrar el
 
 Pero lo importante es entender que, cuando se tienen décadas por delante, el poder de revalorización del capital invertido es enorme.
 
-Quien va a necesitar su dinero en 5 años no tiene ese lujo, ya que no podrá asumir el riesgo y la volatilidad que conlleva la renta variable, y además tampoco podrá beneficiarse del poder multiplicativo de la composición de rentabilidades que sólo es posible en periodos de tiempo más extensos. De hecho, fueron esos factores los que motivaron la adopción del sistema de reparto tras la guerra.
+Quien va a necesitar su dinero en 5 años no tiene ese lujo, ya que no podrá asumir el riesgo y la volatilidad que conlleva la renta variable, y además tampoco podrá beneficiarse del poder multiplicativo de la composición de rentabilidades que sólo es posible a lo largo de periodos de tiempo más extensos. De hecho, fueron esas limitaciones las que motivaron la adopción de un sistema de reparto tras la guerra.
 
-En condiciones normales, sin embargo, un sistema de pensiones trabaja con periodos de ahorro de más de 40 años, que es la duración de la vida laboral de sus partícipes. No invertir el dinero que entra en ese sistema supone una enorme destrucción de riqueza para el país en forma de rentabilidad perdida.
+En condiciones de normalidad y estabilidad, sin embargo, un sistema de pensiones trabaja con periodos de ahorro de más de 40 años (la vida laboral de sus partícipes). No invertir el dinero que entra en ese sistema supone una enorme destrucción de riqueza para el país en forma de rentabilidad perdida.
 
 ### Estructura piramidal
 
@@ -77,15 +77,15 @@ Como acabamos de ver, debido a la ausencia de rentabilidad de los sistemas basad
 
 El ratio exacto que se necesitará dependerá a su vez de varios factores más: los salarios de los trabajadores actuales, los tipos impositivos, etc. Pero es evidente que, si el objetivo es proporcionar una pensión que otorgue un poder adquisitivo similar al de los salarios actuales, será necesario que haya más de un trabajador en activo por cada pensionista. De lo contrario, y dado que no es posible confiscar la totalidad de cada salario para entregárselo como pensión a otra persona, habría que reducir necesariamente las pensiones a una cuantía muy inferior.
 
-¿Qué significa esto? Pues que de forma aproximada, para mantener el sistema en funcionamiento se requiere de una **estructura piramidal**, en la que cada generación tiene al menos el doble de personas que la generación anterior.
+¿Qué significa esto? Pues que para mantener el sistema en funcionamiento se requiere de una **estructura piramidal**, en la que cada generación tiene al menos el doble de personas que la generación anterior.
 
 ![](/assets/estructura_piramidal.png)
 
-Tradicionalmente se ha considerado que un ratio de 2 trabajadores por pensionista es lo mínimo necesario para que estos sistemas sean sostenibles. Sin embargo, durante la última década España ha mantenido un ratio de afiliados vs pensionistas de entre 2,2 y 2,4[^9], y eso no ha evitado los tremendos desequilibrios a los que hemos llegado.
+Tradicionalmente se ha considerado que un ratio de 2 trabajadores por pensionista es lo mínimo necesario para que estos sistemas sean sostenibles. Sin embargo, durante la última década España ha mantenido un ratio superior, de entre 2,2 y 2,4[^9], y aún así no ha podido evitar los tremendos desequilibrios a los que hemos llegado.
 
 ![](/assets/ratio_afiliados_pensionistas.png)
 
-Además, se espera que la situación empeore aún más una vez se jubile la denominada generación del *Baby Boom*, que en España hace referencia a los nacidos entre 1957 y 1977, fruto de la explosión demográfica de la posguerra, y que hoy constituyen una masa laboral de más de 7 millones de trabajadores.
+Además, se espera que la situación empeore aún más una vez se jubile la denominada generación del *Baby Boom*, que en España hace referencia a los nacidos entre 1957 y 1977, fruto de la explosión demográfica de la posguerra. Dicha generación constituye hoy una masa laboral de más de 7 millones de trabajadores.
 
 En cualquier caso, y con independencia del ratio exacto que se requiera en cada caso, el problema de base es evidente: la población del país necesitaría mantenerse en un estado de **crecimiento perpetuo** para sostener un sistema de reparto, lo cual no es realista.
 
@@ -95,7 +95,7 @@ La tasa de fertilidad, también llamado índice de fecundidad (el número de hij
 
 ![](/assets/evolución_pirámide_población_españa.png)
 
-Como vemos, la previsión es que la pirámide pronto sea recta o incluso invertida (parte superior más ancha que la base). Esta forma variará ligeramente entre distintos países desarrollados, pero la tendencia natural siempre irá en esta dirección.
+Como vemos, la previsión es que la pirámide pronto sea completamente invertida (parte superior más ancha que la base). Esta forma variará ligeramente entre distintos países desarrollados, pero la tendencia natural siempre irá en esta dirección.
 
 Podemos concluir, por tanto, que los sistemas de pensiones de reparto pueden funcionar durante la (más o menos breve) fase de crecimiento demográfico de un país, pero **dejarán de ser sostenibles una vez el país propere y la población comience a estabilizarse** de forma natural.
 
@@ -103,7 +103,7 @@ Podemos concluir, por tanto, que los sistemas de pensiones de reparto pueden fun
 
 Otro de los grandes problemas inherentes a los sistemas de pensiones de reparto es la inevitable destrucción de patrimonio que conllevan.
 
-Pongamos el ejemplo de dos trabajadores que, a lo largo de toda su vida laboral, han aportado 500.000€ en total a su sistema de pensiones. El primero lo ha hecho a un sistema de capitalización, donde esas cuantías quedan a su nombre en cualquier instrumento de ahorro o inversión (ignoraremos para este ejemplo la rentabilidad adicional que habría obtenido el trabajador con dicha inversión). El segundo lo ha hecho a un sistema de reparto como el que tenemos en España. Ambos trabajadores se jubilan a los 65 años.
+Pongamos el ejemplo de dos trabajadores que, a lo largo de toda su vida laboral, han aportado 500.000€ en total a su sistema de pensiones. El primero lo ha hecho a un sistema de capitalización, donde esas cuantías quedan a su nombre en cualquier instrumento de ahorro o inversión. Ignoraremos para este ejemplo la enorme rentabilidad adicional que probablemente habría obtenido este primer trabajador, como vimos anteriormente. El segundo trabajador lo ha hecho a un sistema de reparto como el que tenemos en España. Ambos trabajadores se jubilan a los 65 años.
 
 El primer trabajador se jubila con esos 500.000€ a su nombre, y tiene **libertad para hacer lo que estime oportuno con ellos**. Puede que quiera rescatarlos poco a poco en forma de renta, emulando así lo que obtendría con un sistema de reparto. Pero quizá no necesite todo ese capital para susbsistir, y quiera destinar parte de él a otros fines: adquirir una vivienda, montar su propio negocio, donar parte a sus hijos[^12], etc.
 
@@ -115,9 +115,9 @@ Por último, **en caso de fallecimiento, lo pierde todo**. Ha aportado 500.000�
 
 Esto último, aparte de resultar profundamente injusto, tiene enormes consecuencias para el país. Bajo un sistema de capitalización, **toda esa riqueza se va acumulando y transfiriendo de generación en generación**, lo cual posibilita la construcción de patrimonio a lo largo del tiempo, mejora la calidad de vida de los ciudadanos, reduce su dependencia del Estado e incentiva la inversión y el emprendimiento. Si un jubilado fallece con 200.000€ sin consumir, en el sistema de reparto sus hijos **vuelven a comenzar de cero**. En un sistema de capitalización, en cambio, **cada generación puede empezar a construir su vida sobre los cimientos construidos por sus padres**, y a su vez dejarle unos cimientos aún mayores a sus hijos. Perder el efecto acumulativo de este patrimonio a largo plazo supone, de nuevo, una tremenda destrucción de riqueza para cualquier país.
 
-Evidentemente no es imposible ahorrar y transmitir un patrimonio a nuestros hijos bajo un sistema de reparto. Pero ese ahorro sólo puede hacerse ahorrando *a mayores* de las cuantiosas aportaciones que ya se hacen al sistema público de pensiones. Dicho de otra forma, tenemos que ahorrar *a pesar* del sistema, no gracias a él. Esto dificulta y reduce enormemente dicho ahorro, o lo hace directamente inviable para aquellos cuyo salario neto no permita mucho más que cubrir los gastos mensuales.
+Evidentemente no es imposible ahorrar y transmitir un patrimonio a nuestros hijos bajo un sistema de reparto. Pero ese ahorro sólo puede hacerse por fuera del sistema, ahorrando *a mayores* de las cuantiosas aportaciones que ya se hacen obligatoriamente para las pensiones públicas. Dicho de otra forma, tenemos que ahorrar *a pesar* del sistema, no gracias a él. Esto dificulta y reduce enormemente dicho ahorro, o lo hace directamente inviable para aquellos cuyo salario neto no permita mucho más que cubrir los gastos mensuales.
 
-El resultado es que, colectivamente, el país termina siendo mucho más pobre, puesto que una gran parte de la riqueza que debería acumularse y que en última instancia redundaría en inversión y emprendimiento, queda extraida y eliminada de las familias generación tras generación.
+El resultado es que, colectivamente, el país termina siendo mucho más pobre, puesto que una gran parte de la riqueza que debería acumularse, y que en última instancia redundaría en inversión y emprendimiento, es extraida de las familias y eliminada generación tras generación.
 
 
 [^1]: [Wikipedia | Retiro Obrero](https://es.wikipedia.org/wiki/Retiro_Obrero)
@@ -131,4 +131,4 @@ El resultado es que, colectivamente, el país termina siendo mucho más pobre, p
 [^9]: [Infobae | Ratio de de trabajadores por pensionista en 2024](https://www.infobae.com/espana/2024/10/04/espana-vuelve-a-la-ratio-de-trabajadores-por-pensionista-de-hace-15-anos-pero-no-es-suficiente-para-pagar-las-pensiones/)
 [^10]: [Expansión | Índice de Fecundidad en España](https://datosmacro.expansion.com/demografia/natalidad/espana)
 [^11]: [Academia de Inversión | Así funciona el Sistema Público de Pensiones](https://www.academiadeinversion.com/sistema-publico-pensiones-esquema-ponzi/)
-[^12]: Cabe recordar que, a menudo, la disponibilidad de capital puede tener un impacto mucho mayor si se recibe relativamente pronto en la vida, cuando aún se tienen pocos ahorros pero muchos planes por delante. Puede que ese dinero permita al receptor aliviar enormemente su situación financiera a través de la compra temprana de su primer coche o de un piso, o quizá le permita financiar una buena idea de negocio que le ahorre muchos años de trabajo como asalariado e incremente considerablemente sus ingresos. Es poco probable que alguien ya jubilado y con la vida resuelta se beneficie tanto de ese capital, y los sistemas de capitalización facilitan la transferencia de toda esa riqueza acumulada de la forma que el dueño estime oportuno.
+[^12]: Cabe recordar que, a menudo, la disponibilidad de capital puede tener un impacto mucho mayor si se recibe relativamente pronto en la vida (donaciones en vida), cuando los receptores aún tienen pocos ahorros pero muchos planes por delante. Puede que ese dinero permita al receptor aliviar enormemente su situación financiera a través de la compra temprana de su primer coche o de un piso, o quizá le permita financiar una buena idea de negocio que le ahorre muchos años de trabajo como asalariado e incremente considerablemente sus ingresos. Es poco probable que alguien ya jubilado y con la vida resuelta se beneficie tanto de ese capital. Los sistemas de capitalización facilitan la transferencia de riqueza en el tiempo y forma que el dueño estime oportuno, y no necesariamente cuando fallezca.
