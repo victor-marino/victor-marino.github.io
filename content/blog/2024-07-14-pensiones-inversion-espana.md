@@ -75,7 +75,7 @@ En condiciones de normalidad y estabilidad, sin embargo, un sistema de pensiones
 
 Como acabamos de ver, debido a la ausencia de rentabilidad de los sistemas basados en el reparto, un euro aportado al sistema equivale a un euro cobrado por un pensionista. Por tanto, la cuantía que se podrá pagar a los pensionistas sin romper el equilibrio financiero dependerá fundamentalmente del **ratio entre cotizantes y pensionistas**.
 
-El ratio exacto que se necesitará dependerá a su vez de varios factores más: los salarios de los trabajadores actuales, los tipos impositivos, etc. Pero es evidente que, si el objetivo es proporcionar una pensión que otorgue un poder adquisitivo similar al de los salarios actuales, será necesario que haya más de un trabajador en activo por cada pensionista. De lo contrario, y dado que no es posible confiscar la totalidad de cada salario para entregárselo como pensión a otra persona, habría que reducir necesariamente las pensiones a una cuantía muy inferior.
+El ratio exacto que se necesitará dependerá a su vez de varios factores más, como los salarios de los trabajadores actuales o los tipos impositivos. Pero es evidente que, si el objetivo es proporcionar una pensión que otorgue un poder adquisitivo similar al de los salarios actuales, será necesario que haya más de un trabajador en activo por cada pensionista. De lo contrario, y dado que no es posible confiscar la totalidad de cada salario para entregárselo como pensión a otra persona, habría que reducir necesariamente las pensiones a una cuantía muy inferior.
 
 ¿Qué significa esto? Pues que para mantener el sistema en funcionamiento se requiere de una **estructura piramidal**, en la que cada generación tiene al menos el doble de personas que la generación anterior.
 
@@ -103,21 +103,67 @@ Podemos concluir, por tanto, que los sistemas de pensiones de reparto pueden fun
 
 Otro de los grandes problemas inherentes a los sistemas de pensiones de reparto es la inevitable destrucción de patrimonio que conllevan.
 
-Pongamos el ejemplo de dos trabajadores que, a lo largo de toda su vida laboral, han aportado 500.000€ en total a su sistema de pensiones. El primero lo ha hecho a un sistema de capitalización, donde esas cuantías quedan a su nombre en cualquier instrumento de ahorro o inversión. Ignoraremos para este ejemplo la enorme rentabilidad adicional que probablemente habría obtenido este primer trabajador, como vimos anteriormente. El segundo trabajador lo ha hecho a un sistema de reparto como el que tenemos en España. Ambos trabajadores se jubilan a los 65 años.
+Pongamos el ejemplo de dos trabajadores que, a lo largo de toda su vida laboral, han aportado 500.000€ en total a su sistema de pensiones. El primero lo ha hecho a un sistema de capitalización, donde esas cuantías quedan a su nombre en cualquier instrumento de ahorro o inversión. El segundo trabajador lo ha hecho a un sistema de reparto como el que tenemos en España. A pesar de su importancia, ignoraremos para este ejemplo la rentabilidad adicional que se le presupone al primer trabajador gracias a la inversión de sus aportaciones. Supongamos que ambos trabajadores se jubilan a los 65 años. 
 
 El primer trabajador se jubila con esos 500.000€ a su nombre, y tiene **libertad para hacer lo que estime oportuno con ellos**. Puede que quiera rescatarlos poco a poco en forma de renta, emulando así lo que obtendría con un sistema de reparto. Pero quizá no necesite todo ese capital para susbsistir, y quiera destinar parte de él a otros fines: adquirir una vivienda, montar su propio negocio, donar parte a sus hijos[^12], etc.
 
 Y en última instancia, cuando el jubilado fallezca, ese capital pasará a manos de sus herederos. Esto último es muy importante, puesto que garantiza que todo el trabajo y ahorro llevado a cabo durante nuestra vida no se desvanece con nosotros, sino que ayuda a **contruir y cimentar el patrimonio de nuestra familia y de las generaciones venideras**.
 
-Pensemos ahora en el jubilado que lo aportó todo a un sistema de reparto. Para empezar, sólo tiene una forma de disfrutar de "su" ahorro: cobrarlo en forma de renta mensual al ritmo que le imponga el Estado. Quizá esa renta no se adapte bien a sus necesidades, ya sea por quedarse demasiado corta, ya sea por ser más alta de lo que necesita. Puede que tenga otros ingresos que hagan poco útil cobrar ahora una renta del sistema de pensiones (con el consiguiente incremento de su base imponible de cara al IRPF), o puede que tenga una enfermedad terminal y tuviese más sentido extraer el capital a un ritmo mayor durante los pocos años de vida que le quedan. En calquier caso, **no tiene elección**.
+Pensemos ahora en el jubilado que lo aportó todo a un sistema de reparto. Para empezar, sólo tiene una forma de disponer de "su" ahorro: cobrarlo en forma de renta mensual al ritmo que le imponga el Estado. Quizá esa renta no se adapte bien a sus necesidades, ya sea por quedarse demasiado corta, ya sea por ser más alta de lo que necesita. Puede que tenga otros ingresos que hagan poco útil cobrar ahora una renta del sistema de pensiones, lo cual además incrementará innecesariamente su pago de impuestos. O puede que tenga una enfermedad terminal y tuviese más sentido extraer el capital a un ritmo mayor durante los pocos años de vida que le puedan quedar. En calquier caso, **no tiene elección**.
 
-Por último, **en caso de fallecimiento, lo pierde todo**. Ha aportado 500.000€ al sistema a lo largo de toda su vida, pero no tiene nada a su nombre. El caso más extremo sería el del cotizante que fallece inmediatamente después de jubilarse, y que no llega por tanto a disfrutar de esa pensión en absoluto. Todas sus cotizaciones se convierten, en ese caso, en una cuantiosa donación al Estado a cambio de nada.
+Por último, **al fallecer, lo pierde todo**. Ha aportado 500.000€ al sistema a lo largo de toda su vida, pero no tiene nada a su nombre. El caso más extremo sería el del cotizante que fallece inmediatamente después de jubilarse, y que no llega por tanto a disfrutar de esa pensión en absoluto. Esos 500.000€ cotizados a lo largo de toda su vida se convertirían, en ese caso, en una cuantiosa donación al Estado a cambio de nada.
 
-Esto último, aparte de resultar profundamente injusto, tiene enormes consecuencias para el país. Bajo un sistema de capitalización, **toda esa riqueza se va acumulando y transfiriendo de generación en generación**, lo cual posibilita la construcción de patrimonio a lo largo del tiempo, mejora la calidad de vida de los ciudadanos, reduce su dependencia del Estado e incentiva la inversión y el emprendimiento. Si un jubilado fallece con 200.000€ sin consumir, en el sistema de reparto sus hijos **vuelven a comenzar de cero**. En un sistema de capitalización, en cambio, **cada generación puede empezar a construir su vida sobre los cimientos construidos por sus padres**, y a su vez dejarle unos cimientos aún mayores a sus hijos. Perder el efecto acumulativo de este patrimonio a largo plazo supone, de nuevo, una tremenda destrucción de riqueza para cualquier país.
+Esto último, aparte de resultar profundamente injusto, tiene enormes consecuencias para el país. Bajo un sistema de capitalización, **toda esa riqueza se va acumulando y transfiriendo de generación en generación**, lo cual posibilita la construcción de patrimonio a lo largo del tiempo, mejora la calidad de vida de los ciudadanos, reduce su dependencia del Estado e incentiva la inversión y el emprendimiento. Si un jubilado fallece con 200.000€ sin consumir, en el sistema de reparto sus hijos **vuelven a comenzar de cero**. En un sistema de capitalización, en cambio, **cada generación puede empezar a construir su vida sobre los cimientos levantados por sus padres**, y a su vez dejarle unos cimientos aún mayores a sus hijos. Perder el efecto acumulativo de este patrimonio a largo plazo supone, de nuevo, una tremenda destrucción de riqueza para cualquier país.
 
-Evidentemente no es imposible ahorrar y transmitir un patrimonio a nuestros hijos bajo un sistema de reparto. Pero ese ahorro sólo puede hacerse por fuera del sistema, ahorrando *a mayores* de las cuantiosas aportaciones que ya se hacen obligatoriamente para las pensiones públicas. Dicho de otra forma, tenemos que ahorrar *a pesar* del sistema, no gracias a él. Esto dificulta y reduce enormemente dicho ahorro, o lo hace directamente inviable para aquellos cuyo salario neto no permita mucho más que cubrir los gastos mensuales.
+Evidentemente no es imposible ahorrar y transmitir un patrimonio a nuestros hijos bajo un sistema de reparto. Pero ese ahorro sólo puede hacerse por fuera del sistema, ahorrando *a mayores* de las cuantiosas aportaciones que ya se hacen obligatoriamente para las pensiones públicas. Dicho de otra forma, tenemos que ahorrar *a pesar* del sistema, no gracias a él. Esto dificulta y reduce enormemente dicho ahorro, y directamente lo hace inviable para aquellos cuyo salario neto no permite mucho más que cubrir sus gastos mensuales.
 
-El resultado es que, colectivamente, el país termina siendo mucho más pobre, puesto que una gran parte de la riqueza que debería acumularse, y que en última instancia redundaría en inversión y emprendimiento, es extraida de las familias y eliminada generación tras generación.
+El resultado es que, colectivamente, el país termina siendo mucho más pobre, puesto que una gran parte de la riqueza que debería acumularse, y que en última instancia redundaría en inversión y emprendimiento, es extraida y eliminada de las familias generación tras generación.
+
+### Desincentivo a la inversión
+
+Por último, hay otro gran problema que causado por los sistemas puros de reparto, quizá más sutil, pero que en mi opinión también contribuye a lastrar considerablemente el desarrollo económico y financiero del país.
+
+En aquellos países donde las pensiones están total o parcialmente basadas en la capitalización, los ciudadanos normalmente se familiarizan con los instrumentos de inversión relativamente pronto en su vida laboral. Dado que su jubilación y su sustento a largo plazo depende de ello, resulta inevitable que tarde o temprano tengan que tomar decisiones de inversión.
+
+Por ejemplo, en Estados Unidos están muy extendidos los planes 401(k)[^13], que viene a ser un sistema de ahorro donde tanto el trabajador como la empresa hacen aportaciones periódicas a uno o varios instrumentos de inversión (por ejemplo, fondos indexados). La oferta concreta de fondos variará según la empresa, pero es probable que el trabajador tenga que escoger entre distintos fondos, lo cual implica interesarse por su funcionamiento, compararlos y por tanto informarse sobre ellos.
+
+En este caso el incentivo para invertir es muy fuerte, puesto que la alternativa es tener una pensión muy incierta o incluso nula una vez llegada la jubilación. Por tanto, lo más habitual es que el trabajador se interese por el funcionamiento de los mercados, de los riesgos que conlleva la inversión y del coste de oportunidad de no hacerlo. Esto tiende a cambiar profundamente la mentalidad y el entendimiento de las personas con respecto a la economía y las finanzas, además de aprender a diferenciar un buen producto de inversión de uno malo.
+
+En países como España, en cambio, la expectativa "por defecto" es que no hay que preocuparse de nada, puesto que será el Estado quien se encargue de proporcionarnos una generosa pensión una vez nos jubilemos, aparentemente "garantizada" y por tanto sin riesgo. El resultado directo de esto es que:
+* El trabajador tiene mucho menor dinero disponible para invertir (menor salario neto), una vez descontadas las cuantiosas cotizaciones a la Seguridad Social.
+* El trabajador percibe la inversión como un riesgo totalmente innecesario: el Estado le "garantiza" un retiro de oro sin hacer nada.
+* Como consecuencia de esto, el único contacto que el ciudadano suele tener con la inversión es a través de los bancos, que normalmente sólo ofrecen productos malos y caros, muy lucrativos para el banco a costa de los ahorros del cliente.
+* La mala experiencia con estos productos bancarios contribuye a cimentar aún más la mala opinión sobre la inversión en general, que pasa a ser considerada poco menos que un "casino", cuando no directamente un timo. Esto reduce aún más el interés sobre el tema, y termina por desincentivar completamente la inversión por cuenta propia y en productos de calidad.
+
+El resultado final de todo esto es evidente: en España se invierte menos y peor que en la mayoría de países desarrollados, puesto que es de los pocos países con un sistema de pensiones de jubilación 100% público. Y una métrica muy significativa con respecto a esto la tenemos precisamente en los fondos indexados.
+
+En términos generales, los fondos indexados se consideran desde hace años la opción más sensata y conveniente para la mayoría de inversores particulares debido a su amplia diversificación, su funcionamiento sistemático y sin apuestas, y sus costes bajos (casi nulos en muchos casos). Por tanto, la adopción de los fondos indexados por parte de los inversores particulares suelen ser un buen indicador del nivel de formación y conocimientos financieros en ese país.
+
+Si nos fijamos en EEUU, el patrimonio gestionado por fondos y ETFs indexados ya supone **más del 50% del total invertido en fondos**, superando por primera vez a los fondos activos en 2024[^14]. Esto no es ninguna sorpresa, puesto que los flujos de capital llevaban muchos años siendo positivos hacia los fondos pasivos:
+
+![](/assets/passive_vs_active_flows_US.png)
+
+Si nos fijamos en Europa, donde los sistemas de pensiones de reparto tienen un protagonismo mucho mayor, vemos unas cifras muy distintas[^15]:
+
+![](/assets/passive_vs_active_aum_europe.png)
+
+Aunque los flujos también llevan años siendo favorables a los fondos indexados, el patrimonio que gestionaban a finales de 2023 se situaba tan solo en el 26,7%.
+
+Y si miramos a España?
+
+No es fácil encontrar datos recientes, pero en 2020 algunos artículos estimaban que la cuota de mercado de los productos indexados era de tan solo un 2%[^16], cuando en EEUU ya era del 33% y en Europa del 19%.
+
+Es evidente que los sistemas de pensiones no son el único factor que explica estas diferencias; al fin y al cabo, la disponibilidad de productos indexados de bajo coste llegó mucho más tarde a Europa (y a España) que a Estados Unidos, por lo que resulta lógico que su adopción haya sido considerablemente más lenta. Pero no es menos cierto que es imposible contratar un producto que no se conoce. Por tanto, parece lógico que la pobre educación financiera y la ausencia de incentivos para invertir han jugado un papel fundamental en España.
+
+Por su parte, el monopolio total de los bancos sobre el discurso de la inversión no ha hecho sino empeorar aún más la situación, por un lado ocultando la existencia de productos indexados de bajo coste a sus clientes, y por otro ahuyentándolos de la inversión en general tras décadas de altas comisiones y pobres rentabilidades en sus productos propios.
+
+Sirva como ejemplo el testimonio de Fernando Martín del Agua, con una dilatada experiencia en la industria de la gestión activos tanto en EEUU como en España, y que habló sobre este tema en el capítulo 2 del podcast de Indexa Capital[^17]:
+
+> Cita
+
+
+
+## Conclusión
 
 
 [^1]: [Wikipedia | Retiro Obrero](https://es.wikipedia.org/wiki/Retiro_Obrero)
@@ -132,3 +178,8 @@ El resultado es que, colectivamente, el país termina siendo mucho más pobre, p
 [^10]: [Expansión | Índice de Fecundidad en España](https://datosmacro.expansion.com/demografia/natalidad/espana)
 [^11]: [Academia de Inversión | Así funciona el Sistema Público de Pensiones](https://www.academiadeinversion.com/sistema-publico-pensiones-esquema-ponzi/)
 [^12]: Cabe recordar que, a menudo, la disponibilidad de capital puede tener un impacto mucho mayor si se recibe relativamente pronto en la vida (donaciones en vida), cuando los receptores aún tienen pocos ahorros pero muchos planes por delante. Puede que ese dinero permita al receptor aliviar enormemente su situación financiera a través de la compra temprana de su primer coche o de un piso, o quizá le permita financiar una buena idea de negocio que le ahorre muchos años de trabajo como asalariado e incremente considerablemente sus ingresos. Es poco probable que alguien ya jubilado y con la vida resuelta se beneficie tanto de ese capital. Los sistemas de capitalización facilitan la transferencia de riqueza en el tiempo y forma que el dueño estime oportuno, y no necesariamente cuando fallezca.
+[^13]: [Dinero en USA | Plan 401(k)](https://dineroenusa.com/que-es-401k/)
+[^14]: [Cresset Capital | Passive Funds Have Overtaken Actively Managed Funds](https://cressetcapital.com/post/passive-funds-have-overtaken-actively-managed-funds-now-what/)
+[^15]: [Morningstar | Are ETFs taking over Europe too?](https://www.morningstar.co.uk/uk/news/246333/are-etfs-taking-over-europe-too.aspx)
+[^16]: [Dirigentes digitales | Gestión pasiva](https://dirigentesdigital.com/funds-markets/inversion/gestion-pasiva-rentabilidad-decada/)
+[^17]: [Spotify | Capítulo 2 del podcast de Indexa Capital](https://open.spotify.com/episode/0ZKlOnMPz5MyDZevPsECjQ)
