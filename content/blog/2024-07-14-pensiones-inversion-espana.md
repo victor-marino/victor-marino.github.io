@@ -121,25 +121,25 @@ El resultado es que, colectivamente, el país termina siendo mucho más pobre, p
 
 ### Desincentivo a la inversión
 
-Por último, hay otro gran problema que causado por los sistemas puros de reparto, quizá más sutil, pero que en mi opinión también contribuye a lastrar considerablemente el desarrollo económico y financiero del país.
+Por último, hay otro gran problema causado por los sistemas puros de reparto, quizá más sutil, pero en mi opinión tremendamente dañino para el desarrollo económico y financiero del país.
 
-En aquellos países donde las pensiones están total o parcialmente basadas en la capitalización, los ciudadanos normalmente se familiarizan con los instrumentos de inversión relativamente pronto en su vida laboral. Dado que su jubilación y su sustento a largo plazo depende de ello, resulta inevitable que tarde o temprano tengan que tomar decisiones de inversión.
+En aquellos países donde las pensiones están total o parcialmente basadas en la capitalización, los ciudadanos normalmente se familiarizan con los instrumentos de inversión relativamente pronto en su vida laboral. Dado que su jubilación y su sustento a largo plazo dependen de ello, resulta inevitable que tarde o temprano tengan que tomar decisiones de inversión.
 
-Por ejemplo, en Estados Unidos están muy extendidos los planes 401(k)[^13], que viene a ser un sistema de ahorro donde tanto el trabajador como la empresa hacen aportaciones periódicas a uno o varios instrumentos de inversión (por ejemplo, fondos indexados). La oferta concreta de fondos variará según la empresa, pero es probable que el trabajador tenga que escoger entre distintos fondos, lo cual implica interesarse por su funcionamiento, compararlos y por tanto informarse sobre ellos.
+Por ejemplo, en Estados Unidos están muy extendidos los planes 401(k)[^13], que viene a ser un sistema de ahorro donde tanto el trabajador como la empresa hacen aportaciones periódicas a uno o varios instrumentos de inversión (por ejemplo, fondos indexados). La oferta concreta de fondos variará según la empresa, pero es probable que el trabajador tenga que escoger entre distintos fondos, lo cual implica informarse sobre ellos y entender su funcionamiento para poder compararlos.
 
-En este caso el incentivo para invertir es muy fuerte, puesto que la alternativa es tener una pensión muy incierta o incluso nula una vez llegada la jubilación. Por tanto, lo más habitual es que el trabajador se interese por el funcionamiento de los mercados, de los riesgos que conlleva la inversión y del coste de oportunidad de no hacerlo. Esto tiende a cambiar profundamente la mentalidad y el entendimiento de las personas con respecto a la economía y las finanzas, además de aprender a diferenciar un buen producto de inversión de uno malo.
+En este caso el incentivo para invertir es muy fuerte, puesto que la alternativa es tener una pensión muy incierta o incluso nula una vez llegada la jubilación. Por tanto, lo más habitual es que el trabajador se interese por el funcionamiento de los mercados, de los riesgos que conlleva la inversión y del coste de oportunidad de no hacerlo. Esto tiende a cambiar profundamente la mentalidad y el entendimiento de las personas con respecto a la economía y las finanzas, además de aprender a diferenciar un buen producto de inversión de uno peor.
 
 En países como España, en cambio, la expectativa "por defecto" es que no hay que preocuparse de nada, puesto que será el Estado quien se encargue de proporcionarnos una generosa pensión una vez nos jubilemos, aparentemente "garantizada" y por tanto sin riesgo. El resultado directo de esto es que:
-* El trabajador tiene mucho menor dinero disponible para invertir (menor salario neto), una vez descontadas las cuantiosas cotizaciones a la Seguridad Social.
+* El trabajador tiene mucho menos dinero disponible para invertir (menor salario neto), una vez descontadas las cuantiosas cotizaciones a la Seguridad Social.
 * El trabajador percibe la inversión como un riesgo totalmente innecesario: el Estado le "garantiza" un retiro de oro sin hacer nada.
 * Como consecuencia de esto, el único contacto que el ciudadano suele tener con la inversión es a través de los bancos, que normalmente sólo ofrecen productos malos y caros, muy lucrativos para el banco a costa de los ahorros del cliente.
-* La mala experiencia con estos productos bancarios contribuye a cimentar aún más la mala opinión sobre la inversión en general, que pasa a ser considerada poco menos que un "casino", cuando no directamente un timo. Esto reduce aún más el interés sobre el tema, y termina por desincentivar completamente la inversión por cuenta propia y en productos de calidad.
+* La mala experiencia con estos productos bancarios contribuye a cimentar aún más la mala opinión sobre los mercados, que pasan a ser considerados poco menos que un "casino" (cuando no directamente un timo). Esto reduce aún más el interés general por la inversión y termina por desincentivarla por completo.
 
-El resultado final de todo esto es evidente: en España se invierte menos y peor que en la mayoría de países desarrollados, puesto que es de los pocos países con un sistema de pensiones de jubilación 100% público. Y una métrica muy significativa con respecto a esto la tenemos precisamente en los fondos indexados.
+El resultado final de todo esto es evidente: en España se invierte **menos y peor** que en la mayoría de países desarrollados, puesto que es de los pocos países con un sistema 100% público de pensiones de jubilación. Y una métrica muy significativa con respecto a esto la tenemos, precisamente, en los fondos indexados.
 
-En términos generales, los fondos indexados se consideran desde hace años la opción más sensata y conveniente para la mayoría de inversores particulares debido a su amplia diversificación, su funcionamiento sistemático y sin apuestas, y sus costes bajos (casi nulos en muchos casos). Por tanto, la adopción de los fondos indexados por parte de los inversores particulares suelen ser un buen indicador del nivel de formación y conocimientos financieros en ese país.
+Debido a su amplia diversificación, su funcionamiento sistemático y sin apuestas, y sus bajos costes, los fondos indexados se consideran desde hace años la opción más sensata y conveniente para la mayoría de inversores particulares. Su adopción, por tanto, suele ser un buen indicador del nivel de educación financiera de un país.
 
-Si nos fijamos en EEUU, el patrimonio gestionado por fondos y ETFs indexados ya supone **más del 50% del total invertido en fondos**, superando por primera vez a los fondos activos en 2024[^14]. Esto no es ninguna sorpresa, puesto que los flujos de capital llevaban muchos años siendo positivos hacia los fondos pasivos:
+Si nos fijamos en EEUU, el patrimonio gestionado por fondos y ETFs indexados ya supone **más del 50% del total invertido en fondos**, superando por primera vez a los fondos de gestión activa en 2024[^14]. Esto no es ninguna sorpresa, puesto que los flujos de capital llevaban muchos años siendo positivos hacia los fondos pasivos:
 
 ![](/assets/passive_vs_active_flows_US.png)
 
@@ -155,13 +155,14 @@ No es fácil encontrar datos recientes, pero en 2020 algunos artículos estimaba
 
 Es evidente que los sistemas de pensiones no son el único factor que explica estas diferencias; al fin y al cabo, la disponibilidad de productos indexados de bajo coste llegó mucho más tarde a Europa (y a España) que a Estados Unidos, por lo que resulta lógico que su adopción haya sido considerablemente más lenta. Pero no es menos cierto que es imposible contratar un producto que no se conoce, y parece claro que la pobre educación financiera y la ausencia de incentivos para invertir han jugado un papel determinante en España.
 
-Por su parte, el monopolio total de los bancos sobre el discurso de la inversión no ha hecho sino empeorar aún más la situación, por un lado ocultando la existencia de productos indexados de bajo coste a sus clientes, y por otro ahuyentándolos de la inversión en general tras décadas de altas comisiones y pobres rentabilidades en sus productos propios.
+Por su parte, el monopolio total de los bancos sobre el discurso de la inversión no ha hecho sino empeorar aún más la situación, por un lado ocultando a sus clientes la existencia de productos indexados de bajo coste, y por otro ahuyentándolos de la inversión en general tras décadas de altas comisiones y pobres rentabilidades en sus productos propios.
 
-Sirva como ejemplo el testimonio de Fernando Martín del Agua, con una dilatada experiencia en la industria de la gestión activos tanto en EEUU como en España, y que habló sobre este tema en el capítulo 2 del podcast de Indexa Capital[^17]:
-
-> Cita
-
-
+Sirva como ejemplo la opinión de Fernando Martín del Agua, con una dilatada experiencia en la industria de la gestión activos tanto en EEUU como en España, cuando le preguntaron en el podcast de Indexa Capital sobre las principales diferencias entre la industria de gestión de activos de EEUU y la de España[^17]. Estas fueron algunas de sus conclusiones:
+> El inversor final americano tiene un nivel mayor de preocupación por sus activos financieros desde antes, y empieza a pensar, en parte por cómo está estructurado el sistema de ahorro (tanto a nivel público como privado) desde una edad más temprana. Eso implica que en el colegio empiezas a recibir educación financiera, durante la carrera por cómo está estructurada tienes que empezar a pensar en ese tipo de componentes... y eso hace que cuando llegas a la época de tu vida en la que tienes que tomar decisiones más relacionadas con la acumulación de capital tengas más presentes ciertos temas relacionados con la inversión: ahorro sistemático, etc.
+> 
+> [...]
+> 
+> [Yo creo que] También hay un componente de necesidad, y me explico: al final, por el pequeño peso que tiene el sistema público de pensiones americano, cualquier ciudadano americano tiene que pensar desde muy pronto en cómo va a ahorrar para subsistir una vez que se jubile. En ciertos países europeos, por el peso que tiene el sistema público de pensiones, el pensamiento es "cómo cotizo para que luego cuando llegue a mi jubilación tenga una pensión suficientemente holgada como para poder vivir". Y eso hace que tus hábitos de inversión cambien en cierta medida, porque tienes patrones distintos de ahorro. [...] Esto tiene implicaciones prácticas en cómo se comporta el inversor final en cada uno de los dos países.
 
 ## Conclusión
 
