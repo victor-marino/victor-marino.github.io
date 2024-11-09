@@ -153,7 +153,7 @@ Y si miramos a España?
 
 No es fácil encontrar datos recientes, pero en 2020 algunos artículos estimaban que la cuota de mercado de los productos indexados era de tan solo un 2%[^16], cuando en EEUU ya era del 33% y en Europa del 19%.
 
-Es evidente que los sistemas de pensiones no son el único factor que explica estas diferencias; al fin y al cabo, la disponibilidad de productos indexados de bajo coste llegó mucho más tarde a Europa (y a España) que a Estados Unidos, por lo que resulta lógico que su adopción haya sido considerablemente más lenta. Pero no es menos cierto que es imposible contratar un producto que no se conoce. Por tanto, parece lógico que la pobre educación financiera y la ausencia de incentivos para invertir han jugado un papel fundamental en España.
+Es evidente que los sistemas de pensiones no son el único factor que explica estas diferencias; al fin y al cabo, la disponibilidad de productos indexados de bajo coste llegó mucho más tarde a Europa (y a España) que a Estados Unidos, por lo que resulta lógico que su adopción haya sido considerablemente más lenta. Pero no es menos cierto que es imposible contratar un producto que no se conoce, y parece claro que la pobre educación financiera y la ausencia de incentivos para invertir han jugado un papel determinante en España.
 
 Por su parte, el monopolio total de los bancos sobre el discurso de la inversión no ha hecho sino empeorar aún más la situación, por un lado ocultando la existencia de productos indexados de bajo coste a sus clientes, y por otro ahuyentándolos de la inversión en general tras décadas de altas comisiones y pobres rentabilidades en sus productos propios.
 
