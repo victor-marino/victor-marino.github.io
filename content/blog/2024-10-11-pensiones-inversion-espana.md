@@ -1,7 +1,6 @@
 ---
 title: "Las pensiones y la inversión en España"
-date: 2024-07-14T18:11:00+02:00
-draft: true
+date: 2024-10-11T00:00:00+02:00
 author: "Víctor"
 url: "/pensiones-inversion-espana"
 tags:
@@ -20,7 +19,7 @@ Las pensiones en España pasaron por varias fases antes de llegar a su estado ac
 
 Curiosamente, el sistema actual de reparto tuvo un predecesor que podríamos llamar de capitalización. Fue el llamado **Retiro Obrero**[^1], aprobado en 1919, por el cual el Estado aportaba una peseta al mes por cada trabajador en activo, mientras que los patronos aportaban tres pesetas al mes. Este dinero era gestionado por los bancos y cajas de ahorro, y daba derecho a los trabajadores con pocos ingresos a una pensión de una peseta al día (365 al año) a partir de los 65 años. Este importe suponía tan solo entre el 10% y el 20% del salario medio de un obrero, y estaba por tanto concebido como una ayuda contra la pobreza, no como nuestras actuales pensiones de jubilación.
 
-Sin embargo, la llegada de la guerra imposibilitó que los primeros partícipes de este sistema pudieran llegar a beneficiarse de él. Estos ahorros se habían acumulado en forma de **pesetas republicanas**, una moneda que sufrió una enorme devaluación durante la guerra civil (frente a la estabilidad de la peseta nacional)[^2], y que finalmente terminaría desapareciendo. Por tanto, al terminar la guerra, esas pensiones ahorradas en pesetas republicanas no valían nada, y Franco tuvo que buscar una solución para sustentar a esos trabajadores de bajos ingresos que estaban a punto de jubilarse, pero que habían perdido la pensión que habían acumulado. Fueron estos problemas los que motivaron la migración a un sistema de reparto.
+Sin embargo, la llegada de la guerra imposibilitó que los primeros partícipes de este sistema pudieran llegar a beneficiarse de él. Estos ahorros se habían acumulado en forma de **pesetas republicanas**, una moneda que sufrió una enorme devaluación durante la guerra civil (frente a la relativa estabilidad de la peseta nacional)[^2], y que finalmente terminaría desapareciendo. Por tanto, al terminar la guerra, esas pensiones ahorradas en pesetas republicanas no valían nada, y Franco tuvo que buscar una solución para sustentar a esos trabajadores de bajos ingresos que estaban a punto de jubilarse, pero que habían perdido la pensión que habían acumulado. Fueron estos problemas los que motivaron la migración a un sistema de reparto.
 
 ### Subsidio de Vejez
 
@@ -91,13 +90,13 @@ En cualquier caso, y con independencia del ratio exacto que se requiera en cada 
 
 Como sabemos, los países van pasando por distintas fases demográficas, generalmente con una alta natalidad cuando se encuentran en desarrollo. Una vez el país alcanza cotas más altas de desarrollo, lo habitual es que descienda también la natalidad a medida que las familias dedican más recursos a la crianza de cada hijo.
 
-La tasa de fertilidad, también llamado índice de fecundidad (el número de hijos por mujer) llegó a ser de 3,01 en el año 1964. Desde entonces, ha ido bajando progresivamente hasta llegar a 1,16 en 2022[^10]. La evolución de la pirámide poblacional en España ha reflejado este proceso[^11]:
+El número de hijos por mujer, comúnmente llamado tasa de fertilidad o índice de fecundidad, llegó a ser de 3,01 en el año 1964. Desde entonces, ha ido bajando progresivamente hasta llegar a 1,16 en 2022[^10]. La evolución de la pirámide poblacional en España muestra este proceso[^11]:
 
 ![](/assets/evolución_pirámide_población_españa.png)
 
 Como vemos, la previsión es que la pirámide pronto sea completamente invertida (parte superior más ancha que la base). Esta forma variará ligeramente entre distintos países desarrollados, pero la tendencia natural siempre irá en esta dirección.
 
-Podemos concluir, por tanto, que los sistemas de pensiones de reparto pueden funcionar durante la (más o menos breve) fase de crecimiento demográfico de un país, pero **dejarán de ser sostenibles una vez el país propere y la población comience a estabilizarse** de forma natural.
+Podemos concluir, por tanto, que los sistemas de pensiones puros de reparto pueden funcionar durante la fase de crecimiento demográfico de un país, que será más o menos breve. Pero **dejarán de ser sostenibles una vez el país propere y la población comience a estabilizarse** de forma natural.
 
 ### Destrucción de patrimonio
 
@@ -115,9 +114,9 @@ Por último, **al fallecer, lo pierde todo**. Ha aportado 500.000€ al sistema 
 
 Esto último, aparte de resultar profundamente injusto, tiene enormes consecuencias para el país. Bajo un sistema de capitalización, **toda esa riqueza se va acumulando y transfiriendo de generación en generación**, lo cual posibilita la construcción de patrimonio a lo largo del tiempo, mejora la calidad de vida de los ciudadanos, reduce su dependencia del Estado e incentiva la inversión y el emprendimiento. Si un jubilado fallece con 200.000€ sin consumir, en el sistema de reparto sus hijos **vuelven a comenzar de cero**. En un sistema de capitalización, en cambio, **cada generación puede empezar a construir su vida sobre los cimientos levantados por sus padres**, y a su vez dejarle unos cimientos aún mayores a sus hijos. Perder el efecto acumulativo de este patrimonio a largo plazo supone, de nuevo, una tremenda destrucción de riqueza para cualquier país.
 
-Evidentemente no es imposible ahorrar y transmitir un patrimonio a nuestros hijos bajo un sistema de reparto. Pero ese ahorro sólo puede hacerse por fuera del sistema, ahorrando *a mayores* de las cuantiosas aportaciones que ya se hacen obligatoriamente para las pensiones públicas. Dicho de otra forma, tenemos que ahorrar *a pesar* del sistema, no gracias a él. Esto dificulta y reduce enormemente dicho ahorro, y directamente lo hace inviable para aquellos cuyo salario neto no permite mucho más que cubrir sus gastos mensuales.
+Evidentemente no es imposible ahorrar y transmitir un patrimonio a nuestros hijos bajo un sistema de reparto. Pero ese ahorro sólo puede hacerse por fuera del sistema, ahorrando *a mayores* de las cuantiosas aportaciones que se hacen de forma obligada para las pensiones públicas. Dicho de otra forma, tenemos que ahorrar *a pesar* del sistema, no gracias a él. Esto dificulta y reduce enormemente dicho ahorro, y directamente lo hace inviable para aquellos cuyo salario neto no permite mucho más que subsistir.
 
-El resultado es que, colectivamente, el país termina siendo mucho más pobre, puesto que una gran parte de la riqueza que debería acumularse, y que en última instancia redundaría en inversión y emprendimiento, es extraida y eliminada de las familias generación tras generación.
+El resultado es que, colectivamente, el país termina siendo mucho más pobre, puesto que una gran parte de la riqueza que debería acumularse, y que en última instancia redundaría en inversión, emprendimiento e independencia financiera, es extraida y eliminada de las familias generación tras generación.
 
 ### Desincentivo a la inversión
 
@@ -125,21 +124,21 @@ Por último, hay otro gran problema causado por los sistemas puros de reparto, q
 
 En aquellos países donde las pensiones están total o parcialmente basadas en la capitalización, los ciudadanos normalmente se familiarizan con los instrumentos de inversión relativamente pronto en su vida laboral. Dado que su jubilación y su sustento a largo plazo dependen de ello, resulta inevitable que tarde o temprano tengan que tomar decisiones de inversión.
 
-Por ejemplo, en Estados Unidos están muy extendidos los planes 401(k)[^13], que viene a ser un sistema de ahorro donde tanto el trabajador como la empresa hacen aportaciones periódicas a uno o varios instrumentos de inversión (por ejemplo, fondos indexados). La oferta concreta de fondos variará según la empresa, pero es probable que el trabajador tenga que escoger entre distintos fondos, lo cual implica informarse sobre ellos y entender su funcionamiento para poder compararlos.
+Por ejemplo, en Estados Unidos el peso de las pensiones públicas es muy pequeño, y por contra están muy extendidos los planes 401(k)[^13], que viene a ser un sistema de ahorro donde tanto el trabajador como la empresa hacen aportaciones periódicas a uno o varios instrumentos de inversión (por ejemplo, fondos indexados). La oferta concreta de fondos variará según la empresa, pero es probable que el trabajador tenga que escoger entre distintos fondos, lo cual implica informarse sobre ellos y entender su funcionamiento para poder compararlos.
 
-En este caso el incentivo para invertir es muy fuerte, puesto que la alternativa es tener una pensión muy incierta o incluso nula una vez llegada la jubilación. Por tanto, lo más habitual es que el trabajador se interese por el funcionamiento de los mercados, de los riesgos que conlleva la inversión y del coste de oportunidad de no hacerlo. Esto tiende a cambiar profundamente la mentalidad y el entendimiento de las personas con respecto a la economía y las finanzas, además de aprender a diferenciar un buen producto de inversión de uno peor.
+En este caso el incentivo para invertir es muy fuerte, puesto que la alternativa es tener una pensión muy incierta o incluso nula una vez llegada la jubilación. Por tanto, lo más habitual es que el trabajador se interese por el funcionamiento de los mercados, de los riesgos que conlleva la inversión y del coste de oportunidad de no hacerlo. Esto tiende a cambiar profundamente la mentalidad y el entendimiento de las personas con respecto a la economía y las finanzas, además de permitirles aprender a diferenciar un buen producto de inversión de uno peor.
 
-En países como España, en cambio, la expectativa "por defecto" es que no hay que preocuparse de nada, puesto que será el Estado quien se encargue de proporcionarnos una generosa pensión una vez nos jubilemos, aparentemente "garantizada" y por tanto sin riesgo. El resultado directo de esto es que:
+En países como España, en cambio, la expectativa "por defecto" es que no hay que preocuparse de nada, puesto que será el Estado quien se encargue de proporcionarnos una generosa pensión una vez nos jubilemos, aparentemente "garantizada" y sin riesgo. El resultado directo de esto es que:
 * El trabajador tiene mucho menos dinero disponible para invertir (menor salario neto), una vez descontadas las cuantiosas cotizaciones a la Seguridad Social.
 * El trabajador percibe la inversión como un riesgo totalmente innecesario: el Estado le "garantiza" un retiro de oro sin hacer nada.
-* Como consecuencia de esto, el único contacto que el ciudadano suele tener con la inversión es a través de los bancos, que normalmente sólo ofrecen productos malos y caros, muy lucrativos para el banco a costa de los ahorros del cliente.
+* Como consecuencia de esto, el único contacto que el ciudadano suele tener con la inversión es a través de los bancos, que normalmente sólo ofrecen productos malos y caros, muy lucrativos para el banco a costa del patrimonio del cliente.
 * La mala experiencia con estos productos bancarios contribuye a cimentar aún más la mala opinión sobre los mercados, que pasan a ser considerados poco menos que un "casino" (cuando no directamente un timo). Esto reduce aún más el interés general por la inversión y termina por desincentivarla por completo.
 
 El resultado final de todo esto es evidente: en España se invierte **menos y peor** que en la mayoría de países desarrollados, puesto que es de los pocos países con un sistema 100% público de pensiones de jubilación. Y una métrica muy significativa con respecto a esto la tenemos, precisamente, en los fondos indexados.
 
-Debido a su amplia diversificación, su funcionamiento sistemático y sin apuestas, y sus bajos costes, los fondos indexados se consideran desde hace años la opción más sensata y conveniente para la mayoría de inversores particulares. Su adopción, por tanto, suele ser un buen indicador del nivel de educación financiera de un país.
+Debido a su amplia diversificación, su funcionamiento sistemático y sus bajos costes, los fondos indexados se consideran desde hace años la opción más sensata y conveniente para la mayoría de inversores particulares. Su adopción, por tanto, suele ser un buen indicador del nivel de educación financiera de un país.
 
-Si nos fijamos en EEUU, el patrimonio gestionado por fondos y ETFs indexados ya supone **más del 50% del total invertido en fondos**, superando por primera vez a los fondos de gestión activa en 2024[^14]. Esto no es ninguna sorpresa, puesto que los flujos de capital llevaban muchos años siendo positivos hacia los fondos pasivos:
+Si nos fijamos en EEUU, el patrimonio gestionado por fondos y ETFs indexados ya supone **más del 50% del total invertido en fondos**, habiendo superado por primera vez a los fondos de gestión activa en 2024[^14]. Esto no es ninguna sorpresa, puesto que los flujos de capital llevaban muchos años siendo positivos hacia los fondos pasivos:
 
 ![](/assets/passive_vs_active_flows_US.png)
 
@@ -153,20 +152,20 @@ Y si miramos a España?
 
 No es fácil encontrar datos recientes, pero en 2020 algunos artículos estimaban que la cuota de mercado de los productos indexados era de tan solo un 2%[^16], cuando en EEUU ya era del 33% y en Europa del 19%.
 
-Es evidente que los sistemas de pensiones no son el único factor que explica estas diferencias; al fin y al cabo, la disponibilidad de productos indexados de bajo coste llegó mucho más tarde a Europa (y a España) que a Estados Unidos, por lo que resulta lógico que su adopción haya sido considerablemente más lenta. Pero no es menos cierto que es imposible contratar un producto que no se conoce, y parece claro que la pobre educación financiera y la ausencia de incentivos para invertir han jugado un papel determinante en España.
+Es evidente que los sistemas de pensiones no son el único factor que explica estas diferencias; al fin y al cabo, la disponibilidad de productos indexados de bajo coste llegó mucho más tarde a Europa (y a España) que a Estados Unidos, por lo que resulta lógico que su adopción haya sido más lenta. Pero no es menos cierto que es imposible contratar un producto que no se conoce, y parece claro que la pobre educación financiera y la ausencia de incentivos para invertir han jugado un papel determinante en España.
 
 Por su parte, el monopolio total de los bancos sobre el discurso de la inversión no ha hecho sino empeorar aún más la situación, por un lado ocultando a sus clientes la existencia de productos indexados de bajo coste, y por otro ahuyentándolos de la inversión en general tras décadas de altas comisiones y pobres rentabilidades en sus productos propios.
 
-Sirva como ejemplo la opinión de Fernando Martín del Agua, con una dilatada experiencia en la industria de la gestión activos tanto en EEUU como en España, cuando le preguntaron en el podcast de Indexa Capital sobre las principales diferencias entre la industria de gestión de activos de EEUU y la de España[^17]. Estas fueron algunas de sus conclusiones:
-> El inversor final americano tiene un nivel mayor de preocupación por sus activos financieros desde antes, y empieza a pensar, en parte por cómo está estructurado el sistema de ahorro (tanto a nivel público como privado) desde una edad más temprana. Eso implica que en el colegio empiezas a recibir educación financiera, durante la carrera por cómo está estructurada tienes que empezar a pensar en ese tipo de componentes... y eso hace que cuando llegas a la época de tu vida en la que tienes que tomar decisiones más relacionadas con la acumulación de capital, tengas más presentes ciertos temas relacionados con la inversión: ahorro sistemático, etc.
+Muchos expertos concuerdan con esta visión. Por ejemplo, en el podcast de Indexa Capital pudimos escuchar una entrevista a Fernando Martín del Agua, quien tiene una dilatada experiencia en la industria de gestión de activos. Habiendo trabajado tanto en EEUU como en España, fue cuestionado por las principales diferencias que a su juicio existen entre ambos países en materia de inversión[^17]. Estas fueron algunas de sus conclusiones:
+> El inversor final americano tiene un nivel mayor de preocupación por sus activos financieros desde antes, y empieza a pensar, en parte por cómo está estructurado el sistema de ahorro (tanto a nivel público como privado), desde una edad más temprana. Eso implica que en el colegio empiezas a recibir educación financiera, durante la carrera por cómo está estructurada tienes que empezar a pensar en ese tipo de componentes... y eso hace que cuando llegas a la época de tu vida en la que tienes que tomar decisiones más relacionadas con la acumulación de capital, tengas más presentes ciertos temas relacionados con la inversión: ahorro sistemático, etc.
 > 
 > [...]
 > 
 > [Yo creo que] También hay un componente de necesidad, y me explico: al final, por el pequeño peso que tiene el sistema público de pensiones americano, cualquier ciudadano americano tiene que pensar desde muy pronto en cómo va a ahorrar para subsistir una vez que se jubile. En ciertos países europeos, por el peso que tiene el sistema público de pensiones, el pensamiento es "cómo cotizo para que luego cuando llegue a mi jubilación tenga una pensión suficientemente holgada como para poder vivir". Y eso hace que tus hábitos de inversión cambien en cierta medida, porque tienes patrones distintos de ahorro. [...] Esto tiene implicaciones prácticas en cómo se comporta el inversor final en cada uno de los dos países.
 
-### Soluciones
+## Soluciones
 
-Una vez entendidos los problemas, sólo cabe preguntarse una cosa: ¿qué se puede hacer?
+Una vez entendidos los problemas, la siguiente pregunta es obvia: ¿qué se puede hacer?
 
 Por desgracia, llegados a este punto no existe ninguna solución mágica que pueda arreglar la situación sin sacrificios importantes.
 
@@ -174,29 +173,33 @@ Iniciar ahora la transición hacia un sistema de capitalización implicaría cas
 
 Al mismo tiempo, los trabajadores que comenzasen este proceso ahora seguirían destinando parte de su salario a sostener el actual sistema de reparto, por lo que la acumulación en el nuevo sistema de capitalización también podría ser insuficiente para ellos.
 
-La transición posiblemente habría sido más fácil de abordar a comienzos de los años 2000, cuando la Seguridad Social tenía superávit y se constituyó el fondo de reserva. Se podría haber utilizado todo o parte de ese superávit para compensar la reducción en las aportaciones al sistema de reparto durante el tiempo necesario. También es posible que la Unión Europea hubiese visto con buenos ojos un excepcional endeudamiento público para este fin, puesto que a la postre hubiese redundado en un equilibrio presupuestario mucho más robusto.
+La transición posiblemente habría sido más fácil de abordar a comienzos de los años 2000, cuando la Seguridad Social tenía superávit y se constituyó el fondo de reserva. Se podría haber utilizado ese superávit para mantener el poder adquisitivo de los pensionistas a medida que se reducían las aportaciones al sistema de reparto durante dicha transición. También es posible que la Unión Europea hubiese visto con buenos ojos un excepcional endeudamiento público para este fin, puesto que a la postre hubiese redundado en un equilibrio presupuestario mucho más robusto para España.
 
-Es posible que aún se pueda acometer una reforma de este tipo, pero la situación de déficit presupuestario en que está sumida España desde hace años haría difícil evitar el impacto en el poder adquisitivo de las pensiones de, al menos, dos generaciones.
+Es posible que aún se pueda acometer una reforma de este tipo, pero la situación de déficit presupuestario en que está sumida España desde hace años haría difícil evitar un impacto directo en el poder adquisitivo de las pensiones de, al menos, dos generaciones.
 
-Si no se hacen cambios importantes en el futuro próximo, lo más probable es que tarde o temprano sea inevitable comenzar a reducir la cuantía de las pensiones públicas. La reducción no tiene por qué ser en términos nominales - bastaría con congelarlas durante décadas, de modo que la inflación haga que en términos reales su valor vaya cayendo con el tiempo.
+Si no se hacen cambios importantes en el futuro próximo, lo más probable es que tarde o temprano sea inevitable comenzar a reducir la cuantía de las pensiones públicas. La reducción no tiene por qué ser en términos nominales - bastaría con congelarlas durante décadas, de modo que la inflación haga que en términos reales su valor vaya disminuyendo año tras año.
 
-A partir de ahí, lo ideal sería que los futuros gobiernos también redujesen gradualmente los tipos impositivos de las cotizaciones a la seguridad social para acompañar esta transición, liberando un mayor porcentaje del salario bruto para que el trabajador pueda aportarlo a sistemas privados de ahorro e inversión. Sin embargo, y a riesgo de entrar en terreno puramente especulativo, sería toda una sorpresa pensar en una futura bajada de las cotizaciones viendo el historial de actuaciones en materia impositiva de todos nuestros gobiernos pasados.
+A partir de ahí, lo ideal sería que los futuros gobiernos también redujesen gradualmente los tipos impositivos de las cotizaciones a la seguridad social para acompañar esta transición, liberando un mayor porcentaje del salario bruto para que el trabajador pueda aportarlo a sistemas privados de ahorro e inversión. Sin embargo, y a riesgo de entrar en terreno puramente especulativo, sería toda una sorpresa pensar en una futura bajada de las cotizaciones obligatorias, viendo el historial de actuaciones en materia impositiva de todos nuestros gobiernos pasados.
 
-Por tanto, parece sensato pensar que los ciudadanos tendrán que buscar la forma de ahorrar por su cuenta, al margen de las cotizaciones existentes, para complementar sus pensiones públicas de jubilación.
+Quizá un término medio pase por implantar la obligatoriedad de un nuevo sistema de capitalización, de forma que parte de las nuevas cotizaciones se vayan destinando paulatinamente a él, y cada vez un menor porcentaje se dedique al sistema de reparto.
+
+En cualquier caso, parece sensato pensar que los ciudadanos tendrán que buscar la forma de ahorrar por su cuenta, al margen de las cotizaciones existentes, para complementar sus pensiones públicas de jubilación.
 
 ## Conclusión
 
-España se encuentra actualmente en una situación difícil en lo que respecta a su sistema de pensiones. Lo que en principio debió ser una solución temporal a una situación de emergencia ha terminado perpetuándose durante décadas, generando una dramática relación de dependencia entre trabajadores y jubilados.
+España se encuentra actualmente en una situación difícil en lo que respecta a su sistema de pensiones. Lo que en principio debió ser una solución temporal motivada por una emergencia excepcional se ha terminado perpetuando durante décadas, generando una dramática relación de dependencia entre trabajadores y jubilados.
 
-Ante la ausencia de un componente de inversión, y por tanto de rentabilidad, el sistema adquiere una marcada estructura piramidal, que requiere de un ratio de trabajadores por pensionista que no es realista a largo plazo. Debido a esto, las pensiones de reparto se han convertido en un enorme lastre presupuestario para nuestro país, obligando a nuestros gobiernos a extraer miles de millones de otras partidas para tratar de paliar estos crecientes desequilibrios, pero sin solucionar el problema de base.
+Ante la ausencia de un componente de inversión, y por tanto de rentabilidad, el sistema adquiere una marcada estructura piramidal, que requiere de un ratio de trabajadores por pensionista que no es realista a largo plazo. Debido a esto, las pensiones de reparto se han convertido en un enorme lastre presupuestario para nuestro país, obligando a nuestros gobiernos a extraer cada año miles de millones de euros otras partidas para subsistir, pero sin solucionar el problema de base.
 
 Además, el sistema actual es profundamente injusto para sus partícipes, que ven cómo aportan enormes sumas de forma obligada a lo largo de su vida trabajadora, pero se jubilan sin un solo euro a su nombre. La acumulación y transmisión patrimonial entre generaciones queda profundamente dañada, cuando no eliminada por completo, lo cual lastra la generación de riqueza del país y acentúa aún más la dependencia de sus ciudadanos del Estado.
 
-Como colofón, las pensiones de reparto no sólo empobrecen al país: también contribuyen a perpetuar el analfabetismo financiero, que tiene un impacto aún mayor si cabe al desincentivar por completo la inversión incluso entre aquellos que sí pueden permitirse ahorrar sistemáticamente, y dejándolos a merced de los bancos y sus deshonestas prácticas de inversión.
+Como colofón, las pensiones de reparto no sólo empobrecen al país: también contribuyen a perpetuar el analfabetismo financiero, que tiene un impacto aún mayor si cabe al desincentivar por completo la inversión privada, incluso entre aquellos que sí pueden permitirse ahorrar sistemáticamente, y dejándolos a merced de los bancos y sus deshonestas prácticas comerciales en materia de inversión.
 
 En las próximas décadas, los sucesivos gobiernos tendrán que tomar decisiones difíciles con respecto al actual sistema de pensiones, pero a día de hoy sólo podemos especular.
 
-La lógica dice que es probable que veamos una reducción paulatina en las prestaciones, al menos en términos reales, lo cual obligaría a los ciudadanos a buscar alternativas privadas para mantener su poder adquisitivo durante la jubilación. Esto podría despertar el interés por la inversión a largo plazo, e idealmente los gobiernos acompañarían esta tendencia incentivando vehículos colectivos que faciliten la acumulación de capital. Pero es una incógnita cómo se gestionará esta situación, y por ahora sólo podemos observar y, en la medida de lo posible, priorizar el ahorro y la inversión por cuenta propia en previsión de un escenario poco favorable.
+La lógica dice que es probable que veamos una reducción paulatina en las prestaciones, al menos en términos reales, lo cual obligaría a los ciudadanos a buscar alternativas privadas para mantener su poder adquisitivo durante la jubilación. Esto podría despertar el interés por la inversión a largo plazo, e idealmente los gobiernos acompañarían esta tendencia incentivando vehículos colectivos que faciliten la acumulación de capital.
+
+Pero es una incógnita cómo se gestionará esta situación, y por ahora sólo podemos observar y, en la medida de lo posible, priorizar el ahorro y la inversión por cuenta propia en previsión de un escenario poco favorable.
 
 
 [^1]: [Wikipedia | Retiro Obrero](https://es.wikipedia.org/wiki/Retiro_Obrero)

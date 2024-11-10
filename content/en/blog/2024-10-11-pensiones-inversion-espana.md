@@ -1,7 +1,6 @@
 ---
 title: "Las pensiones y la inversión en España"
-date: 2024-07-14T18:11:00+02:00
-draft: true
+date: 2024-10-11T00:00:00+02:00
 author: "Víctor"
 url: "/en/pensiones-inversion-espana"
 tags:
@@ -10,4 +9,4 @@ tags:
 toc: true
 ---
 
-{{% include_original_version "/blog/2024-07-14-pensiones-inversion-espana.md" %}}
+{{% include_original_version "/blog/2024-10-11-pensiones-inversion-espana.md" %}}
