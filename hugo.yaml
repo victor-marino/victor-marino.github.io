@@ -425,7 +425,7 @@ markup:
 params:
   title: "Víctor Marino"
   description: My personal website
-  # staticPath: ""  # The path to serve the static files from
+  staticPath: ""  # The path to serve the static files from
   favicon: "images/favicon.ico"
   customCSS: true
 
