@@ -21,8 +21,19 @@
 #about ul li::before {
     content: "•" !important;
 }
+
 #experience .experience-container .tab-content .tab-pane ul li::before {
     content: "•" !important;
+}
+
+/* Reduce min height of hero section */
+#hero {
+    min-height: 20vh !important;
+}
+
+.row {
+    vertical-align: bottom !important;
+    align-items: bottom !important;
 }
 
 /* header.css */
@@ -68,6 +79,11 @@ body {
 #single .page-content ol,
 #single .page-content ul {
     list-style-position: outside !important;
+}
+
+/* Reduce font size of quoted text */
+#single .page-content blockquote {
+    font-size: 16px !important;
 }
 
 /* format links nicely in list pages */

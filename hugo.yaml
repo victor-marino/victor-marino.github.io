@@ -1,15 +1,15 @@
-baseURL: "https://victormarino.com"
-languageCode: "en-US"
+baseURL: "https://victormarino.com/"
+languageCode: "es-ES"
 title: "Víctor Marino"
 theme:
 - customized-hugo-profile
 - hugo-profile
-defaultContentLanguage: en
+defaultContentLanguage: es
 defaultContentLanguageInSubdir: false
 
 languages:
   en:
-    #contentDir: content/en
+    contentDir: content/en
     disabled: false
     languageCode: en-EN
     languageDirection: ltr
@@ -20,33 +20,33 @@ languages:
     weight: 1
     menus:
       main:
-        - name: About me
-          url: /#About
+        - name: Blog
+          url: /en/
           weight: 1
-        - name: Experience
-          url: /#Experience
+        - name: X Insight
+          url: /en/xinsight
           weight: 2
-        - name: Education
-          url: /#Education
+        - name: About me
+          url: /en/about/
           weight: 3
-        - name: Projects
-          url: /#Projects
-          weight: 4
-        - name: Achievements
-          url: /#Achievements
-          weight: 5
-        - name: Contact
-          url: /#Contact
-          weight: 6
-        # - name: Blog
-        #   url: /blog
+        # - name: Experience
+        #   url: /about/#Experience
+        #   weight: 3
+        # - name: Education
+        #   url: /about/#Education
+        #   weight: 4
+        # - name: Achievements
+        #   url: /about/#Achievements
+        #   weight: 6
+        # - name: Contact
+        #   url: /about/#Contact
         #   weight: 7
         # Separator
         - name: "●"
           weight: 8
 
   es:
-    contentDir: content/es
+    # contentDir: content/es/
     disabled: false
     languageCode: es-ES
     languageDirection: ltr
@@ -57,26 +57,26 @@ languages:
     weight: 2
     menu:
       main:
-        - name: Sobre mí
-          url: /es/#About
+        - name: Blog
+          url: /
           weight: 1
-        - name: Experiencia
-          url: /es/#Experience
+        - name: X Insight
+          url: /xinsight
           weight: 2
-        - name: Educación
-          url: /es/#Education
+        - name: Sobre mí
+          url: /about/
           weight: 3
-        - name: Proyectos
-          url: /es/#Projects
-          weight: 4
-        - name: Logros
-          url: /es/#Achievements
-          weight: 5
-        - name: Contacto
-          url: /es/#Contact
-          weight: 6
-        # - name: Blog
-        #   url: /es/blog
+        # - name: Experiencia
+        #   url: /es/about/#Experience
+        #   weight: 3
+        # - name: Educación
+        #   url: /es/about/#Education
+        #   weight: 4
+        # - name: Logros
+        #   url: /es/about/#Achievements
+        #   weight: 6
+        # - name: Contacto
+        #   url: /es/about/#Contact
         #   weight: 7
         # Separator
         - name: "●"
@@ -87,8 +87,8 @@ languages:
         enable: true
         intro: "Hola, soy"
         title: "Víctor."
-        subtitle: "Ingeniero de Software y Telecomunicaciones"
-        content: Con debilidad por las finanzas ;-)
+        subtitle: ""
+        content: Un ingeniero con debilidad por las finanzas ;-)
         image: /images/profile_avatar.png
         bottomImage:
           enable: true
@@ -129,7 +129,7 @@ languages:
       
       # Experience
       experience:
-        enable: true
+        enable: false
         title: "Experiencia"
         items:
           - skill: "Python"
@@ -247,7 +247,7 @@ languages:
 
       # Education
       education:
-        enable: true
+        enable: false
         title: "Educación"
         index: false
         items:
@@ -310,7 +310,7 @@ languages:
 
       # Projects
       projects:
-        enable: true
+        enable: false
         title: "Proyectos"
         items:
           - title: X Insight
@@ -318,7 +318,7 @@ languages:
             image: /images/xinsight/xinsight_feature_graphic.png
             featured:
               name: X Insight
-              link: /es/xinsight
+              link: /xinsight
             badges:
               - "Flutter"
               - "Mobile apps"
@@ -332,7 +332,7 @@ languages:
 
       # Achievements
       achievements:
-        enable: true
+        enable: false
         title: "Logros"
         items:
           - title: Vodafone Tech Expert - Level 5 Principal
@@ -342,10 +342,16 @@ languages:
       # Contact
       contact:
         enable: true
-        title: "Contactar"
-        content: Si quieres ponerte en contacto conmigo, puedes enviarme un correo.
-        email: webcontact@victormarno.com
-        btnName: Escríbeme
+        title: "Contacto"
+        content: Si quieres ponerte en contacto conmigo, puedes mandarme un correo o escribirme en Telegram.
+        contactOptions:
+          fontAwesomeIcons:
+            - icon: fa-solid fa-envelope
+              url: mailto:webcontact@victormarino.com
+            - icon: fa-brands fa-telegram
+              url: https://t.me/VictorML
+        # email: webcontact@victormarno.com
+        # btnName: Escríbeme
 
       # For translations
       terms:
@@ -484,8 +490,8 @@ params:
     enable: true
     intro: "Hi, I'm"
     title: "Víctor."
-    subtitle: "Telecoms & Software Engineer"
-    content: "With a soft spot for finance ;-)"
+    subtitle: ""
+    content: "An engineer with a soft spot for finance ;-)"
     image: /images/profile_avatar.png
     bottomImage:
       enable: true
@@ -509,7 +515,7 @@ params:
   # About
   about:
     enable: true
-    title: "About Me"
+    title: "About me"
     image: "/images/profile_picture.png"
     content: |-
       I am a software engineer with a strong background in telecommunications and mobile networks. With over 13 years of experience in the telco industry, I've worked in a wide range of roles and areas: product management, network design, KPI monitoring and optimization, low latency services, 5G applications... as well as many innovation projects.
@@ -528,7 +534,7 @@ params:
 
   # Experience
   experience:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - skill: "Python"
@@ -583,7 +589,7 @@ params:
         featuredLink:
           enable: true
           name: "X Insight"
-          url: "/xinsight"
+          url: "/en/xinsight"
         content: |
           X Insight is a cross-platform and open-source app that I developed as a personal project. It is currently available for Android, and it can be used by customers of investment firm Indexa Capital as an alternative to the official app.
 
@@ -646,7 +652,7 @@ params:
 
   # Education
   education:
-    enable: true
+    enable: false
     # title: "Custom Name"
     index: false
     items:
@@ -709,7 +715,7 @@ params:
 
   # Projects
   projects:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: X Insight
@@ -731,7 +737,7 @@ params:
 
   # Achievements
   achievements:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Vodafone Tech Expert - Level 5 Principal
@@ -742,9 +748,15 @@ params:
   contact:
     enable: true
     title: "Contact"
-    content: If you want to get in touch with me, feel free to send me an email.
-    email: webcontact@victormarno.com
-    btnName: Email me
+    content: If you want to get in touch with me, you can send me an email or reach out to me in Telegram.
+    contactOptions:
+          fontAwesomeIcons:
+            - icon: fa-solid fa-envelope
+              url: mailto:webcontact@victormarino.com
+            - icon: fa-brands fa-telegram
+              url: https://t.me/VictorML
+    # email: webcontact@victormarno.com
+    # btnName: Email me
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'

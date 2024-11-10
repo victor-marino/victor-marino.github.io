@@ -1,0 +1,76 @@
+{{ define "head" }}
+<meta name="description" content="{{ .Title }} of {{ .Site.Title }}">
+<link rel="stylesheet" href="{{ .Site.Params.staticPath }}/css/list.css" media="all">
+<link rel="stylesheet" href="{{ .Site.Params.staticPath }}/css/index.css" media="all">
+<script defer src="{{.Site.Params.staticPath}}/fontawesome-6/all-6.4.2.js"></script>
+
+{{ end }}
+
+{{ define "title" }}
+{{.Title }} | {{ .Site.Title }}
+{{ end }}
+
+{{ define "main" }}
+{{- partial "sections/hero/index.html" . -}}
+<div class="container pt-5" id="list-page">
+    <div class="d-flex justify-content-between align-items-end">
+        <div class="col-sm">
+            <h2 style="margin-bottom: 0;">{{.Title}}</h2>
+        </div>
+        <div class="col-sm text-end">
+            <h6 class="text-end" style="margin-bottom: 0;"><a rel=%q type=%q href=./blog/rss.xml %q title=%q>RSS <i
+                        class="fa-solid fa-rss"></i></a></h5>
+            <!-- {{ with .OutputFormats.Get "rss" -}}
+            {{ printf `
+            <h6 class="text-end" style="margin-bottom: 0;"><a rel=%q type=%q href=./blog/rss.xml %q title=%q>RSS <i class="fa-solid fa-rss"></i></a></h5>
+                ` .Rel
+                .MediaType.Type .Permalink site.Title | safeHTML }}
+                {{ end }} -->
+        </div>
+    </div>
+    <!-- <h2 class="text-center pb-2" style="margin-bottom: 0;">{{.Title}}</h2>
+    {{ with .OutputFormats.Get "rss" -}}
+    {{ printf `
+    <h6 class="text-end pb-2"><a rel=%q type=%q href=./blog/rss.xml %q title=%q>RSS <i class="fa-solid fa-rss"></i></a></h5>` .Rel
+    .MediaType.Type .Permalink site.Title | safeHTML }}
+    {{ end }}
+    <div id="post-content">
+        {{ .Content }}
+    </div> -->
+
+    {{ range (where .Site.RegularPages "Section" "blog") }}
+
+    <div class="card-deck mt-4">
+        <div class="card h-100">
+            {{ if and (not (.Site.Params.listPages.disableFeaturedImage | default false)) (.Params.image) }}
+            <div class="card-header">
+                <a href="{{ .RelPermalink }}">
+                    <img src="{{ .Params.image }}" class="card-img-top" alt="{{ .Title }}">
+                </a>
+            </div>
+            {{ end }}
+            <div class="card-body bg-transparent p-4 shadow-sm">
+                <a href="{{ .RelPermalink }}" class="primary-font card-title">
+                    <h5 class="card-title bg-transparent" title="{{ .Title }}">{{ .Title }}</h5>
+                </a>
+                <div class="card-text secondary-font">
+                    <p>{{ .Summary }}</p>
+                </div>
+            </div>
+            <div class="mt-auto post-footer bg-transparent py-3">
+                <!-- <span class="float-start bg-transparent">{{ .Date.Format (.Site.Params.datesFormat.articleList | default "January 2, 2006") }}</span> -->
+                <span class="float-start bg-transparent">{{ dateFormat (.Site.Params.datesFormat.articleList | default
+                    "January 2, 2006") .Date }}</span>
+                <a href="{{ .RelPermalink }}" class="float-end btn btn-outline-info btn-sm">{{ .Site.Params.terms.read |
+                    default "Read" }}</a>
+            </div>
+        </div>
+    </div>
+    {{ end }}
+    <div class="row justify-content-center">
+        <div class="col-auto m-3">
+            {{template "_internal/pagination.html" . }}
+        </div>
+    </div>
+</div>
+{{ end }}
