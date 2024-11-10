@@ -17,7 +17,7 @@ languages:
     # params:
     #   subtitle: Reference, Tutorials und Explanations
     title: Víctor Marino
-    weight: 2
+    weight: 1
     menus:
       main:
         - name: Blog
@@ -54,7 +54,7 @@ languages:
     # params:
     #   subtitle: Referencias, Tutoriales, and Explicaciones
     title: Víctor Marino
-    weight: 1
+    weight: 2
     menu:
       main:
         - name: Blog
@@ -425,7 +425,7 @@ markup:
 params:
   title: "Víctor Marino"
   description: My personal website
-  staticPath: ""  # The path to serve the static files from
+  # staticPath: ""  # The path to serve the static files from
   favicon: "images/favicon.ico"
   customCSS: true
 
