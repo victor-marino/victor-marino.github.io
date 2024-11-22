@@ -41,6 +41,10 @@
           {{ end }}
           <article class="page-content  p-2">
           {{ .Content | emojify }}
+          {{- /* Comments with cusdis.com */ -}}
+          {{ if and (.Site.Params.CommentsCusdisID) (.Params.comments) }}
+          {{- partial "comments.html" . -}}
+          {{end}}
           </article>
         </div>
       </div>

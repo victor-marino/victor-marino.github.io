@@ -442,6 +442,9 @@ params:
   # Whether the fade animations on the home page will be enabled
   animate: true
 
+# Cusdis ID for comments
+  CommentsCusdisID: 5896c58d-f3bd-4164-bf8e-e88d9c420b45
+  
   theme:
     disableThemeToggle: true
     defaultTheme: "dark" # dark

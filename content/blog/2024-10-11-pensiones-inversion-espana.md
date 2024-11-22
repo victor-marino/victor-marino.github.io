@@ -7,6 +7,7 @@ tags:
   - Pensiones
   - Inversión
 toc: true
+comments: true
 ---
 
 Quería estrenar el blog con un tema que, a pesar de tener un impacto enorme sobre la vida de todos nosotros, sigue teniendo un protagonismo relativamente menor, tanto en los medios de comunicación como en el debate público. Sí, de vez en cuando se habla de las pensiones, pero normalmente la conversación es muy superficial y con argumentos muy simples, quedando a menudo simplificado a un enfrentamiento entre ideologías y sin hacer un análisis detallado que ayude a entender los problemas y las posibles soluciones. Con este post voy a tratar de resumir algunos de estos puntos de forma sencilla para facilitar dicho debate.
@@ -201,7 +202,6 @@ La lógica dice que es probable que veamos una reducción paulatina en las prest
 
 Pero es una incógnita cómo se gestionará esta situación, y por ahora sólo podemos observar y, en la medida de lo posible, priorizar el ahorro y la inversión por cuenta propia en previsión de un escenario poco favorable.
 
-
 [^1]: [Wikipedia | Retiro Obrero](https://es.wikipedia.org/wiki/Retiro_Obrero)
 [^2]: [20 minutos | Así acabó la Guerra Civil con la peseta republicana hace ahora ochenta años](https://www.20minutos.es/lainformacion/economia-y-finanzas/asi-acabo-guerra-civil-con-peseta-republicana-hace-ahora-ochenta-anos-5368503/)
 [^3]: [Wikipedia | Pacto de Toledo](https://es.wikipedia.org/wiki/Pacto_de_Toledo)
@@ -219,3 +219,4 @@ Pero es una incógnita cómo se gestionará esta situación, y por ahora sólo p
 [^15]: [Morningstar | Are ETFs taking over Europe too?](https://www.morningstar.co.uk/uk/news/246333/are-etfs-taking-over-europe-too.aspx)
 [^16]: [Dirigentes digitales | Gestión pasiva](https://dirigentesdigital.com/funds-markets/inversion/gestion-pasiva-rentabilidad-decada/)
 [^17]: [Spotify | Capítulo 2 del podcast de Indexa Capital](https://open.spotify.com/episode/0ZKlOnMPz5MyDZevPsECjQ)
+

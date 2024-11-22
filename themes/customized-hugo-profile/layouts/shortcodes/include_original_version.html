@@ -1,4 +1,4 @@
 {{ with .Site.GetPage (.Get 0) }}
 {{ $original_version := index (.Translations) 0 }}
-{{ $original_version.RawContent | safeHTML }}
+{{ $original_version.Content | safeHTML }}
 {{ end }}

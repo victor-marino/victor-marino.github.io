@@ -7,6 +7,7 @@ tags:
   - Inversión
   - Pensiones
 toc: true
+comments: true
 ---
 
 {{% include_original_version "/blog/2024-10-11-pensiones-inversion-espana.md" %}}
