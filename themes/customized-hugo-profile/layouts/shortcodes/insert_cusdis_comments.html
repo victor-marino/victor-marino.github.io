@@ -1,0 +1,17 @@
+{{- /* Comments with cusdis.com */ -}}
+
+{{ if .Site.Params.CommentsCusdisID }}
+
+    <div id="cusdis_thread" data-host="https://cusdis.com"
+      data-app-id="{{ .Site.Params.CommentsCusdisID }}"
+      data-page-id="{{ .Page.File.UniqueID }}"
+      data-page-url="{{ .Page.Permalink }}"
+      data-page-title="{{ .Page.Title }}"
+      data-theme="dark">
+    </div>
+    <script defer src="https://cusdis.com/js/widget/lang/es.js"></script>
+    <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+    
+{{end}}
+
+{{- /* Comments area end */ -}}
