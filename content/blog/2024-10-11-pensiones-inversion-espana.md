@@ -3,10 +3,7 @@ title: "Las pensiones y la inversión en España"
 date: 2024-10-11T00:00:00+02:00
 author: "Víctor"
 url: "/pensiones-inversion-espana"
-tags:
-  - Pensiones
-  - Inversión
-toc: true
+toc: false
 ---
 
 Quería estrenar el blog con un tema que, a pesar de tener un impacto enorme sobre la vida de todos nosotros, sigue teniendo un protagonismo relativamente menor, tanto en los medios de comunicación como en el debate público. Sí, de vez en cuando se habla de las pensiones, pero normalmente la conversación es muy superficial y con argumentos muy simples, quedando a menudo simplificado a un enfrentamiento entre ideologías y sin hacer un análisis detallado que ayude a entender los problemas y las posibles soluciones. Con este post voy a tratar de resumir algunos de estos puntos de forma sencilla para facilitar dicho debate.
@@ -140,7 +137,7 @@ Debido a su amplia diversificación, su funcionamiento sistemático y sus bajos 
 
 Si nos fijamos en EEUU, el patrimonio gestionado por fondos y ETFs indexados ya supone **más del 50% del total invertido en fondos**, habiendo superado por primera vez a los fondos de gestión activa en 2024[^14]. Esto no es ninguna sorpresa, puesto que los flujos de capital llevaban muchos años siendo positivos hacia los fondos pasivos:
 
-![](/assets/passive_vs_active_flows_us.png)
+![](/assets/passive_vs_active_flows_US.png)
 
 Si nos fijamos en Europa, donde los sistemas de pensiones de reparto tienen un protagonismo mucho mayor, vemos unas cifras muy distintas[^15]:
 
@@ -200,7 +197,6 @@ En las próximas décadas, los sucesivos gobiernos tendrán que tomar decisiones
 La lógica dice que es probable que veamos una reducción paulatina en las prestaciones, al menos en términos reales, lo cual obligaría a los ciudadanos a buscar alternativas privadas para mantener su poder adquisitivo durante la jubilación. Esto podría despertar el interés por la inversión a largo plazo, e idealmente los gobiernos acompañarían esta tendencia incentivando vehículos colectivos que faciliten la acumulación de capital.
 
 Pero es una incógnita cómo se gestionará esta situación, y por ahora sólo podemos observar y, en la medida de lo posible, priorizar el ahorro y la inversión por cuenta propia en previsión de un escenario poco favorable.
-
 
 [^1]: [Wikipedia | Retiro Obrero](https://es.wikipedia.org/wiki/Retiro_Obrero)
 [^2]: [20 minutos | Así acabó la Guerra Civil con la peseta republicana hace ahora ochenta años](https://www.20minutos.es/lainformacion/economia-y-finanzas/asi-acabo-guerra-civil-con-peseta-republicana-hace-ahora-ochenta-anos-5368503/)

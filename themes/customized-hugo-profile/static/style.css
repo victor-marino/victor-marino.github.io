@@ -15,6 +15,26 @@
     border-color: transparent transparent grey;
 } */
 
+.light>* {
+    background-image: linear-gradient(38.73deg,
+            rgb(0 37 204 / 25%) 0%,
+            rgba(201, 32, 184, 0) 50%),
+        linear-gradient(141.27deg,
+            rgba(0, 70, 209, 0) 50%,
+            rgb(174 0 209 / 25%) 100%);
+    background-attachment: fixed;
+}
+
+.dark {
+    background-image: linear-gradient(38.73deg,
+            rgb(0 37 204 / 25%) 0%,
+            rgba(201, 32, 184, 0) 50%),
+        linear-gradient(141.27deg,
+            rgba(0, 70, 209, 0) 50%,
+            rgb(174 0 209 / 25%) 100%);
+    background-attachment: fixed;
+}
+
 /* index.css */
 
 /* Replace arrow character in lists with dots */
@@ -47,6 +67,12 @@
 header {
     top: 0;
     position: sticky;
+    -webkit-backdrop-filter: blur(20px) saturate(0.8) !important;
+    backdrop-filter: blur(20px) saturate(0.8) !important;
+    background-image: none !important;
+    background-color: rgba(0, 0, 0, 0.2) !important;
+    /* color: rgba(0, 0, 0, 0) !important; */
+    /* opacity: 0.5; */
 }
 
 /* Prevent sticky header from covering section titles when clicking navbar links */
@@ -87,13 +113,13 @@ body {
 }
 
 /* format links nicely in list pages */
-#list-page a {
+/* #list-page a {
     display: inline-block;
     text-decoration: none;
     color: var(--primary-color) !important;
-}
+} */
 
-#list-page a::after {
+/* #list-page a::after {
     content: "";
     display: block;
     width: 0px;
@@ -102,10 +128,28 @@ body {
     background-color: var(--primary-color);
     transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1);
     opacity: 0.5;
-}
+} */
 
-#list-page a:hover::after,
+/* #list-page a:hover::after,
 #list-page a:focus::after,
 #list-page a:active::after {
     width: 100%;
+} */
+
+.card {
+    /* -webkit-backdrop-filter: blur(20px) saturate(0.8) !important;
+    backdrop-filter: blur(20px) saturate(0.8) !important; */
+    /* opacity: 0.3 !important; */
+    /* background: rgb(0 0 0 / 20%) !important; */
+    border-radius: 40px !important;
+    padding: 15px;
+    box-shadow: 0 30px 60px rgba(0, 0, 0, 0.5) !important;
 }
+
+/* #list-page .card-text * {
+    background-color: rgba(0, 0, 0, 0) !important;
+} */
+
+/* #list-page .post-footer * {
+    background-color: rgba(0, 0, 0, 0) !important;
+} */
