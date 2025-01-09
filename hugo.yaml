@@ -2,8 +2,8 @@ baseURL: "https://victormarino.com/"
 languageCode: "es-ES"
 title: "Víctor Marino"
 theme:
-- customized-hugo-profile
-- hugo-profile
+  - customized-hugo-profile
+  - hugo-profile
 defaultContentLanguage: es
 defaultContentLanguageInSubdir: false
 
@@ -113,10 +113,10 @@ languages:
         title: "Sobre mí"
         image: "/images/profile_picture.png"
         content: |-
-          Soy un ingeniero de software con una marcada formación en telecomunicaciones y redes móviles. Con más de 13 años de experiecia en el sector de las telecomunicaciones, he trabajado en una gran variedad de roles y áreas: gestión de producto, diseño de red, monitorización y optimización de KPIs, servicios de baja latencia, aplicaciones 5G... así como numerosos proyectos de innovación.
-          
+          Soy un ingeniero de software con una marcada formación en telecomunicaciones y redes móviles. Con más de 13 años de experiecia en el sector de las telecomunicaciones, he trabajado en diversos roles y áreas a lo largo de mi carrera: gestión de producto, diseño de red, monitorización y optimización de KPIs, servicios de baja latencia, aplicaciones 5G... así como numerosos proyectos de innovación.
+
           Desde 2020, mi trabajo se centra en el desarrollo de APIs para exponer funcionalidades de red al exterior, haciendo las redes móviles más abiertas, eficientes e interoperables.
-          
+
           En mi tiempo libre me gusta desarrollar apps móviles, y también ayudo a promover la cultura financiera a través de la comunidad de [Bogleheads España](https://bogleheads.es/).
         skills:
           enable: false
@@ -126,7 +126,7 @@ languages:
             - "Go"
             - "Kubernetes"
             - "Flutter"
-      
+
       # Experience
       experience:
         enable: false
@@ -144,7 +144,7 @@ languages:
               enable: false
             content: |-
               En Network as a Platform, estamos creando una capa de APIs en la nube pública para exponer funcionalidades internas de nuestras redes. Utilizamos una arquitectura basada en microservicios, con Python como lenguaje principal.
-              
+
               Como programador en este equipo, estas son algunas de las tareas y tecnologías con las que trabajo habitualmente:
                 - Diseño completo de APIs
                 - Dev lead de varias APIs
@@ -167,7 +167,7 @@ languages:
               enable: false
             content: |
               En Network as a Platform, estamos creando una capa de APIs en la nube pública para exponer funcionalidades internas de nuestras redes. Para satisfacer todas nuestras necesidades, decidimos desarrollar nuestro propio API gateway, escrito en Go.
-              
+
               Como programador en este equipo, estas son algunas de las tareas y tecnologías con las que trabajo habitualmente:
                 - Contribuciones de código a múltiples módulos: configuración, handlers, logging, rate-limiting, etc.
                 - Código y arquitectura idiomática de Go basada en interfaces
@@ -211,7 +211,7 @@ languages:
               - Presentar demos en el Mobile World Congress a audiencias de distintos perfiles.
               - Liderar múltiples proyectos de innovación: Cloud Smartphone, MusiConnect, Cloud Gaming.
               - Probar y evaluar casos de uso relacionados con 5G y las comunicaciones de baja latencia.
-          
+
           - skill: "Network Performance"
             job: "Ingeniero de rendimiento"
             company: "Vodafone - Group Technology"
@@ -228,7 +228,7 @@ languages:
               - Crear y entregar planes de mejora y optimización para los operadores locales.
               - Organizar sesiones con todos los operadores para identificar, compartir y promover buenas prácticas. 
               - Soporte presencial específico a operadores locales: Vodafone Irlanda, Vodafone Alemania.
-      
+
           - skill: "Producto de red"
             job: "Ingeniero de producto"
             company: "Vodafone - Group Technology"
@@ -365,7 +365,7 @@ languages:
         article: "2 de January, 2006"
         articleList: "2 de January, 2006"
         articleRecent: "2 de January, 2006"
-      
+
       singlePages:
         readTime:
           content: "minutos"
@@ -377,7 +377,7 @@ outputs:
   page:
     - "HTML"
 disableKinds:
-- RSS
+  - RSS
 outputFormats:
   RSS:
     baseName: = "rss"
@@ -459,15 +459,20 @@ params:
   color:
     textColor:
     secondaryTextColor:
-    backgroundColor:
+    backgroundColor: linear-gradient(38.73deg,
+            rgb(0 37 204 / 25%) 0%,
+            rgba(201, 32, 184, 0) 50%),
+        linear-gradient(141.27deg,
+            rgba(0, 70, 209, 0) 50%,
+            rgb(174 0 209 / 25%) 100%);
     secondaryBackgroundColor:
     primaryColor: "#FFFFFF"
     secondaryColor:
 
     darkmode:
-      textColor: 
-      secondaryTextColor: 
-      backgroundColor: 
+      textColor:
+      secondaryTextColor:
+      backgroundColor:
       secondaryBackgroundColor:
       primaryColor: "#94ADD7"
       # secondaryColor:
@@ -522,10 +527,10 @@ params:
     title: "About me"
     image: "/images/profile_picture.png"
     content: |-
-      I am a software engineer with a strong background in telecommunications and mobile networks. With over 13 years of experience in the telco industry, I've worked in a wide range of roles and areas: product management, network design, KPI monitoring and optimization, low latency services, 5G applications... as well as many innovation projects.
-      
+      I'm a software engineer with a strong background in telecommunications and mobile networks. With over 13 years of experience in the telco industry, I've worked in a wide range of roles and areas: product management, network design, KPI monitoring and optimization, low latency services, 5G applications... as well as many innovation projects.
+
       Since 2020, my work has been focused on developing APIs to expose network capabilities to the outside, making mobile networks more open, efficient and interoperable.
-      
+
       In my free time I enjoy developing mobile apps, and I also help promote financial culture through the [Bogleheads Spain](https://bogleheads.es/) community.
     skills:
       enable: false
@@ -553,7 +558,7 @@ params:
           enable: false
         content: |-
           At Network as a Platform, we're creating an API layer in the public cloud to expose internal network capabilities. We use a microservice-based architecture, with Python as our primary language.
-          
+
           As a software developer in this team, here are some of the tasks and technologies I regularly work with:
             - End to end API design
             - Dev lead for multiple APIs
@@ -576,7 +581,7 @@ params:
           enable: false
         content: |
           At Network as a Platform, we're creating an API layer to expose internal network capabilities in the public cloud. To better fulfill our requirements, we decided to develop our own API gateway, written in Go.
-          
+
           As a software developer in this team, here are some of the tasks and technologies I regularly work with:
             - Contribution to multiple modules: configuration, handlers, logging, rate-limiting, etc.
             - Idiomatic interface-based code and architecture
@@ -620,7 +625,7 @@ params:
           - Present Mobile World Congress demos to a wide range of audiences.
           - Lead multiple innovation projects: Cloud Smartphone, MusiConnect, Cloud Gaming.
           - Testing and evaluation of use cases related to 5G and low-latency communications.
-      
+
       - skill: "Network Performance"
         job: "Performance Engineer"
         company: "Vodafone - Group Technology"
@@ -637,7 +642,7 @@ params:
           - Create and deliver improvement plans and optimizations for local markets.
           - Drive knowledge sharing sessions with all markets to identify and promote best practices. 
           - On-site support for local markets when required: Vodafone Ireland, Vodafone Germany.
-  
+
       - skill: "Network Product"
         job: "Product Engineer"
         company: "Vodafone - Group Technology"
@@ -754,11 +759,11 @@ params:
     title: "Contact"
     content: If you want to get in touch with me, you can send me an email or reach out to me in Telegram.
     contactOptions:
-          fontAwesomeIcons:
-            - icon: fa-solid fa-envelope
-              url: mailto:webcontact@victormarino.com
-            - icon: fa-brands fa-telegram
-              url: https://t.me/VictorML
+      fontAwesomeIcons:
+        - icon: fa-solid fa-envelope
+          url: mailto:webcontact@victormarino.com
+        - icon: fa-brands fa-telegram
+          url: https://t.me/VictorML
     # email: webcontact@victormarno.com
     # btnName: Email me
     # formspree:

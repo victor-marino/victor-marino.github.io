@@ -68,9 +68,9 @@ header {
     top: 0;
     position: sticky;
     -webkit-backdrop-filter: blur(20px) saturate(0.8) !important;
-    backdrop-filter: blur(20px) saturate(0.8) !important;
-    background-image: none !important;
-    background-color: rgba(0, 0, 0, 0.2) !important;
+    backdrop-filter: blur(20px) saturate(0.2) !important;
+    /* background-image: none !important; */
+    --background-color: rgba(0, 0, 0, 0);
     /* color: rgba(0, 0, 0, 0) !important; */
     /* opacity: 0.5; */
 }
@@ -86,7 +86,12 @@ header {
 /* Set Ubuntu as default font for body */
 body {
     font-family: "Ubuntu", serif !important;
+    /* min-height: 100%; */
+    /* background-color: black; */
 }
+/* html {
+    min-height: 100%;
+} */
 
 /* Set Ubuntu as secondary font */
 .secondary-font,
@@ -138,9 +143,9 @@ body {
 
 .card {
     /* -webkit-backdrop-filter: blur(20px) saturate(0.8) !important;
-    backdrop-filter: blur(20px) saturate(0.8) !important; */
-    /* opacity: 0.3 !important; */
-    /* background: rgb(0 0 0 / 20%) !important; */
+    backdrop-filter: blur(20px) saturate(0.8) !important;
+    opacity: 0.3 !important;
+    background: rgb(0 0 0 / 20%) !important; */
     border-radius: 40px !important;
     padding: 15px;
     box-shadow: 0 30px 60px rgba(0, 0, 0, 0.5) !important;
@@ -153,3 +158,11 @@ body {
 /* #list-page .post-footer * {
     background-color: rgba(0, 0, 0, 0) !important;
 } */
+
+.toc {
+    overflow: auto !important;
+}
+
+:root {
+    --bs-body-bg: black
+}
