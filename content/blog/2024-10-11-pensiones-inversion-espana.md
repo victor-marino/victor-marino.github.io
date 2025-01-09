@@ -4,6 +4,8 @@ date: 2024-10-11T00:00:00+02:00
 author: "Víctor"
 url: "/pensiones-inversion-espana"
 toc: false
+showTags: false
+comments: true
 ---
 
 Quería estrenar el blog con un tema que, a pesar de tener un impacto enorme sobre la vida de todos nosotros, sigue teniendo un protagonismo relativamente menor, tanto en los medios de comunicación como en el debate público. Sí, de vez en cuando se habla de las pensiones, pero normalmente la conversación es muy superficial y con argumentos muy simples, quedando a menudo simplificado a un enfrentamiento entre ideologías y sin hacer un análisis detallado que ayude a entender los problemas y las posibles soluciones. Con este post voy a tratar de resumir algunos de estos puntos de forma sencilla para facilitar dicho debate.

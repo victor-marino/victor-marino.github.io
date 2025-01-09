@@ -43,7 +43,9 @@
           <article class="page-content  p-2">
             {{ .Content | emojify }}
             <!-- Comentario comments -->
-            {{- partial "comments" . }}
+            {{ if .Params.comments }}
+              {{- partial "comments" . }}
+            {{ end }}
           </article>
         </div>
       </div>
