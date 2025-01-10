@@ -58,7 +58,10 @@ header {
 /* Add some top padding to the content so that the header doesn't cover it */
 #content {
     padding-top: 70px;
+    height: 100d vh !important;
+    overflow: visible;
 }
+
 
 /* Move header out of the way when scrolling on phones, and reduce top padding. */
 @media (max-width: 768px) {
@@ -117,6 +120,23 @@ body {
 
 .toc {
     overflow: auto !important;
+}
+
+/* Make the website always take up the full visible height of the browser window */
+html {
+    height: 100dvh;
+}
+
+/* Make the body take up 100% of the available vertical space in the website, and allow elements inside it to expand to fill it */
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+}
+
+/* Make the content div expand to fill all the remaining vertical space inside the body */
+#content {
+    flex-grow: 1;
 }
 
 /* format links nicely in list pages */
