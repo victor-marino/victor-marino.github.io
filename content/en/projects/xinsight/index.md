@@ -1,13 +1,11 @@
 ---
 title: "X Insight"
-date: 2023-08-09T13:20:36+02:00
 layout: single
-socialShare: false
 showDate: false
+socialShare: false
 enableReadingTime: false
 toc: false
 ---
-
 X Insight is an unofficial, multiplatform and [open-source](https://github.com/victor-marino/xinsight) client for Indexa Capital.
 
 It's been developed in [Flutter](https://flutter.dev/), and it uses the [official Indexa Capital API](https://indexacapital.com/en/api-rest-v1) to read your account data securely.
@@ -21,7 +19,7 @@ It is currently available for Android.
 ## Download
 [![google_play_badge](/images/xinsight/google-play-badge-en.png)](https://play.google.com/store/apps/details?id=com.victormarino.indexax)
 
-You can find the privacy policy for X Insight [here](/xinsight/privacy-policy).
+You can find the privacy policy for X Insight [here](privacy-policy).
 
 If you have any questions or comments about the app, feel free to [contact me](mailto:xinsight@victormarino.com).
 
