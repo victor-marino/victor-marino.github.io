@@ -9,7 +9,7 @@
     ],
     "apps": [
         {
-            "name": "X Insight para Indexa Capital",
+            "name": "X Insight",
             "bundleIdentifier": "com.victormarino.xinsight",
             "marketplaceID": "6745303653",
             "developerName": "Víctor Marino",
