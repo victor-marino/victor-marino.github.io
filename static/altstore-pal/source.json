@@ -56,10 +56,7 @@
                 }
             ],
             "appPermissions": {
-                "entitlements": [
-                    "com.app.developer.team-identifier",
-                    "application-identifier"
-                ],
+                "entitlements": [],
                 "privacy": {
                     "NSFaceIDUsageDescription": "Autenticación biométrica para guardar tu token de forma segura."
                 }
