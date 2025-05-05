@@ -1,0 +1,77 @@
+{
+    "name": "Víctor Marino",
+    "iconURL": "https://victormarino.com/altstore-pal/icon.png",
+    "headerURL": "https://victormarino.com/altstore-pal/xinsight/images/feature_graphic.png",
+    "website": "https://victormarino.com",
+    "tintColor": "#416BA9",
+    "featuredApps": [
+        "com.victormarino.xinsight"
+    ],
+    "apps": [
+        {
+            "name": "X Insight para Indexa Capital",
+            "bundleIdentifier": "com.victormarino.xinsight",
+            "marketplaceID": "6745303653",
+            "developerName": "Víctor Marino",
+            "subtitle": "Una forma más visual de seguir tu cartera",
+            "localizedDescription": "Aplicación NO OFICIAL para acceder a la información de tu cuenta de Indexa Capital.\n\nConsulta el estado de tu cartera y su evolución con una interfaz clara y gráficos intuitivos.\n\nNota: Esta aplicación ha sido desarrollada de forma independiente y no tiene ninguna vinculación con Indexa Capital. Tu token sólo se utiliza para identificarte contra los servidores de Indexa Capital. Ni el token ni la información de tu cuenta se envían ni almacenan en ningún otro servidor, y son eliminados de tu dispositivo cuando cierras la sesión.",
+            "iconURL": "https://victormarino.com/altstore-pal/xinsight/images/logo.png",
+            "tintColor": "#416BA9",
+            "screenshots": [
+                {
+                    "imageURL": "https://victormarino.com/altstore-pal/xinsight/images/screenshot_01_500.png",
+                    "width": 463,
+                    "height": 925
+                },
+                {
+                    "imageURL": "https://victormarino.com/altstore-pal/xinsight/images/screenshot_02_500.png",
+                    "width": 463,
+                    "height": 925
+                },
+                {
+                    "imageURL": "https://victormarino.com/altstore-pal/xinsight/images/screenshot_03_500.png",
+                    "width": 463,
+                    "height": 925
+                },
+                {
+                    "imageURL": "https://victormarino.com/altstore-pal/xinsight/images/screenshot_04_500.png",
+                    "width": 463,
+                    "height": 925
+                },
+                {
+                    "imageURL": "https://victormarino.com/altstore-pal/xinsight/images/screenshot_05_500.png",
+                    "width": 463,
+                    "height": 925
+                }
+            ],
+            "versions": [
+                {
+                    "version": "1.12.0",
+                    "buildVersion": "48",
+                    "date": "2025-05-01",
+                    "size": 20000000,
+                    "downloadURL": "https://victormarino.com/altstore-pal/xinsight/adp/1.12.0/manifest.json",
+                    "localizedDescription": "Primera versión para AltStore!",
+                    "minOSVersion": "12.0"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [],
+                "privacy": {
+                    "NSFaceIDUsageDescription": "Autenticación biométrica para guardar tu token de forma segura."
+                }
+            }
+        }
+    ],
+    "news": [
+        {
+            "title": "Lanzamiento de X Insight en AltStore PAL",
+            "identifier": "20250505-xinsight_launch",
+            "caption": "Gracias a AltStore PAL, X Insight vuelve a estar disponible para iPhone!",
+            "date": "2025-05-05",
+            "imageURL": "https://victormarino.com/altstore-pal/xinsight/images/feature_graphic.png",
+            "notify": true,
+            "appID": "com.victormarino.xinsight"
+        }
+    ]
+}
