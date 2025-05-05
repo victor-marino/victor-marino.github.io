@@ -50,13 +50,12 @@
                     "buildVersion": "48",
                     "date": "2025-05-01",
                     "size": 25820160,
-                    "downloadURL": "https://victormarino.com/altstore-pal/xinsight/adp/1.12.0",
+                    "downloadURL": "https://victormarino.com/altstore-pal/xinsight/adp/1.12.0/",
                     "localizedDescription": "Primera versión para AltStore!",
                     "minOSVersion": "12.0"
                 }
             ],
             "appPermissions": {
-                "entitlements": [],
                 "privacy": {
                     "NSFaceIDUsageDescription": "Autenticación biométrica para guardar tu token de forma segura."
                 }
