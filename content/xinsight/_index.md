@@ -21,9 +21,7 @@ Está disponible para Android y iOS.
 ---
 
 ## Descargar
-[![google_play_badge](/images/xinsight/google-play-badge-es.png)](https://play.google.com/store/apps/details?id=com.victormarino.indexax)
-
-[![alstore_badge](/images/xinsight/altstore-badge-es.png)](altstore://source?URL=https://victormarino.com/altstore-pal/source.json)
+[![google_play_badge](/images/xinsight/google-play-badge-es.png)](https://play.google.com/store/apps/details?id=com.victormarino.indexax) [![alstore_badge](/images/xinsight/altstore-badge-es.png)](altstore://source?URL=https://victormarino.com/altstore-pal/source.json)
 
 Puedes consultar la política de privacidad de X Insight [aquí](privacy-policy).
 
