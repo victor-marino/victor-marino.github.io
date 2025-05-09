@@ -12,7 +12,9 @@ X Insight is an unofficial, multiplatform and [open-source](https://github.com/v
 
 It's been developed in [Flutter](https://flutter.dev/), and it uses the [official Indexa Capital API](https://indexacapital.com/en/api-rest-v1) to read your account data securely.
 
-It is currently available for Android.
+It is available for Android and iOS.
+
+> Note: The iOS version is distributed through AltStore PAL, an alternative app store for Europe. You can install AltStore PAL from its [official website](https://altstore.io/).
 
 <div><img src="/images/xinsight/screenshot_01_500.png" width=150/><img src="/images/xinsight/screenshot_02_500.png" width=150/><img src="/images/xinsight/screenshot_03_500.png" width=150/><img src="/images/xinsight/screenshot_04_500.png" width=150/><img src="/images/xinsight/screenshot_05_500.png" width=150/></div>
 
@@ -20,6 +22,8 @@ It is currently available for Android.
 
 ## Download
 [![google_play_badge](/images/xinsight/google-play-badge-en.png)](https://play.google.com/store/apps/details?id=com.victormarino.indexax)
+
+[![alstore_badge](/images/xinsight/altstore-badge-en.png)](altstore://source?URL=https://victormarino.com/altstore-pal/source.json)
 
 You can find the privacy policy for X Insight [here](/xinsight/privacy-policy).
 
