@@ -46,15 +46,6 @@
             ],
             "versions": [
                 {
-                    "version": "1.12.2",
-                    "buildVersion": "50",
-                    "date": "2025-05-13",
-                    "size": 25820160,
-                    "downloadURL": "https://raw.githubusercontent.com/victor-marino/xinsight/refs/heads/master/adp/1.12.2/",
-                    "localizedDescription": "Solucionado error al cambiar de cuenta",
-                    "minOSVersion": "12.0"
-                },
-                {
                     "version": "1.12.1",
                     "buildVersion": "49",
                     "date": "2025-05-09",
