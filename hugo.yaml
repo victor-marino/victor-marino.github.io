@@ -23,9 +23,17 @@ languages:
         - name: Blog
           url: /en/
           weight: 1
-        - name: X Insight
-          url: /en/xinsight
+        # - name: X Insight
+        #   url: /en/xinsight
+        #   weight: 2
+        - identifier: projects
+          name: Projects
           weight: 2
+        - identifier: xinsight
+          name: X Insight
+          url: /en/xinsight
+          parent: projects
+          weight: 1        
         - name: About me
           url: /en/about/
           weight: 3
@@ -60,9 +68,17 @@ languages:
         - name: Blog
           url: /
           weight: 1
-        - name: X Insight
-          url: /xinsight
+        # - name: X Insight
+        #   url: /xinsight
+        #   weight: 2
+        - identifier: projects
+          name: Proyectos
           weight: 2
+        - identifier: xinsight
+          name: X Insight
+          url: /xinsight
+          parent: projects
+          weight: 1
         - name: Sobre mí
           url: /about/
           weight: 3
@@ -81,7 +97,7 @@ languages:
         # Separator
         - name: "●"
           weight: 8
-          # Dropdown menu
+
     params:
       hero:
         enable: true
