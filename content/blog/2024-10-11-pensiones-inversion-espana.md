@@ -139,7 +139,7 @@ Debido a su amplia diversificación, su funcionamiento sistemático y sus bajos 
 
 Si nos fijamos en EEUU, el patrimonio gestionado por fondos y ETFs indexados ya supone **más del 50% del total invertido en fondos**, habiendo superado por primera vez a los fondos de gestión activa en 2024[^14]. Esto no es ninguna sorpresa, puesto que los flujos de capital llevaban muchos años siendo positivos hacia los fondos pasivos:
 
-![](/assets/passive_vs_active_flows_US.png)
+![](/assets/passive_vs_active_flows_us.png)
 
 Si nos fijamos en Europa, donde los sistemas de pensiones de reparto tienen un protagonismo mucho mayor, vemos unas cifras muy distintas[^15]:
 
