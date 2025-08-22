@@ -6,7 +6,6 @@ theme:
   - hugo-profile
 defaultContentLanguage: es
 defaultContentLanguageInSubdir: false
-
 languages:
   en:
     contentDir: content/en
@@ -33,7 +32,7 @@ languages:
           name: X Insight
           url: /en/xinsight
           parent: projects
-          weight: 1        
+          weight: 1
         - name: About me
           url: /en/about/
           weight: 3
@@ -398,7 +397,7 @@ outputFormats:
   RSS:
     baseName: = "rss"
 
-Paginate: 10
+Paginate: 20
 enableRobotsTXT: true
 # disqusShortname: your-disqus-shortname
 # googleAnalytics: G-MEASUREMENT_ID
@@ -473,11 +472,11 @@ params:
     textColor:
     secondaryTextColor:
     backgroundColor: linear-gradient(38.73deg,
-            rgb(0 37 204 / 25%) 0%,
-            rgba(201, 32, 184, 0) 50%),
-        linear-gradient(141.27deg,
-            rgba(0, 70, 209, 0) 50%,
-            rgb(174 0 209 / 25%) 100%);
+      rgb(0 37 204 / 25%) 0%,
+      rgba(201, 32, 184, 0) 50%),
+      linear-gradient(141.27deg,
+      rgba(0, 70, 209, 0) 50%,
+      rgb(174 0 209 / 25%) 100%);
     secondaryBackgroundColor:
     primaryColor: "#FFFFFF"
     secondaryColor:

@@ -1,10 +1,9 @@
 ---
 title: "Setting up Fastmail as a desktop email client in Linux Mint"
-date: 2025-07-05T00:00:00+02:00
+date: 2025-08-22T00:00:00+02:00
 author: "Víctor"
 url: "/en/fastmail-desktop-app-linux-mint"
 toc: false
-draft: true
 ---
 
 Although the ongoing demise of desktop applications in favour of web apps is affecting all operating systems, Linux users are especially familiar with it. Due to its comparatively small market share, Linux is typically the lowest hanging fruit when it comes to cutting on development efforts. The rise of powerful, highly functional web apps has only accelerated this trend.
@@ -35,7 +34,7 @@ The easy part. Let's launch Mint's built-in "Web Apps" feature and create a new 
 
 No need to change any defaults. Mint even includes an icon for Fastmail :-)
 
-> Note: I'm using the `betaapp.fastmail.com` domain only because I'm interested in Fastmail's offline mode, which at the time of this writing is a beta feature. You can of course use the regular `app.fastmail.com` domain if you prefer to stick to the stable version.
+> Note: I'm using the `betaapp.fastmail.com` domain because I'm interested in Fastmail's offline mode, which at the time of this writing is a beta feature. You can of course use the regular `app.fastmail.com` domain if you prefer to stick to the stable version.
 
 After doing this, you'll notice there's a new Fastmail app in your start menu. But what did we actually do here?
 
@@ -46,7 +45,7 @@ This means you can apply different settings, themes or extensions to this Firefo
 Feel free to pin this new app to your panel or any other place that's convenient to you.
 
 
-### 2. Opening 'mailto:' links in our new web app
+### 2. Opening mailto: links in our new web app
 
 While we're in our new web app, let's open the Fastmail settings, then go to "Mail preferences" and scroll down until we find a button that says `Make the default email app.`:
 
@@ -91,7 +90,7 @@ Luckily, the work has already been done for us by the excellent [PWA Links](http
 
 Just make sure to install the add-on in the Firefox instance where your web app lives, NOT on your main Firefox instance.
 
-> Note: As explained in the PWA Links repository, before installing the companion app for this extension you'll probably need to install a small package called `python3-is-python`. This is due to a little quirk in Mint's Python installation.
+> Note: As explained in the PWA Links repository, before installing the companion app for this extension you'll probably need to install a small package called `python3-is-python`. This is due to a little quirk in Linux Mint's Python installation.
 
 With this extension in place, external links in our emails will properly open in our main browser.
 
@@ -114,7 +113,7 @@ x-scheme-handler/mailto=WebApp-Fastmail3699.desktop
 [Added Associations]
 x-scheme-handler/mailto=WebApp-Fastmail3699.desktop;
 ```
-5. Save and flose the file.
+5. Save and close the file.
 
 If you now go back to the `Preferred Applications` menu, you'll see the Fastmail web app is now your default email client :)
 
@@ -131,20 +130,22 @@ Unfortunately, in its current state, Mailnagger has a couple of issues that prev
 1. When you click on an email notification, it will only launch your default email client if it's a native app. Due to a small issue with the code, web apps aren't launched.
 2. If you're using any desktop environment other than Gnome (e.g.: Cinnamon), notifications are a bit simpler and don't show a "Mark as Read" button amongst other things.
 
-I fixed both of these issues some time ago and submitted a [pull request](https://github.com/tikank/mailnagger/pull/6) to the developer, but unfortunately I haven't received any feedback yet. So right now, you have tww options:
+I fixed both of these issues some time ago and submitted a [pull request](https://github.com/tikank/mailnagger/pull/6) to the developer, but unfortunately I haven't received any feedback yet. So right now, you have two options:
 
-a) If you're OK with those drawbacks, you can go ahead and install the "official" Mailnagger daemon:
+a) If you're OK with those drawbacks, you can go ahead and install the official Mailnagger daemon:
 ```shell
 pipx install mailnagger
 ```
 By running `mailnagger-config` you can enter your account details and configure your preferences. The daemon will start as soon as you close the window.
 
-b) If the above features are important to you, you can install my modified version from [my personal repository](https://github.com/victor-marino/mailnagger/) by following these steps:
+b) If the above features are important to you, you can install [my modified version](https://github.com/victor-marino/mailnagger/) by following these steps:
 
-1. Clone the repository in any normal folder (e.g.: `/home/mailnagger`.
-2. ...
-3. ...
-4. ...
+1. Clone the repository to a folder of your choice. For instance, to clone it in `~/mailnagger`, navigate your terminal to `~/`, then run `git clone https://github.com/victor-marino/mailnagger`.
+2. Change to the directory where you just cloned the repository: `cd ~/mailnagger`.
+3. As explained in the `setup.py` file, build the project by running `python3 setup.py build`.
+4. Finally, install the app by running `pip install --break-system-packages .` (the dot is important as it points to the current folder).
+
+You can now run `mailnagger-config` normally in a terminal to configure mailnagger and start the daemon.
 
 That's it! You now have a fully integrated background service that checks for new email, notifies you when it arrives, and opens your Fastmail app when you click on those notifications.
 
@@ -165,7 +166,22 @@ Again, remember to replace `XXXX` with your own numbers.
 
 In case you're wondering where I got that line from, it's actually the launch command used by our Fastmail web app. You can find it by right clicking on the Fastmail icon (e.g.: in the start menu) and choosing "Properties".
 
-> Note: The official version of this applet will show a persistent icon even when there's no unread email, with a "0" number on it. I personally prefer the applet to disappear when there's no unread email, so I made a small change to its code to add that option, and submitted a [pull request](https://github.com/linuxmint/cinnamon-spices-applets/pull/7374) for it. Unfortunately it hasn't been merged yet, but feel free to take a look at my code and modify your applet locally as well if you'd like to have this option.
+> Note: The official version of this applet will show a persistent icon even when there's no unread email, with a "0" number on it. I personally prefer the icon to disappear when there's no unread email, so I made a small change to its code to add that option, and submitted a [pull request](https://github.com/linuxmint/cinnamon-spices-applets/pull/7374) for it. Unfortunately it hasn't been merged yet, but feel free to take a look at my code and modify your applet locally as well if you'd like to have this option.
 
 ### 7. (Fastmail only) Offline support
 
+One of the main disadvantages of webmail is losing the ability to use your email client at all when you don't have an internet connection. Sure, you won't be able to send or receive emails when offline anyway, but you may want to double check some important information on an previously received email, or work on a draft while your on a flight.
+
+Well, Fastmail recently introduced [offline support](https://www.fastmail.com/blog/offline-in-beta/), meaning you can now use the app without a connection! When you enable it, a (configurable) cache of messages will be saved locally on your PC.
+
+As of right now (August 2025), you need to be on the beta client to use it, though it should soon roll out to everyone.
+
+If it's already available to you, you can enable it by opening the Fastmail settings and clicking "Offline", then toggling the option.
+
+### Closing thoughts
+
+When I came across this problem, I spent a lot of time searching, reading and trying different solutions until I got the results that I wanted. I then decided to write this post in hopes that the next person looking for this would have an easier time than I did.
+
+Still, you could argue that was a lot of tinkering to get proper email on your PC, and you would be right. It's a shame that most email providers nowadays don't put in a little effort to at least create a decent wrapper around their desktop clients.
+
+Let's hope the situation changes, but for now, I hope my workaround helps you bridge that gap and have a more enjoyable email experience.
