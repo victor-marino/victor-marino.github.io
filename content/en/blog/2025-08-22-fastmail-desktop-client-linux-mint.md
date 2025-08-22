@@ -180,8 +180,8 @@ If it's already available to you, you can enable it by opening the Fastmail sett
 
 ### Closing thoughts
 
-When I came across this problem, I spent a lot of time searching, reading and trying different solutions until I got the results that I wanted. I then decided to write this post in hopes that the next person looking for this would have an easier time than I did.
+When I came across this problem, I spent a lot of time searching, reading and trying different solutions until I got just things working just the way I wanted. Every time I made progress, I found one more little thing that needed tweaking, and as you can see I ended up with a rather convoluted setup.
 
-Still, you could argue that was a lot of tinkering to get proper email on your PC, and you would be right. It's a shame that most email providers nowadays don't put in a little effort to at least create a decent wrapper around their desktop clients.
+But once set up, it just works, and I've been using it for weeks now without any issues. So I decided to write this post to document all of it, both for my own future reference and to save anybody else from having to research all of this from scratch all over again.
 
-Let's hope the situation changes, but for now, I hope my workaround helps you bridge that gap and have a more enjoyable email experience.
+We can only hope email providers will eventually start putting in the effort to at least create decent desktop wrappers for their webmail clients (which is essentially what we've done in this post). But in the meantime, I hope this workaround helps you bridge that gap and have a more enjoyable email experience ;)
