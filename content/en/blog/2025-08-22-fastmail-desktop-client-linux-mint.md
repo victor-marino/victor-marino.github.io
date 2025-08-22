@@ -180,7 +180,7 @@ If it's already available to you, you can enable it by opening the Fastmail sett
 
 ### Closing thoughts
 
-When I came across this problem, I spent a lot of time searching, reading and trying different solutions until I got just things working just the way I wanted. Every time I made progress, I found one more little thing that needed tweaking, and as you can see I ended up with a rather convoluted setup.
+When I came across this problem, I spent a lot of time searching, reading and trying different solutions until I got things working just the way I wanted. Every time I made progress, I found one more little thing that needed tweaking, and as you can see I ended up with a rather convoluted setup.
 
 But once set up, it just works, and I've been using it for weeks now without any issues. So I decided to write this post to document all of it, both for my own future reference and to save anybody else from having to research all of this from scratch all over again.
 
