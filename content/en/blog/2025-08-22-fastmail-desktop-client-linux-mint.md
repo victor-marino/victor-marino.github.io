@@ -140,11 +140,19 @@ By running `mailnagger-config` you can enter your account details and configure 
 
 b) If the above features are important to you, you can install [my modified version](https://github.com/victor-marino/mailnagger/) by following these steps:
 
-1. Clone the repository to a folder of your choice. For instance, to clone it in `~/mailnagger`, navigate your terminal to `~/`, then run `git clone https://github.com/victor-marino/mailnagger`.
+1. Clone the repository to a folder of your choice. For instance, to clone it in `~/mailnagger`, navigate your terminal to `~/`, then run:
+    ```shell
+    git clone https://github.com/victor-marino/mailnagger
+    ```
 2. Change to the directory where you just cloned the repository: `cd ~/mailnagger`.
-3. As explained in the `setup.py` file, build the project by running `python3 setup.py build`.
-4. Finally, install the app by running `pip install --break-system-packages .` (the dot is important as it points to the current folder).
-
+3. As explained in the `setup.py` file, build the project by running:
+    ```shell
+    python3 setup.py build
+    ```
+4. Finally, install the app by running:
+    ```shell
+    pip install --break-system-packages .
+    ```
 You can now run `mailnagger-config` normally in a terminal to configure mailnagger and start the daemon.
 
 That's it! You now have a fully integrated background service that checks for new email, notifies you when it arrives, and opens your Fastmail app when you click on those notifications.
