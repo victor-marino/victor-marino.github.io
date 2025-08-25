@@ -162,43 +162,32 @@ Muchos expertos concuerdan con esta visión. Por ejemplo, en el podcast de Index
 > 
 > [Yo creo que] También hay un componente de necesidad, y me explico: al final, por el pequeño peso que tiene el sistema público de pensiones americano, cualquier ciudadano americano tiene que pensar desde muy pronto en cómo va a ahorrar para subsistir una vez que se jubile. En ciertos países europeos, por el peso que tiene el sistema público de pensiones, el pensamiento es "cómo cotizo para que luego cuando llegue a mi jubilación tenga una pensión suficientemente holgada como para poder vivir". Y eso hace que tus hábitos de inversión cambien en cierta medida, porque tienes patrones distintos de ahorro. [...] Esto tiene implicaciones prácticas en cómo se comporta el inversor final en cada uno de los dos países.
 
-## Soluciones
+## Conclusiones
 
-Una vez entendidos los problemas, la siguiente pregunta es obvia: ¿qué se puede hacer?
+Una vez entendidos los problemas, la siguiente pregunta es obvia: ¿qué podemos hacer?
 
-Por desgracia, llegados a este punto no existe ninguna solución mágica que pueda arreglar la situación sin sacrificios importantes.
+Por desgracia, llegados a este punto no parece que exista ninguna solución mágica que pueda arreglar la situación de las pensiones sin sacrificios importantes.
 
-Iniciar ahora la transición hacia un sistema de capitalización implicaría casi con total seguridad una importante reducción en las cuantías percibidas por los pensionistas actuales, en la medida en que parte de las cotizaciones a la Seguridad Social de los trabajadores actuales se tendrían que desviar al nuevo sistema de ahorro de capitalización.
+Iniciar ahora la transición hacia un sistema de capitalización implicaría casi con total seguridad una importante reducción en las cuantías percibidas por los pensionistas actuales, al menos en términos reales, así como una reducción en el ahorro neto de los trabajadores en activo.
 
-Al mismo tiempo, los trabajadores que comenzasen este proceso ahora seguirían destinando parte de su salario a sostener el actual sistema de reparto, por lo que la acumulación en el nuevo sistema de capitalización también podría ser insuficiente para ellos.
+Esta transición posiblemente habría sido más fácil de abordar a comienzos de los años 2000, cuando la Seguridad Social tenía superávit y se constituyó el fondo de reserva. Quizá se podría haber utilizado ese superávit para mantener el poder adquisitivo de los pensionistas existentes a medida que se reducían las aportaciones de los trabajadores al sistema de reparto. Además, es posible que la Unión Europea hubiese visto con buenos ojos un excepcional endeudamiento público para este fin, puesto que a la postre hubiese redundado en un equilibrio presupuestario mucho más robusto para España.
 
-La transición posiblemente habría sido más fácil de abordar a comienzos de los años 2000, cuando la Seguridad Social tenía superávit y se constituyó el fondo de reserva. Se podría haber utilizado ese superávit para mantener el poder adquisitivo de los pensionistas a medida que se reducían las aportaciones al sistema de reparto durante dicha transición. También es posible que la Unión Europea hubiese visto con buenos ojos un excepcional endeudamiento público para este fin, puesto que a la postre hubiese redundado en un equilibrio presupuestario mucho más robusto para España.
+En cualquier caso, no podemos cambiar el pasado, y tampoco es objeto de este post especular sobre lo que harán los gobiernos futuros en materia de pensiones.
 
-Es posible que aún se pueda acometer una reforma de este tipo, pero la situación de déficit presupuestario en que está sumida España desde hace años haría difícil evitar un impacto directo en el poder adquisitivo de las pensiones de, al menos, dos generaciones.
+La conclusión principal que quiero extraer tiene que ver con la parte que sí está en nuestras manos: **nuestra cultura financiera y nuestros hábitos de ahorro e inversión**.
 
-Si no se hacen cambios importantes en el futuro próximo, lo más probable es que tarde o temprano sea inevitable comenzar a reducir la cuantía de las pensiones públicas. La reducción no tiene por qué ser en términos nominales - bastaría con congelarlas durante décadas, de modo que la inflación haga que en términos reales su valor vaya disminuyendo año tras año.
+Como he comentado antes, nuestro sistema público de pensiones nos empobrece doblemente: de forma directa, por la ausencia de rentabilidad y la destrucción de patrimonio; y de forma indirecta, creando una estructura de incentivos que perpetúa el analfabetismo financiero y provoca que el dinero que sí podemos ahorrar sea a menudo utilizado de forma subóptima.
 
-A partir de ahí, lo ideal sería que los futuros gobiernos también redujesen gradualmente los tipos impositivos de las cotizaciones a la seguridad social para acompañar esta transición, liberando un mayor porcentaje del salario bruto para que el trabajador pueda aportarlo a sistemas privados de ahorro e inversión. Sin embargo, y a riesgo de entrar en terreno puramente especulativo, sería toda una sorpresa pensar en una futura bajada de las cotizaciones obligatorias, viendo el historial de actuaciones en materia impositiva de todos nuestros gobiernos pasados.
+No hay mucho que podamos hacer con respecto a lo primero, pero no tenemos por qué conformarnos con lo segundo. Nunca es tarde para aprender, y por suerte a día de hoy sí tenemos acceso en España a buenos productos de inversión, de calidad y de bajo coste.
 
-Quizá un término medio pase por implantar la obligatoriedad de un nuevo sistema de capitalización, de forma que parte de las nuevas cotizaciones se vayan destinando paulatinamente a él, y cada vez un menor porcentaje se dedique al sistema de reparto.
+Ocurra lo que ocurra en el futuro, siempre estaremos en una mejor situación si:
+* Entendemos el funcionamiento de los mercados y lo que puede y no puede aportarnos la inversión
+* Aprendemos a distinguir los buenos de los malos productos de inversión y el riesgo asociado a ellos
+* Desarrollamos cuanto antes el hábito de ahorrar e invertir de forma sistemática lo que no vayamos a necesitar en el corto plazo
 
-En cualquier caso, parece sensato pensar que los ciudadanos tendrán que buscar la forma de ahorrar por su cuenta, al margen de las cotizaciones existentes, para complementar sus pensiones públicas de jubilación.
+Comunidades como [Bogleheads España](https://bogleheads.es) o entidades como [Indexa Capital](https://indexacapital.com) están ayudando enormemente a promover la cultura financiera en España, y la [Guía Boglehead](https://bogleheads.es/guia) es seguramente uno de los mejores recursos disponibles en español para iniciarse en el mundo de la inversión.
 
-## Conclusión
-
-España se encuentra actualmente en una situación difícil en lo que respecta a su sistema de pensiones. Lo que en principio debió ser una solución temporal motivada por una emergencia excepcional se ha terminado perpetuando durante décadas, generando una dramática relación de dependencia entre trabajadores y jubilados.
-
-Ante la ausencia de un componente de inversión, y por tanto de rentabilidad, el sistema adquiere una marcada estructura piramidal, que requiere de un ratio de trabajadores por pensionista que no es realista a largo plazo. Debido a esto, las pensiones de reparto se han convertido en un enorme lastre presupuestario para nuestro país, obligando a nuestros gobiernos a extraer cada año miles de millones de euros otras partidas para subsistir, pero sin solucionar el problema de base.
-
-Además, el sistema actual es profundamente injusto para sus partícipes, que ven cómo aportan enormes sumas de forma obligada a lo largo de su vida trabajadora, pero se jubilan sin un solo euro a su nombre. La acumulación y transmisión patrimonial entre generaciones queda profundamente dañada, cuando no eliminada por completo, lo cual lastra la generación de riqueza del país y acentúa aún más la dependencia de sus ciudadanos del Estado.
-
-Como colofón, las pensiones de reparto no sólo empobrecen al país: también contribuyen a perpetuar el analfabetismo financiero, que tiene un impacto aún mayor si cabe al desincentivar por completo la inversión privada, incluso entre aquellos que sí pueden permitirse ahorrar sistemáticamente, y dejándolos a merced de los bancos y sus deshonestas prácticas comerciales en materia de inversión.
-
-En las próximas décadas, los sucesivos gobiernos tendrán que tomar decisiones difíciles con respecto al actual sistema de pensiones, pero a día de hoy sólo podemos especular.
-
-La lógica dice que es probable que veamos una reducción paulatina en las prestaciones, al menos en términos reales, lo cual obligaría a los ciudadanos a buscar alternativas privadas para mantener su poder adquisitivo durante la jubilación. Esto podría despertar el interés por la inversión a largo plazo, e idealmente los gobiernos acompañarían esta tendencia incentivando vehículos colectivos que faciliten la acumulación de capital.
-
-Pero es una incógnita cómo se gestionará esta situación, y por ahora sólo podemos observar y, en la medida de lo posible, priorizar el ahorro y la inversión por cuenta propia en previsión de un escenario poco favorable.
+Desde este blog, trataré de escribir de forma esporádica sobre temas o dudas concretas que veo aparecer de forma recurrente entre la comunidad inversora, y que creo que merece la pena explicar de forma clara y accesible para todo el mundo. Espero que con el tiempo, estas explicaciones puedan servir como complemento a otros recursos más generales, quizá como una suerte de "preguntas frecuentes" sobre inversión, y que ayuden a despejar incógnitas y entender mejor el funcionamiento de los mercados.
 
 [^1]: [Wikipedia | Retiro Obrero](https://es.wikipedia.org/wiki/Retiro_Obrero)
 [^2]: [20 minutos | Así acabó la Guerra Civil con la peseta republicana hace ahora ochenta años](https://www.20minutos.es/lainformacion/economia-y-finanzas/asi-acabo-guerra-civil-con-peseta-republicana-hace-ahora-ochenta-anos-5368503/)
