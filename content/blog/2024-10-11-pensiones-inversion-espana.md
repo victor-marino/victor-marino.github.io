@@ -174,16 +174,16 @@ Esta transición posiblemente habría sido más fácil de abordar a comienzos de
 
 En cualquier caso, no podemos cambiar el pasado, y tampoco es objeto de este post especular sobre lo que harán los gobiernos futuros en materia de pensiones.
 
-La conclusión principal que quiero extraer tiene que ver con la parte que sí está en nuestras manos: **nuestra cultura financiera y nuestros hábitos de ahorro e inversión**.
+Por tanto, la conclusión principal que quiero extraer tiene que ver con la parte que sí está en nuestras manos: **nuestra cultura financiera y nuestros hábitos de ahorro e inversión**.
 
 Como he comentado antes, nuestro sistema público de pensiones nos empobrece doblemente: de forma directa, por la ausencia de rentabilidad y la destrucción de patrimonio; y de forma indirecta, creando una estructura de incentivos que perpetúa el analfabetismo financiero y provoca que el dinero que sí podemos ahorrar sea a menudo utilizado de forma subóptima.
 
 No hay mucho que podamos hacer con respecto a lo primero, pero no tenemos por qué conformarnos con lo segundo. Nunca es tarde para aprender, y por suerte a día de hoy sí tenemos acceso en España a buenos productos de inversión, de calidad y de bajo coste.
 
 Ocurra lo que ocurra en el futuro, siempre estaremos en una mejor situación si:
-* Entendemos el funcionamiento de los mercados y lo que puede y no puede aportarnos la inversión
-* Aprendemos a distinguir los buenos de los malos productos de inversión y el riesgo asociado a ellos
-* Desarrollamos cuanto antes el hábito de ahorrar e invertir de forma sistemática lo que no vayamos a necesitar en el corto plazo
+* Entendemos el funcionamiento de los mercados y lo que puede y no puede aportarnos la inversión.
+* Aprendemos a distinguir los buenos de los malos productos de inversión, y el riesgo asociado a ellos.
+* Desarrollamos cuanto antes el hábito de ahorrar e invertir de forma sistemática lo que no vayamos a necesitar en el corto plazo.
 
 Comunidades como [Bogleheads España](https://bogleheads.es) o entidades como [Indexa Capital](https://indexacapital.com) están ayudando enormemente a promover la cultura financiera en España, y la [Guía Boglehead](https://bogleheads.es/guia) es seguramente uno de los mejores recursos disponibles en español para iniciarse en el mundo de la inversión.
 
