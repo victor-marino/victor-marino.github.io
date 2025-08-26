@@ -50,7 +50,7 @@ Uno de los principales problemas de las pensiones basadas en el reparto es que s
 
 Por ejemplo, una inversión de 100.000€ realizada en enero de 1985 en un fondo indexado global (ignoremos para este ejercicio teórico la disponibilidad de vehículos indexados en aquella época) habría alcanzado en enero de 2024, 39 años después, un valor aproximado de 2.000.000€:
 
-![](/assets/msci_world_1985-2024.png)
+![](/assets/pensiones_inversion_espana/msci_world_1985-2024.png)
 *Backtest de una inversión de 100.000€ en un ETF indexado MSCI World: 1985-2024[^7]*
 
 Esto supone una revalorización de 20 veces el capital invertido, y una rentabilidad anualizada de un 8% aproximadamente. Incluso si tenemos en cuenta el efecto de la inflación en España a lo largo de esos 39 años, esos 2.000.000€ equivaldrían a unos 570.000€ de 1985[^8], lo cual seguiría suponiendo una revalorización de más de 5 veces el capital inicial en términos reales, y una rentabilidad real anualizada del 4,5%.
@@ -77,11 +77,11 @@ El ratio exacto que se necesitará dependerá a su vez de varios factores más, 
 
 ¿Qué significa esto? Pues que para mantener el sistema en funcionamiento se requiere de una **estructura piramidal**, en la que cada generación tiene al menos el doble de personas que la generación anterior.
 
-![](/assets/estructura_piramidal.png)
+![](/assets/pensiones_inversion_espana/estructura_piramidal.png)
 
 Tradicionalmente se ha considerado que un ratio de 2 trabajadores por pensionista es lo mínimo necesario para que estos sistemas sean sostenibles. Sin embargo, durante la última década España ha mantenido un ratio superior, de entre 2,2 y 2,4[^9], y aún así no ha podido evitar los tremendos desequilibrios a los que hemos llegado.
 
-![](/assets/ratio_afiliados_pensionistas.png)
+![](/assets/pensiones_inversion_espana/ratio_afiliados_pensionistas.png)
 
 Además, se espera que la situación empeore aún más una vez se jubile la denominada generación del *Baby Boom*, que en España hace referencia a los nacidos entre 1957 y 1977, fruto de la explosión demográfica de la posguerra. Dicha generación constituye hoy una masa laboral de más de 7 millones de trabajadores.
 
@@ -91,7 +91,7 @@ Como sabemos, los países van pasando por distintas fases demográficas, general
 
 El número de hijos por mujer, comúnmente llamado tasa de fertilidad o índice de fecundidad, llegó a ser de 3,01 en el año 1964. Desde entonces, ha ido bajando progresivamente hasta llegar a 1,16 en 2022[^10]. La evolución de la pirámide poblacional en España muestra este proceso[^11]:
 
-![](/assets/evolución_pirámide_población_españa.png)
+![](/assets/pensiones_inversion_espana/evolución_pirámide_población_españa.png)
 
 Como vemos, la previsión es que la pirámide pronto sea completamente invertida (parte superior más ancha que la base). Esta forma variará ligeramente entre distintos países desarrollados, pero la tendencia natural siempre irá en esta dirección.
 
@@ -139,11 +139,11 @@ Debido a su amplia diversificación, su funcionamiento sistemático y sus bajos 
 
 Si nos fijamos en EEUU, el patrimonio gestionado por fondos y ETFs indexados ya supone **más del 50% del total invertido en fondos**, habiendo superado por primera vez a los fondos de gestión activa en 2024[^14]. Esto no es ninguna sorpresa, puesto que los flujos de capital llevaban muchos años siendo positivos hacia los fondos pasivos:
 
-![](/assets/passive_vs_active_flows_us.png)
+![](/assets/pensiones_inversion_espana/passive_vs_active_flows_us.png)
 
 Si nos fijamos en Europa, donde los sistemas de pensiones de reparto tienen un protagonismo mucho mayor, vemos unas cifras muy distintas[^15]:
 
-![](/assets/passive_vs_active_aum_europe.png)
+![](/assets/pensiones_inversion_espana/passive_vs_active_aum_europe.png)
 
 Aunque los flujos también llevan años siendo favorables a los fondos indexados, el patrimonio que gestionaban a finales de 2023 se situaba tan solo en el 26,7%.
 
