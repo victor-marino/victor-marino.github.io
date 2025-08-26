@@ -4,6 +4,7 @@ date: 2025-08-22T00:00:00+02:00
 author: "Víctor"
 url: "/en/fastmail-desktop-app-linux-mint"
 toc: false
+comments: true
 ---
 
 Although the ongoing demise of desktop applications in favour of web apps is affecting all operating systems, Linux users are especially familiar with it. Due to its comparatively small market share, Linux is typically the lowest hanging fruit when it comes to cutting on development efforts. The rise of powerful, highly functional web apps has only accelerated this trend.

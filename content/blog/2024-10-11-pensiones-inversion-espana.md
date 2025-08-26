@@ -8,7 +8,7 @@ showTags: false
 comments: true
 ---
 
-Quería estrenar el blog con un tema que, a pesar de tener un impacto enorme sobre la vida de todos nosotros, sigue teniendo un protagonismo relativamente menor, tanto en los medios de comunicación como en el debate público. Sí, de vez en cuando se habla de las pensiones, pero normalmente la conversación es muy superficial y con argumentos muy simples, quedando a menudo simplificado a un enfrentamiento entre ideologías y sin hacer un análisis detallado que ayude a entender los problemas y las posibles soluciones. Con este post voy a tratar de resumir algunos de estos puntos de forma sencilla para facilitar dicho debate.
+Quería estrenar el blog con un tema que, a pesar de tener un impacto enorme sobre la vida de todos nosotros, sigue teniendo un protagonismo relativamente menor en los medios, y a menudo es fruto de confusiones y malentendidos para muchos ciudadanos. Con este post voy a tratar de dar una vista muy general sobre nuestro sistema de pensiones para, sobre todo, sentar las bases sobre cómo afecta a nuestra situación financiera y a nuestros hábitos de ahorro e inversión.
 
 ## Origen
 
@@ -50,8 +50,8 @@ Uno de los principales problemas de las pensiones basadas en el reparto es que s
 
 Por ejemplo, una inversión de 100.000€ realizada en enero de 1985 en un fondo indexado global (ignoremos para este ejercicio teórico la disponibilidad de vehículos indexados en aquella época) habría alcanzado en enero de 2024, 39 años después, un valor aproximado de 2.000.000€:
 
-![](/assets/MSCI_World_1985-2024.png)
-*Backtest de una inversión de 100.000€ en el ETF Amundi MSCI World V: 1985-2024[^7]*
+![](/assets/msci_world_1985-2024.png)
+*Backtest de una inversión de 100.000€ en un ETF indexado MSCI World: 1985-2024[^7]*
 
 Esto supone una revalorización de 20 veces el capital invertido, y una rentabilidad anualizada de un 8% aproximadamente. Incluso si tenemos en cuenta el efecto de la inflación en España a lo largo de esos 39 años, esos 2.000.000€ equivaldrían a unos 570.000€ de 1985[^8], lo cual seguiría suponiendo una revalorización de más de 5 veces el capital inicial en términos reales, y una rentabilidad real anualizada del 4,5%.
 
