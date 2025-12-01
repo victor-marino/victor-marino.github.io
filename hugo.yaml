@@ -128,7 +128,7 @@ languages:
         title: "Sobre mí"
         image: "/images/profile_picture.png"
         content: |-
-          Soy un ingeniero de software con una marcada formación en telecomunicaciones y redes móviles. Con más de 13 años de experiecia en el sector de las telecomunicaciones, he trabajado en diversos roles y áreas a lo largo de mi carrera: gestión de producto, diseño de red, monitorización y optimización de KPIs, servicios de baja latencia, aplicaciones 5G... así como numerosos proyectos de innovación.
+          Soy un ingeniero de software con una marcada formación en telecomunicaciones y redes móviles. Con más de 14 años de experiencia en el sector de las telecomunicaciones, he pasado por diversas áreas a lo largo de mi carrera: gestión de producto, diseño, monitorización y optimización de red, servicios de baja latencia, aplicaciones 5G... así como numerosos proyectos de innovación.
 
           Desde 2020, mi trabajo se centra en el desarrollo de APIs para exponer funcionalidades de red al exterior, haciendo las redes móviles más abiertas, eficientes e interoperables.
 
@@ -539,7 +539,7 @@ params:
     title: "About me"
     image: "/images/profile_picture.png"
     content: |-
-      I'm a software engineer with a strong background in telecommunications and mobile networks. With over 13 years of experience in the telco industry, I've worked in a wide range of roles and areas: product management, network design, KPI monitoring and optimization, low latency services, 5G applications... as well as many innovation projects.
+      I'm a software engineer with a strong background in telecommunications and mobile networks. With over 14 years of experience in the telco industry, I've worked in a wide range of areas: product management, network design, monitoring and optimization, low latency services, 5G applications... as well as many innovation projects.
 
       Since 2020, my work has been focused on developing APIs to expose network capabilities to the outside, making mobile networks more open, efficient and interoperable.
 
