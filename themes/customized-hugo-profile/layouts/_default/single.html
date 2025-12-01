@@ -44,7 +44,7 @@
             {{ .Content | emojify }}
             <!-- Comentario comments -->
             {{ if .Params.comments }}
-              {{- partial "comments" . }}
+            {{- partial "comments" (dict "pageId" .Params.commentPageId) }}
             {{ end }}
           </article>
         </div>

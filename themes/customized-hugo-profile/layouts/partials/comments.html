@@ -1,2 +1,2 @@
 <script defer src="https://comentario.victormarino.com/comentario.js"></script>
-<comentario-comments></comentario-comments>
+<comentario-comments{{ if .pageId }} page-id="{{ .pageId }}" {{ end }}></comentario-comments>
