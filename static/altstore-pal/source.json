@@ -3,6 +3,7 @@
     "iconURL": "https://victormarino.com/altstore-pal/icon.png",
     "headerURL": "https://victormarino.com/altstore-pal/xinsight/images/feature_graphic.png",
     "website": "https://victormarino.com",
+    "fediUsername": "victormarino",
     "tintColor": "#416BA9",
     "featuredApps": [
         "com.victormarino.xinsight"
